@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WT: taktická mapa</string>
+    
+    <string name="settings">Nastavení</string>
+    <string name="hide">Schovat</string>
+    <string name="danger">Varování na nebezpečí</string>
+    <string name="nodanger">Konec nebezpečí</string>
+    <string name="proximity_wrn">Vzdálenost:</string>
+    
+    
+    <string name="more">Víc nastavení</string>
+    <string name="connerror">Žádné spojení</string>
+    
+    <string name="gui">Nastavení rozhraní</string>
+    <string name="screenon">Nezhasínat obrazovku</string>
+    <string name="counters">Počítadla</string>
+    
+    <string name="ip_h">IP adresa</string>
+    <string name="find_ip">Najít IP</string>
+    <string name="set_ip">Nastavit IP</string>
+    <string name="ip">IP počítače s War Thunderem (bez portu):</string>
+    
+    
+    <string name="zoom_btns">Zoom tlačítka</string>
+    <string name="donate">Přispět</string>
+    <string name="touch_ctrl">Dotykové ovládání</string>
+    <string name="touch_ctrl_on">Odškrtnout pro lepší výkon</string>
+    <string name="touch_ctrl_off">Zaškrtnout pro využití multitouch</string>
+    <string name="enemy_vehicles">Nepřátelské vozidla</string>
+    <string name="friendly_vehicles">Zpřátelené vozidla</string>
+    <string name="friendly_structures">Zpřátelené stavby</string>
+    <string name="enemy_structures">Nepřátelské stavby</string>
+    
+    <string name="updates_speed">Četnost obnovy dat</string>
+    <string name="how_ip">"Návod jak získat IP adresu je na: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Pokud nevíš jak získat IP adresu klikni zde"</string>
+    <string name="ip_err">Špatná IP</string>
+    <string name="ip_err_wrong">"Vlož ip adresu ve formátu \r\nXXX.XXX.XXX.XXX \r\n Klikni na \"Pomoc\" pro nápovědu."</string>
+    <string name="ip_err_local">"127.0.0.1 není správná adresa. \r\n likni na \"Pomoc\" pro nápovědu."</string>
+    <string-array name="updates_speed_array">
+        <item >Velmi rychle</item>
+        <item >Rychle</item>
+        <item >Středně rychle</item>
+        <item >Pomaleji</item>
+        <item >Pomalu</item>
+        <item >Opravdu pomalu</item>
+        <item >5 sekund</item>
+    </string-array>
+
+     <string name="info_title">O aplikaci</string>
+    <string name="info_msg">
+        "Toto je neoficiální aplikace vytvořená fanoušky War Thunderu!\r\n"
+        "Tato aplikace je stále ve vývoji, jakekoli chyby nebo nápady na další funkce pište na:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        
+    </string>
+    <string name="donate_line">    
+        "Líbí se vám tato aplikace? Přispějte na její další vývoj na http://junkcode.net \r\n"
+        </string>
+     <string name="info_update_title">Novinky</string>
+ 
+    <string name="version">Verze aplikace:</string>
+    <string name="ok">OK</string>
+    <string name="ignore">Ignorovat</string>
+    <string name="cancel">Zpět</string>
+    <string name="help">Pomoc</string>
+    <string name="pref_header_notifications">Upozornění</string>
+    <string name="pref_header_general">Zobrazení</string>
+    <string name="pref_title_ringtone">Zvuk</string>
+    <string name="pref_header_data_sync">Připojení k počítači</string>
+    <string name="pref_ringtone_silent">Ticho</string>
+    
+     <string name="nowificonnected">Měl by ses připojit na lokální WiFi</string>
+
+    <string name="planeicons">Icony letade</string>
+        <string-array name="planes_icon_size">
+        <item >Velké</item>
+        <item >Střední</item>
+        <item >Malé</item>
+        <item >Hodně malé</item>
+    </string-array>
+    
+</resources>
+
