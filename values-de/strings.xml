@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder tactical map</string>
+    
+    <string name="settings">Einstellungen</string>
+    <string name="hide">ausblenden</string>
+    <string name="follow_plane">auf Spielerflugzeug zentrieren</string>
+    <string name="danger">Gegnerwarnung</string>
+    <string name="nodanger">Entwarnung</string>
+    <string name="proximity_wrn">Radius:</string>
+    
+    
+    <string name="more">weitere Einstellungen</string>
+    <string name="connerror">keine Verbindung</string>
+    
+    <string name="gui">GUI-Einstellungen</string>
+    <string name="screenon">Bildschirm angeschaltet lassen</string>
+    <string name="counters">Zähler</string>
+    
+    <string name="ip_h">IP-Adresse</string>
+    <string name="find_ip">richtige IP finden</string>
+    <string name="set_ip">IP eingeben</string>
+    <string name="ip">IP des Computers mit War Thunder (ohne Port):</string>
+    
+    
+    <string name="zoom_btns">Zoom-Buttons</string>
+    <string name="donate">Spenden</string>
+    <string name="touch_ctrl">Multitouch</string>
+    <string name="touch_ctrl_on">deaktivieren für bessere Performance</string>
+    <string name="touch_ctrl_off">aktivieren um Multitouch zu verwenden</string>
+    <string name="enemy_vehicles">gegnerische Fahrzeuge</string>
+    <string name="friendly_vehicles">verbündete Fahrzeuge</string>
+    <string name="friendly_structures">verbündete Gebäude</string>
+    <string name="enemy_structures">gegnerische Gebäude</string>
+    
+    <string name="updates_speed">Aktualisierungsrate</string>
+    <string name="updates_speed_det">bei Lag niedrigeren Wert probieren</string>
+    <string name="how_ip">"wie man seine IP-Adresse findet: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"wenn du nicht weisst wie du deine IP herausfindest, klick hier"</string>
+    <string name="ip_err">ungültige IP-Adresse</string>
+    <string name="ip_err_wrong">"IP im Format \r\nXXX.XXX.XXX.XXX \r\n eingeben."</string>
+    <string name="ip_err_local">"127.0.0.1 ist nicht die korrekte Adresse."</string>
+    <string-array name="updates_speed_array">
+        <item >sehr schnell</item>
+        <item >schnell</item>
+        <item >normal</item>
+        <item >langsam</item>
+        <item >langsamer</item>
+        <item >sehr langsam</item>
+        <item >5 Sekunden</item>
+    </string-array>
+
+     <string name="info_title">Über...</string>
+    <string name="info_msg">
+        "Dies ist eine inoffizielle App von einem War Thunder-Fan!\r\n"
+        "Die App ist noch in der Beta, aber ich freue mich über Bugmeldungen und neue Ideen unter:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+	      "deutsche Übersetzung von LoLmauZz\r\n"
+    </string>
+    <string name="donate_line">  
+        "Dir gefällt diese App? Spende unter http://junkcode.net um die Weiterentwicklung zu unterstützen.\r\n"
+        </string>
+     <string name="info_update_title">Neuigkeiten</string>
+     
+    <string name="version">App-Version:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">abbrechen</string>
+    <string name="help">Hilfe</string>
+    <string name="pref_header_notifications">Benachrichtigungen</string>
+    <string name="pref_header_general">Allgemein</string>
+    <string name="pref_title_ringtone">Signalton</string>
+    <string name="pref_header_data_sync">PC-Verbindung</string>
+    <string name="pref_ringtone_silent">lautlos</string>
+    
+    <string name="ignore">Ignorieren</string>
+    
+    <string name="nowificonnected">Bitte Verbindung mit lokalem WLAN herstellen</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder tactical map</string>
+    
+    <string name="settings">Ustawienia</string>
+    <string name="hide">Ukryj</string>
+    <string name="danger">Powiadomienie o zagrożeniu </string>
+    <string name="nodanger">Powiadomienie o bezpieczeństwie</string>
+    <string name="proximity_wrn">Obszar:</string>
+    
+    
+    <string name="more">Więcej ustawień</string>
+    <string name="connerror">Brak Połączenia</string>
+    
+    <string name="gui">Ustawienia GUI</string>
+    <string name="screenon">Utrzymaj włączony ekran</string>
+    <string name="counters">Kropki</string>
+    
+    <string name="ip_h">Adrez IP</string>
+    <string name="find_ip">Znajdź swoje IP</string>
+    <string name="set_ip">Ustaw IP</string>
+    <string name="ip">IP komputeraz z War Thunder (bez portu):</string>
+    
+    
+    <string name="zoom_btns">Przyciski Zoom</string>
+    <string name="donate">Wspomóż</string>
+    <string name="touch_ctrl">Kontrola dotykowa</string>
+    <string name="touch_ctrl_on">Wyłącz dla lepszej wydajności</string>
+    <string name="touch_ctrl_off">Włącz to by używać multitouch</string>
+    <string name="enemy_vehicles">Wrogie Pojazdy</string>
+    <string name="friendly_vehicles">Przyjacielskie Pojazdy</string>
+    <string name="friendly_structures">Przyjacielski struktury</string>
+    <string name="enemy_structures">Wrogie struktury</string>
+    
+    <string name="updates_speed">Prędkość aktualizacji</string>
+    <string name="how_ip">"Jak znaleźć swoje IP: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Jeśli nie wiesz jak znaleźć swoje IP kliknij tutaj"</string>
+    <string name="ip_err">Niewłaściwy adres IP</string>
+    <string name="ip_err_wrong">"wpisz adres w formacie \r\nXXX.XXX.XXX.XXX \r\n Kliknij na pomoc aby dowiedzieć się jak znaleźć właściwy adres."</string>
+    <string name="ip_err_local">"127.0.0.1 nie jest właściwym adresem. \r\n Kliknij na pomoc aby dowiedzieć się jak znaleźć właściwy adres."</string>
+    <string-array name="updates_speed_array">
+        <item >Bardzo Szybko</item>
+        <item >Szybko</item>
+        <item >Średnio</item>
+        <item >Wolniej</item>
+        <item >Wolno</item>
+        <item >Serio wolno</item>
+        <item >5 sek</item>
+    </string-array>
+
+     <string name="info_title">O</string>
+    <string name="info_msg">
+        "To nie oficjalna aplikacja zrobiona przez dana War Thunder!!\r\n"
+        "Ta aplikacja jest wciąż w stanie beta ale można zgłaszać bugi i pomysły na :\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"</string>
+    <string name="donate_line">  
+        "Lubisz tą aplikacje ? pokaż  to wspomagając autora na http://junkcode.net dla przyszłego rozwoju.\r\n"
+        </string>
+     <string name="info_update_title">Informacje o aktualizacji</string>
+     
+    <string name="version">Wersja Aplikacji:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="ignore">Ignorować</string>
+    <string name="help">Pomoc</string>
+    <string name="pref_header_notifications">Powiadomienia</string>
+    <string name="pref_header_general">Generalne</string>
+    <string name="pref_title_ringtone">Dźwięk</string>
+    <string name="pref_header_data_sync">Połączenie z PC</string>
+    <string name="pref_ringtone_silent">Cichy</string>
+    
+    <string name="nowificonnected">You should connect to your local WiFi</string>
+</resources>
