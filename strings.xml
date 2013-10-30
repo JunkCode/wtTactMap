@@ -5,7 +5,6 @@
     
     <string name="settings">Settings</string>
     <string name="hide">Hide</string>
-    <string name="follow_plane">Follow plane</string>
     <string name="danger">Danger notification</string>
     <string name="nodanger">OK notification</string>
     <string name="proximity_wrn">Radius:</string>
@@ -35,7 +34,6 @@
     <string name="enemy_structures">Enemy structures</string>
     
     <string name="updates_speed">Updates frequency</string>
-    <string name="updates_speed_det">Try lower if you experience lags</string>
     <string name="how_ip">"How to get an IP address see: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"If you don't know how to get your IP address click here"</string>
     <string name="ip_err">IP address not valid</string>
@@ -45,7 +43,7 @@
         <item >Very Fast</item>
         <item >Fast</item>
         <item >Medium</item>
-        <item >Slowlish</item>
+        <item >Slowish</item>
         <item >Slow</item>
         <item >Srsly slow</item>
         <item >5 sec</item>
@@ -57,7 +55,7 @@
         "This app is still in beta but feel free to contact me with bugs or new ideas at:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-	"Translation made by ...\r\n"
+        "I'm looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
         "Do you like this app? Say it by donation on http://junkcode.net for future development.\r\n"
@@ -77,4 +75,12 @@
     
     <string name="nowificonnected">You should connect to your local WiFi</string>
 
+    <string name="planeicons">Airplane icons</string>
+        <string-array name="planes_icon_size">
+        <item >Big</item>
+        <item >Medium</item>
+        <item >Small</item>
+        <item >Very small</item>
+    </string-array>
+    
 </resources>
