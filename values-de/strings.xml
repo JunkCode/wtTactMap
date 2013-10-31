@@ -5,7 +5,6 @@
     
     <string name="settings">Einstellungen</string>
     <string name="hide">ausblenden</string>
-    <string name="follow_plane">auf Spielerflugzeug zentrieren</string>
     <string name="danger">Gegnerwarnung</string>
     <string name="nodanger">Entwarnung</string>
     <string name="proximity_wrn">Radius:</string>
@@ -35,7 +34,6 @@
     <string name="enemy_structures">gegnerische Gebäude</string>
     
     <string name="updates_speed">Aktualisierungsrate</string>
-    <string name="updates_speed_det">bei Lag niedrigeren Wert probieren</string>
     <string name="how_ip">"wie man seine IP-Adresse findet: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"wenn du nicht weisst wie du deine IP herausfindest, klick hier"</string>
     <string name="ip_err">ungültige IP-Adresse</string>
@@ -77,4 +75,12 @@
     <string name="ignore">Ignorieren</string>
     
     <string name="nowificonnected">Bitte Verbindung mit lokalem WLAN herstellen</string>
+    
+    <string name="planeicons">Airplane icons</string>
+        <string-array name="planes_icon_size">
+        <item >Big</item>
+        <item >Medium</item>
+        <item >Small</item>
+        <item >Very small</item>
+    </string-array>
 </resources>

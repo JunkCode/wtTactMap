@@ -5,7 +5,6 @@
     
     <string name="settings">Impostazioni</string>
     <string name="hide">Nascondi</string>
-    <string name="follow_plane">Segui velivolo</string>
     <string name="danger">Notifiche pericolo</string>
     <string name="nodanger">Notifiche sicurezza</string>
     <string name="proximity_wrn">Raggio:</string>
@@ -35,7 +34,6 @@
     <string name="enemy_structures">Strutture nemiche</string>
     
     <string name="updates_speed">Frequenza aggiornamento</string>
-    <string name="updates_speed_det">Diminuisci in presenza di lag</string>
     <string name="how_ip">"Per sapere come ottenere un indirizzo IP vedi: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Se non sai come ottenere il tuo indirizzo IP clicca qui"</string>
     <string name="ip_err">Indirizzo IP non valido</string>
@@ -75,6 +73,14 @@
     <string name="pref_title_ringtone">Suoneria</string>
     <string name="pref_header_data_sync">Connessione PC</string>
     <string name="pref_ringtone_silent">Silenzioso</string>
+    
  		<string name="nowificonnected">Devi essere connesso alla rete WiFi locale</string>
     
+ 		<string name="planeicons">Airplane icons</string>
+        <string-array name="planes_icon_size">
+        <item >Big</item>
+        <item >Medium</item>
+        <item >Small</item>
+        <item >Very small</item>
+    </string-array>
 </resources>

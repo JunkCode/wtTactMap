@@ -72,4 +72,12 @@
     <string name="pref_ringtone_silent">Cichy</string>
     
     <string name="nowificonnected">You should connect to your local WiFi</string>
+    
+    <string name="planeicons">Airplane icons</string>
+        <string-array name="planes_icon_size">
+        <item >Big</item>
+        <item >Medium</item>
+        <item >Small</item>
+        <item >Very small</item>
+    </string-array>
 </resources>
