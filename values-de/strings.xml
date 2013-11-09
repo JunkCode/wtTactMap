@@ -76,11 +76,11 @@
     
     <string name="nowificonnected">Bitte Verbindung mit lokalem WLAN herstellen</string>
     
-    <string name="planeicons">Airplane icons</string>
+    <string name="planeicons">Flugzeug Symbole</string>
         <string-array name="planes_icon_size">
-        <item >Big</item>
-        <item >Medium</item>
-        <item >Small</item>
-        <item >Very small</item>
+        <item >Groß</item>
+        <item >Mittel</item>
+        <item >Klein</item>
+        <item >Sehr klein</item>
     </string-array>
 </resources>
