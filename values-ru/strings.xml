@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тактическая карта WarThunder</string>
+    
+    <string name="settings">Настройки</string>
+    <string name="hide">Скрыть</string>
+    <string name="danger">Угроза</string>
+    <string name="nodanger">Безопасно</string>
+    <string name="proximity_wrn">Радиус:</string>
+    
+    
+    <string name="more">Дополнительные настройки</string>
+    <string name="connerror">Нет соединения</string>
+    
+    <string name="gui">Настройки интерфейса</string>
+    <string name="screenon">Закрепить на экране</string>
+    <string name="counters">Счётчики</string>
+    
+    <string name="ip_h">IP адрес</string>
+    <string name="find_ip">Найти IP</string>
+    <string name="set_ip">Установка IP</string>
+    <string name="ip">IP Вашего компьютера(без порта):</string>
+    
+    
+    <string name="zoom_btns">Масштаб</string>
+    <string name="donate">Помощь проекту</string>
+    <string name="touch_ctrl">Сенсорное управление</string>
+    <string name="touch_ctrl_on">Снимите галочку для увеличения производительности</string>
+    <string name="touch_ctrl_off">Включите для активации мультитача</string>
+    <string name="enemy_vehicles">Вражеская техника</string>
+    <string name="friendly_vehicles">Дружественная техника</string>
+    <string name="friendly_structures">Дружественные строения</string>
+    <string name="enemy_structures">Вражеские строения</string>
+    
+    <string name="updates_speed">Частота обновлений</string>
+    <string name="how_ip">"Как получить IP адрес – смотрите тут: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Если Вы не знаете, как получить IP адрес – нажмите здесь"</string>
+    <string name="ip_err">IP адрес неверный</string>
+    <string name="ip_err_wrong">"Введите адрес в формате \r\nXXX.XXX.XXX.XXX \r\n Кликните на "Помощь" для получения детальных инструкций."</string>
+    <string name="ip_err_local">"127.0.0.1 неверный адрес. \r\n Кликните на "Помощь" для получения детальных инструкций."</string>
+    <string-array name="updates_speed_array">
+        <item >Очень быстро</item>
+        <item >Быстро</item>
+        <item >Средняя скорость</item>
+        <item >Медленнее</item>
+        <item >Медленно</item>
+        <item >Очень медленно</item>
+        <item >5 сек.</item>
+    </string-array>
+
+     <string name="info_title">О приложении</string>
+    <string name="info_msg">
+        "Это неофициальное приложение, сделанное для любителей War Thunder!\r\n"
+        "Это приложение всё ещё на стадии беты, но не стесняйтесь обращаться ко мне с ошибками или новыми идеями в:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Перевод на русский – Антон aka "StariyMetall"\r\n"        
+    </string>
+    <string name="donate_line">  
+        "Нравится ли вам это приложение? Скажите это пожертвованием на http://junkcode.net для будущего развития.\r\n"
+        </string>
+     <string name="info_update_title">Обновление новостей</string>
+     
+    <string name="version">Версия приложения:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отменить</string>
+    <string name="ignore">Игнорировать</string>
+    <string name="help">Помощь</string>
+    <string name="pref_header_notifications">Оповещения</string>
+    <string name="pref_header_general">Общее</string>
+    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_header_data_sync">Соединение с PC</string>
+    <string name="pref_ringtone_silent">Без звука</string>
+    
+    <string name="nowificonnected">Необходимо подключиться к WiFi</string>
+
+    <string name="planeicons">Иконки самолётов</string>
+        <string-array name="planes_icon_size">
+        <item >Большие</item>
+        <item >Средние</item>
+        <item >Маленькие</item>
+        <item >Очень маленькие</item>
+    </string-array>
+    
+</resources>
