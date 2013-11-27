@@ -1,86 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WarThunder tactical map</string>
+    <string name="app_name">WarThunder mapa táctico</string>
     
-    <string name="settings">Settings</string>
-    <string name="hide">Hide</string>
-    <string name="danger">Danger notification</string>
-    <string name="nodanger">OK notification</string>
-    <string name="proximity_wrn">Radius:</string>
-    
-    
-    <string name="more">More settings</string>
-    <string name="connerror">No connection</string>
-    
-    <string name="gui">GUI settings</string>
-    <string name="screenon">Keep screen on</string>
-    <string name="counters">Counters</string>
-    
-    <string name="ip_h">IP address</string>
-    <string name="find_ip">Find right IP</string>
-    <string name="set_ip">Set IP</string>
-    <string name="ip">IP of computer with War Thunder (without port):</string>
+    <string name="settings">Ajustes</string>
+    <string name="hide">Esconder</string>
+    <string name="danger">Aviso peligro</string>
+    <string name="nodanger">Notificación OK</string>
+    <string name="proximity_wrn">Radio:</string>
     
     
-    <string name="zoom_btns">Zoom buttons</string>
-    <string name="donate">Donate</string>
+    <string name="more">Más ajustes</string>
+    <string name="connerror">Sin Conexión</string>
+    
+    <string name="gui">GUI Ajustes</string>
+    <string name="screenon">Mantener pantalla encendida</string>
+    <string name="counters">Unidades</string>
+    
+    <string name="ip_h">Dirección IP</string>
+    <string name="find_ip">Econtrar IP correcta</string>
+    <string name="set_ip">Configurar IP</string>
+    <string name="ip">IP del ordenador con War Thunder (sin puerto):</string>
+    
+    
+    <string name="zoom_btns">Botones Zoom</string>
+    <string name="donate">Donar</string>
     <string name="touch_ctrl">Touch control</string>
-    <string name="touch_ctrl_on">Disable this for better performance</string>
-    <string name="touch_ctrl_off">Enable this for using multitouch</string>
-    <string name="enemy_vehicles">Enemy vehicles</string>
-    <string name="friendly_vehicles">Friendly vehicles</string>
-    <string name="friendly_structures">Friendly structures</string>
-    <string name="enemy_structures">Enemy structures</string>
+    <string name="touch_ctrl_on">Deshabilitar para mejor funcionamiento</string>
+    <string name="touch_ctrl_off">Habilitar para usar "multitouch"</string>
+    <string name="enemy_vehicles">Vehículos enemigos</string>
+    <string name="friendly_vehicles">Vehículos aliados</string>
+    <string name="friendly_structures">Estructuras aliadas</string>
+    <string name="enemy_structures">Estructuras enemigas</string>
     
-    <string name="updates_speed">Updates frequency</string>
-    <string name="how_ip">"How to get an IP address see: http://ip.junkcode.net/"</string>
-    <string name="how_ip_der">"If you don't know how to get your IP address click here"</string>
-    <string name="ip_err">IP address not valid</string>
-    <string name="ip_err_wrong">"input address in format \r\nXXX.XXX.XXX.XXX \r\n Click on Help for guide to get right one."</string>
-    <string name="ip_err_local">"127.0.0.1 is not right address. \r\n Click on Help for guide to get right one."</string>
+    <string name="updates_speed">Velocidad de refresco</string>
+    <string name="how_ip">"Cómo conseguir una IP, ver en: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Si no sabes cómo conseguir tu dirección IP apreta aquí"</string>
+    <string name="ip_err">Dirección IP no válida</string>
+    <string name="ip_err_wrong">"Formato de dirección IP: \r\nXXX.XXX.XXX.XXX \r\n Apreta en Ayuda para informarte de cómo conseguir una."</string>
+    <string name="ip_err_local">"127.0.0.1 no es una dirección correcta. \r\n Apreta en Ayuda para informarte de cómo conseguir una."</string>
     <string-array name="updates_speed_array">
-        <item >Very Fast</item>
-        <item >Fast</item>
-        <item >Medium</item>
-        <item >Slowish</item>
-        <item >Slow</item>
-        <item >Srsly slow</item>
+        <item >Muy Rápido</item>
+        <item >Rápido</item>
+        <item >Medio</item>
+        <item >Lento</item>
+        <item >Muy lento</item>
+        <item >Seriosamente lento</item>
         <item >5 sec</item>
     </string-array>
 
-     <string name="info_title">About</string>
+     <string name="info_title">Sobre...</string>
     <string name="info_msg">
-        "This is unofficial app made by War Thunder fan!\r\n"
-        "This app is still in beta but feel free to contact me with bugs or new ideas at:\r\n"
+        "¡Esta es una app no oficial hecha por un fan de War Thunder!\r\n"
+        "La app está todavía en beta pero no dudes en contactar con migo con problemas o nuevas ideas:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "I'm looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Estoy buscando gente para traducir ésta App, si tu quieres ayudar mira en: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Traducción hecha por Shinichi (CrazyShini)\r\n"
     </string>
     <string name="donate_line">  
-        "Do you like this app? Say it by donation on http://junkcode.net for future development.\r\n"
+        "¿Te gustó la APP?Do you like this app? Dilo con una donación en http://junkcode.net for future development.\r\n"
         </string>
-     <string name="info_update_title">Update news</string>
+     <string name="info_update_title">Noticias de actualización</string>
      
-    <string name="version">App Version:</string>
+    <string name="version">Versión de App:</string>
     <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="ignore">Ignore</string>
-    <string name="help">Help</string>
-    <string name="pref_header_notifications">Notifications</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ignore">Ignorar</string>
+    <string name="help">Ayuda</string>
+    <string name="pref_header_notifications">Notificaciones</string>
     <string name="pref_header_general">General</string>
-    <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_header_data_sync">PC connection</string>
-    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_ringtone">Sonido</string>
+    <string name="pref_header_data_sync">Conexión PC</string>
+    <string name="pref_ringtone_silent">Silenciar</string>
     
-    <string name="nowificonnected">You should connect to your local WiFi</string>
+    <string name="nowificonnected">Debes estar conectado en tu red WiFi</string>
 
-    <string name="planeicons">Airplane icons</string>
+    <string name="planeicons">Tamaño de los aviones</string>
         <string-array name="planes_icon_size">
-        <item >Big</item>
-        <item >Medium</item>
-        <item >Small</item>
-        <item >Very small</item>
+        <item >Grande</item>
+        <item >Medio</item>
+        <item >Pequeño</item>
+        <item >Muy pequeño</item>
     </string-array>
     
 </resources>
