@@ -84,7 +84,7 @@
     </string-array>
     
     <string name="lines">Navigation lines</string>
-    <string name="lines_oos">To offscreen</string>
+    <string name="lines_oos">Only to offscreen</string>
     <string name="lines_enemy">Enemies</string>
     <string name="lines_friendly">Friendlies</string>
     <string name="lines_squad">Squad</string>
