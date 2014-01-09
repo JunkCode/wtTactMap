@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WarThunder tactical map</string>
+    <string name="app_name">WarThunder mapa tático</string>
     
-    <string name="settings">Settings</string>
-    <string name="hide">Hide</string>
-    <string name="danger">Danger notification</string>
-    <string name="nodanger">OK notification</string>
-    <string name="proximity_wrn">Radius:</string>
-    
-    
-    <string name="more">More settings</string>
-    <string name="connerror">No connection</string>
-    
-    <string name="gui">GUI settings</string>
-    <string name="screenon">Keep screen on</string>
-    <string name="counters">Counters</string>
-    
-    <string name="ip_h">IP address</string>
-    <string name="find_ip">Find right IP</string>
-    <string name="set_ip">Set IP</string>
-    <string name="ip">IP of computer with War Thunder (without port):</string>
+    <string name="settings">Configurações</string>
+    <string name="hide">Esconder</string>
+    <string name="danger">Notificação de Peridgo</string>
+    <string name="nodanger">Notificação de OK</string>
+    <string name="proximity_wrn">Raio:</string>
     
     
-    <string name="zoom_btns">Zoom buttons</string>
-    <string name="donate">Donate</string>
-    <string name="touch_ctrl">Touch control</string>
-    <string name="touch_ctrl_on">Disable this for better performance</string>
-    <string name="touch_ctrl_off">Enable this for using multitouch</string>
-    <string name="enemy_vehicles">Enemy vehicles</string>
-    <string name="friendly_vehicles">Friendly vehicles</string>
-    <string name="friendly_structures">Friendly structures</string>
-    <string name="enemy_structures">Enemy structures</string>
+    <string name="more">Mais Configurações</string>
+    <string name="connerror">Sem Conecção</string>
     
-    <string name="updates_speed">Updates frequency</string>
-    <string name="how_ip">"How to get an IP address see: http://ip.junkcode.net/"</string>
-    <string name="how_ip_der">"If you don't know how to get your IP address click here"</string>
-    <string name="ip_err">IP address not valid</string>
-    <string name="ip_err_wrong">"input address in format \r\nXXX.XXX.XXX.XXX \r\n Click on Help for guide to get right one."</string>
-    <string name="ip_err_local">"127.0.0.1 is not right address. \r\n Click on Help for guide to get right one."</string>
+    <string name="gui">GUI Configurações</string>
+    <string name="screenon">Manter na Tela</string>
+    <string name="counters">Contadores</string>
+    
+    <string name="ip_h">Endereço de IP</string>
+    <string name="find_ip">Procurar IP correto</string>
+    <string name="set_ip">Adicionar IP</string>
+    <string name="ip">IP do computador com War Thunder (without port):</string>
+    
+    
+    <string name="zoom_btns">Botões de Zoom</string>
+    <string name="donate">Avaliar</string>
+    <string name="touch_ctrl">Controle de Toque</string>
+    <string name="touch_ctrl_on">Desative Para Melhor Performance</string>
+    <string name="touch_ctrl_off">Ative Para Usar o MultControle</string>
+    <string name="enemy_vehicles">Veículos Inimigos</string>
+    <string name="friendly_vehicles">Veículos Amigos</string>
+    <string name="friendly_structures">AA Amigos</string>
+    <string name="enemy_structures">AA Inimigos</string>
+    
+    <string name="updates_speed">Freguencia de Updates</string>
+    <string name="how_ip">"Veja Como Conseguir o Endereço de IP: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Se Você Não Souber Como Conseguir o Endereço de IP Clique Aqui"</string>
+    <string name="ip_err">Endereço de IP Não é Valido</string>
+    <string name="ip_err_wrong">"Entrada de Endereço No Formato \r\nXXX.XXX.XXX.XXX \r\n Clique em Ajuda Para Conseguir o Correto."</string>
+    <string name="ip_err_local">"127.0.0.1 Não é o Verdadeiro. \r\n Clique em Ajuda Para Conseguir o Correto."</string>
     <string-array name="updates_speed_array">
-        <item >Very Fast</item>
-        <item >Fast</item>
-        <item >Medium</item>
-        <item >Slowish</item>
-        <item >Slow</item>
-        <item >Srsly slow</item>
+        <item >Muito Rápido</item>
+        <item >Rápido</item>
+        <item >Médio</item>
+        <item >Normal</item>
+        <item >Devagar</item>
+        <item >Muito Devagar</item>
         <item >5 sec</item>
     </string-array>
 
-     <string name="info_title">About</string>
+     <string name="info_title">Sobre</string>
     <string name="info_msg">
-        "This is unofficial app made by War Thunder fan!\r\n"
+        "Este é um mapa não official feito por um fan!\r\n"
         "This app is still in beta but feel free to contact me with bugs or new ideas at:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
@@ -62,31 +62,31 @@
         </string>
      <string name="info_update_title">Update news</string>
      
-    <string name="version">App Version:</string>
+    <string name="version">Versão do APP:</string>
     <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="ignore">Ignore</string>
-    <string name="help">Help</string>
-    <string name="pref_header_notifications">Notifications</string>
-    <string name="pref_header_general">General</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ignore">Ignorar</string>
+    <string name="help">Ajuda</string>
+    <string name="pref_header_notifications">Notificões</string>
+    <string name="pref_header_general">Geral</string>
     <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_header_data_sync">PC connection</string>
-    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_header_data_sync">Conecção com o PC</string>
+    <string name="pref_ringtone_silent">Silencioso</string>
     
-    <string name="nowificonnected">You should connect to your local WiFi</string>
+    <string name="nowificonnected">Você deve conectar ao WIFI local</string>
 
-    <string name="planeicons">Airplane icons</string>
+    <string name="planeicons">Icone dos Aviões</string>
         <string-array name="planes_icon_size">
-        <item >Big</item>
-        <item >Medium</item>
-        <item >Small</item>
-        <item >Very small</item>
+        <item >Grande</item>
+        <item >Médio</item>
+        <item >Pequeno</item>
+        <item >Muito Pequeno</item>
     </string-array>
     
-    <string name="lines">Navigation lines</string>
-    <string name="lines_oos">Only to offscreen</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
+    <string name="lines">Linhas de Navegação</string>
+    <string name="lines_oos">Somente Fora da Tela</string>
+    <string name="lines_enemy">Inimigos</string>
+    <string name="lines_friendly">Linhas Amigas</string>
+    <string name="lines_squad">Esquadrão</string>
+    <string name="lines_target">Alvo</string>
 </resources>
