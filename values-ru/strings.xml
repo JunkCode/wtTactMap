@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">Масштаб</string>
     <string name="donate">Помощь проекту</string>
-    <string name="touch_ctrl">Сенсорное управление</string>
-    <string name="touch_ctrl_on">Снимите галочку для увеличения производительности</string>
-    <string name="touch_ctrl_off">Включите для активации мультитача</string>
     <string name="enemy_vehicles">Вражеская техника</string>
     <string name="friendly_vehicles">Дружественная техника</string>
     <string name="friendly_structures">Дружественные строения</string>
@@ -90,5 +87,12 @@
     <string name="lines_squad">Squad</string>
     <string name="lines_target">Target</string>
     
+    <string name="hide_gp_login">Hide G+ Login button</string>
     
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Add</string>
 </resources>

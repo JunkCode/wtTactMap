@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">Pulsanti zoom</string>
     <string name="donate">Donazione</string>
-    <string name="touch_ctrl">Controlli touch</string>
-    <string name="touch_ctrl_on">Disattiva per prestazioni migliori</string>
-    <string name="touch_ctrl_off">Attiva per abilitare Multi-Touch</string>
     <string name="enemy_vehicles">Veicoli nemici</string>
     <string name="friendly_vehicles">Veicoli alleati</string>
     <string name="friendly_structures">Strutture alleate</string>
@@ -91,4 +88,12 @@
     <string name="lines_squad">Squad</string>
     <string name="lines_target">Target</string>
     
+    <string name="hide_gp_login">Hide G+ Login button</string>
+    
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Add</string>
 </resources>

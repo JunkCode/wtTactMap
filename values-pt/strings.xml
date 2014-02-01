@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">Botões de Zoom</string>
     <string name="donate">Avaliar</string>
-    <string name="touch_ctrl">Controle de Toque</string>
-    <string name="touch_ctrl_on">Desative Para Melhor Performance</string>
-    <string name="touch_ctrl_off">Ative Para Usar o MultControle</string>
     <string name="enemy_vehicles">Veículos Inimigos</string>
     <string name="friendly_vehicles">Veículos Amigos</string>
     <string name="friendly_structures">AA Amigos</string>
@@ -54,6 +51,8 @@
         "Este é um mapa não official feito por um fan!\r\n"
         "This app is still in beta but feel free to contact me with bugs or new ideas at:\r\n"
         "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Portuguese translation (by xxdvgxx) \r\n"
         "\r\n"
         "I'm looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
@@ -89,4 +88,13 @@
     <string name="lines_friendly">Linhas Amigas</string>
     <string name="lines_squad">Esquadrão</string>
     <string name="lines_target">Alvo</string>
+    
+    <string name="hide_gp_login">Hide G+ Login button</string>
+    
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Add</string>
 </resources>

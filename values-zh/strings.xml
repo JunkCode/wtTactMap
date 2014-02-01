@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">缩放按钮</string>
     <string name="donate">Donate</string>
-    <string name="touch_ctrl">触摸控制（似乎没用）</string>
-    <string name="touch_ctrl_on">Disable this for better performance</string>
-    <string name="touch_ctrl_off">Enable this for using multitouch</string>
     <string name="enemy_vehicles">敌方载具</string>
     <string name="friendly_vehicles">友方载具</string>
     <string name="friendly_structures">友方建筑物</string>
@@ -90,5 +87,12 @@
     <string name="lines_squad">Squad</string>
     <string name="lines_target">Target</string>
     
+    <string name="hide_gp_login">Hide G+ Login button</string>
     
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Add</string>
 </resources>

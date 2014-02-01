@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">Botones Zoom</string>
     <string name="donate">Donar</string>
-    <string name="touch_ctrl">Touch control</string>
-    <string name="touch_ctrl_on">Deshabilitar para mejor funcionamiento</string>
-    <string name="touch_ctrl_off">Habilitar para usar "multitouch"</string>
     <string name="enemy_vehicles">Vehículos enemigos</string>
     <string name="friendly_vehicles">Vehículos aliados</string>
     <string name="friendly_structures">Estructuras aliadas</string>
@@ -49,7 +46,7 @@
         <item >5 sec</item>
     </string-array>
 
-     <string name="info_title">Sobre...</string>
+     <string name="info_title">"Sobre&#8230;"</string>
     <string name="info_msg">
         "¡Esta es una app no oficial hecha por un fan de War Thunder!\r\n"
         "La app está todavía en beta pero no dudes en contactar con migo con problemas o nuevas ideas:\r\n"
@@ -90,5 +87,12 @@
     <string name="lines_squad">Squad</string>
     <string name="lines_target">Target</string>
     
+    <string name="hide_gp_login">Hide G+ Login button</string>
     
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Add</string>
 </resources>

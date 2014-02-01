@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">Przyciski Zoom</string>
     <string name="donate">Wspomóż</string>
-    <string name="touch_ctrl">Kontrola dotykowa</string>
-    <string name="touch_ctrl_on">Wyłącz dla lepszej wydajności</string>
-    <string name="touch_ctrl_off">Włącz to by używać multitouch</string>
     <string name="enemy_vehicles">Wrogie Pojazdy</string>
     <string name="friendly_vehicles">Przyjacielskie Pojazdy</string>
     <string name="friendly_structures">Przyjacielski struktury</string>
@@ -87,5 +84,14 @@
     <string name="lines_friendly">Friendlies</string>
     <string name="lines_squad">Squad</string>
     <string name="lines_target">Target</string>
+    
+    <string name="hide_gp_login">Hide G+ Login button</string>
+    
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Add</string>
     
 </resources>
