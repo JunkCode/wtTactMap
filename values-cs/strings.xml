@@ -25,9 +25,6 @@
     
     <string name="zoom_btns">Zoom tlačítka</string>
     <string name="donate">Přispět</string>
-    <string name="touch_ctrl">Dotykové ovládání</string>
-    <string name="touch_ctrl_on">Odškrtnout pro lepší výkon</string>
-    <string name="touch_ctrl_off">Zaškrtnout pro využití multitouch</string>
     <string name="enemy_vehicles">Nepřátelské vozidla</string>
     <string name="friendly_vehicles">Zpřátelené vozidla</string>
     <string name="friendly_structures">Zpřátelené stavby</string>
@@ -75,7 +72,7 @@
     
      <string name="nowificonnected">Měl by ses připojit na lokální WiFi</string>
 
-    <string name="planeicons">Icony letade</string>
+    <string name="planeicons">Ikony letadel</string>
         <string-array name="planes_icon_size">
         <item >Velké</item>
         <item >Střední</item>
@@ -90,5 +87,13 @@
     <string name="lines_squad">Squad</string>
     <string name="lines_target">Target</string>
     
+    <string name="hide_gp_login">Schovat tlačítko G+ loginu</string>
+    
+    <string name="fullscreen">Celá obrazovka</string>
+    <string name="connect">Hrát s přáteli</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Ovládání waypointů</string>
+    <string name="add">Přidat</string>
 </resources>
 
