@@ -5,7 +5,7 @@
     
     <string name="settings">Configurações</string>
     <string name="hide">Esconder</string>
-    <string name="danger">Notificação de Peridgo</string>
+    <string name="danger">Notificação de Perigo</string>
     <string name="nodanger">Notificação de OK</string>
     <string name="proximity_wrn">Raio:</string>
     
@@ -27,8 +27,8 @@
     <string name="donate">Avaliar</string>
     <string name="enemy_vehicles">Veículos Inimigos</string>
     <string name="friendly_vehicles">Veículos Amigos</string>
-    <string name="friendly_structures">AA Amigos</string>
-    <string name="enemy_structures">AA Inimigos</string>
+    <string name="friendly_structures">AAA Amigos</string>
+    <string name="enemy_structures">AAA Inimigos</string>
     
     <string name="updates_speed">Freguencia de Updates</string>
     <string name="how_ip">"Veja Como Conseguir o Endereço de IP: http://ip.junkcode.net/"</string>
