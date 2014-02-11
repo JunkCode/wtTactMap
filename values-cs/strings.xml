@@ -80,12 +80,12 @@
         <item >Hodně malé</item>
     </string-array>
     
-    <string name="lines">Navigation lines</string>
-    <string name="lines_oos">Only to offscreen</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
+    <string name="lines">Navigační čáry</string>
+    <string name="lines_oos">Jen když je cíl mimo obrazovku</string>
+    <string name="lines_enemy">Nepřátelé</string>
+    <string name="lines_friendly">Spojenci</string>
+    <string name="lines_squad">Skupina</string>
+    <string name="lines_target">Cíl</string>
     
     <string name="hide_gp_login">Schovat tlačítko G+ loginu</string>
     
