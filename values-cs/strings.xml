@@ -95,5 +95,7 @@
     <string name="waypoint">Waypoint</string>
     <string name="waypoint_ctrl">Ovládání waypointů</string>
     <string name="add">Přidat</string>
+    
+    <string name="horizontal_distance">Horizontální vzdálenost</string>
 </resources>
 

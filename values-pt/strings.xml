@@ -97,4 +97,6 @@
     <string name="waypoint">Waypoint</string>
     <string name="waypoint_ctrl">Waypoint controls</string>
     <string name="add">Add</string>
+    
+    <string name="horizontal_distance">Show horizontal distance</string>
 </resources>
