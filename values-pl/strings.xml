@@ -17,7 +17,7 @@
 	<string name="screenon">Utrzymuj włączony ekran</string>
 	<string name="counters">Kropki</string>
 	
-	<string name="ip_h">Adrez IP</string>
+	<string name="ip_h">Adres IP</string>
 	<string name="find_ip">Znajdź swoje IP</string>
 	<string name="set_ip">Ustaw IP</string>
 	<string name="ip">IP komputera z War Thunder (bez portu):</string>
@@ -79,7 +79,7 @@
 	</string-array>
 	
 	<string name="lines">Linie nawigacyjne</string>
-	<string name="lines_oos">Tylko poza wyświetlaczem</string>
+	<string name="lines_oos">Tylko dla celów poza wyświetlaczem</string>
 	<string name="lines_enemy">Przeciwnicy</string>
 	<string name="lines_friendly">Sojusznicy</string>
 	<string name="lines_squad">Oddział</string>
@@ -95,5 +95,5 @@
 	<string name="add">Dodaj</string>
 
 
-    <string name="horizontal_distance">Show horizontal distance</string>
+    <string name="horizontal_distance">Pokaż odległość horyzontalną</string>
 </resources>
