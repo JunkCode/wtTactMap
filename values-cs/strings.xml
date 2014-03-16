@@ -97,5 +97,18 @@
     <string name="add">Přidat</string>
     
     <string name="horizontal_distance">Horizontální vzdálenost</string>
+    
+    <string name="pref_header_extras">Extra</string>
+    <string name="prediction">Predikce</string>
+    <string name="self">Vlastní</string>
+    <string name="show_intro_screen">Úvodní obrazovka</string>
+    
+    <string name="ext_unlock">Odemknout extra funkce</string>
+    <string name="ext_unlock_det">
+        "Extra funkce jsou odemčeny přispěvkem <b><i>libovolné</i></b> výše\n\r(Pokud jste už přispěli dříve a ještě nedostali kód napište nám email)"</string>
+    <string name="ext_unlock_dial">"Odemykací Kód:"</string>
+    
+    <string name="ext_link">Propojit s G+ účtem</string>
+    
 </resources>
 
