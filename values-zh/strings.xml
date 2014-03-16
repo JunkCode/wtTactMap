@@ -97,4 +97,18 @@
     <string name="add">Add</string>
     
     <string name="horizontal_distance">Show horizontal distance</string>
+    
+    
+    <string name="pref_header_extras">Extra</string>
+    <string name="prediction">Prediction</string>
+    <string name="self">Self</string>
+    <string name="show_intro_screen">Show intro splash</string>
+    
+    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock_det">
+        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
+    <string name="ext_unlock_dial">"Unlock Code:"</string>
+    
+    <string name="ext_link">Link to G+ account</string>
+    
 </resources>
