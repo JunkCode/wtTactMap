@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder taktikai térkép</string>
+    
+    <string name="settings">Beállítások</string>
+    <string name="hide">Elrejt</string>
+    <string name="danger">Veszély figyelmeztetés</string>
+    <string name="nodanger">OK figyelmeztetés</string>
+    <string name="proximity_wrn">Hatókör:</string>
+    
+    
+    <string name="more">Több beállítás</string>
+    <string name="connerror">Nem kapcsolódik</string>
+    
+    <string name="gui">Felület</string>
+    <string name="screenon">Képernyő ébrentartása</string>
+    <string name="counters">Számlálók</string>
+    
+    <string name="ip_h">IP cím</string>
+    <string name="find_ip">IP cím keresése</string>
+    <string name="set_ip">IP cím beállítása</string>
+    <string name="ip">Számítógép IP-je, ahol a War Thunder fut (port nélkül):</string>
+    
+    
+    <string name="zoom_btns">Nagyítás gombok</string>
+    <string name="donate">Adományoz</string>
+    <string name="enemy_vehicles">Ellenséges járművek</string>
+    <string name="friendly_vehicles">Baráti járművek</string>
+    <string name="friendly_structures">Baráti létesítmények</string>
+    <string name="enemy_structures">Ellenséges létesítmények</string>
+    
+    <string name="updates_speed">Frissítés gyakorisága</string></string>
+    <string name="how_ip">"Helyes IP cím megkereséséhez leírás: http://ip.junkcode.net/help"</string>
+    <string name="how_ip_der">"Ha nem tudod, hogyan szerezd meg IP címedet, kattints ide"</string>
+    <string name="ip_err">Helytelen IP cím</string>
+    <string name="ip_err_wrong">"beviteli formátum \r\nXXX.XXX.XXX.XXX \r\n Kattints a segítségre a leíráshoz."</string>
+    <string name="ip_err_local">"127.0.0.1 nem megfelelő IP cím. \r\n Kattints a segítségre a leíráshoz."</string>
+    <string-array name="updates_speed_array">
+        <item >Nagyon gyors</item>
+        <item >Gyors</item>
+        <item >Közepes</item>
+        <item >Lassúcska</item>
+        <item >Lassú</item>
+        <item >Nagyon lassú</item>
+        <item >5 mp</item>
+    </string-array>
+
+     <string name="info_title">Névjegy</string>
+    <string name="info_msg">
+        "Ez egy War Thunder játékos által készített nem hivatalos app!\r\n"
+        "Ez az app még mindig béta fázisban van, de nyugodtan keress fel hibákkal vagy javaslatokkal kapcsolatban itt:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Fordítókat keresünk! Ha segíteni szeretnél, látogass el ide: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+    </string>
+    <string name="donate_line">  
+        "Tetszik a program? Fejezd ki adománnyal a http://junkcode.net oldalon, támogatva a további fejlesztéseket.\r\n"
+        </string>
+     <string name="info_update_title">Frissítési hírek</string>
+     
+    <string name="version">App verzió:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="ignore">Elutasít</string>
+    <string name="help">Segítség</string>
+    <string name="pref_header_notifications">Figyelmeztetések</string>
+    <string name="pref_header_general">Általános</string>
+    <string name="pref_title_ringtone">Csengőhang</string>
+    <string name="pref_header_data_sync">PC kapcsolat</string>
+    <string name="pref_ringtone_silent">Néma</string>
+    
+    <string name="nowificonnected">Csatlakozz a WIFI hálózathoz</string>
+
+    <string name="planeicons">Replüőgép ikonok</string>
+        <string-array name="planes_icon_size">
+        <item >Nagy</item>
+        <item >Közepes</item>
+        <item >Kicsi</item>
+        <item >Nagyon kicsi</item>
+    </string-array>
+    
+    <string name="lines">Navigációs vonalak</string>
+    <string name="lines_oos">Csak a képernyőről lelógó célpontoknál</string>
+    <string name="lines_enemy">Ellenségek</string>
+    <string name="lines_friendly">Szövetségesek</string>
+    <string name="lines_squad">Squad</string>
+    <string name="lines_target">Célpont</string>
+    
+    <string name="hide_gp_login">G+ bejelentkezés gomb elrejtése</string>
+    
+    <string name="fullscreen">Teljes képernyő</string>
+    <string name="connect">Csatlakozás barátokhoz</string>
+    
+    <string name="waypoint">Útpont</string>
+    <string name="waypoint_ctrl">Útpont irányítás</string>
+    <string name="add">Hozzáad</string>
+    
+    <string name="horizontal_distance">Vízszintes távolság kijelzése</string>
+    
+    <string name="pref_header_extras">Extra</string>
+    <string name="prediction">Előrejelzés</string>
+    <string name="self">Saját</string>
+    <string name="show_intro_screen">Indítási képernyő mutatása</string>
+    
+    <string name="ext_unlock">Extrák feloldása</string>
+    <string name="ext_unlock_det">
+        "Az extrákat <b><i>bármennyi</i></b> adománnyal fel lehet oldani, vagy a programfejlesztéshez való hozzájárulással\r\n(Ha adományozták korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
+    <string name="ext_unlock_dial">"Feloldókulcs:"</string>
+    
+    <string name="ext_link">G+ profil csatolása</string>
+    
+</resources>
