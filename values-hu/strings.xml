@@ -7,11 +7,11 @@
     <string name="hide">Elrejt</string>
     <string name="danger">Veszély figyelmeztetés</string>
     <string name="nodanger">OK figyelmeztetés</string>
-    <string name="proximity_wrn">Hatókör:</string>
+    <string name="proximity_wrn">hatókör:</string>
     
     
     <string name="more">Több beállítás</string>
-    <string name="connerror">Nem kapcsolódik</string>
+    <string name="connerror">Nincs kapcsolat</string>
     
     <string name="gui">Felület</string>
     <string name="screenon">Képernyő ébrentartása</string>
@@ -20,7 +20,7 @@
     <string name="ip_h">IP cím</string>
     <string name="find_ip">IP cím keresése</string>
     <string name="set_ip">IP cím beállítása</string>
-    <string name="ip">Számítógép IP-je, ahol a War Thunder fut (port nélkül):</string>
+    <string name="ip">PC IP-je, ahol a War Thunder fut (port nélkül):</string>
     
     
     <string name="zoom_btns">Nagyítás gombok</string>
@@ -49,7 +49,7 @@
      <string name="info_title">Névjegy</string>
     <string name="info_msg">
         "Ez egy War Thunder játékos által készített nem hivatalos app!\r\n"
-        "Ez az app még mindig béta fázisban van, de nyugodtan keress fel hibákkal vagy javaslatokkal kapcsolatban itt:\r\n"
+        "Az app még mindig béta fázisban van, de nyugodtan látogass el esetleges hibákkal vagy javaslatokkal kapcsolatban ide:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
         "Fordította: Tomsa \r\n"        
@@ -72,7 +72,7 @@
     
     <string name="nowificonnected">Csatlakozz a WIFI hálózathoz</string>
 
-    <string name="planeicons">Replüőgép ikonok</string>
+    <string name="planeicons">Repülőgép ikonok</string>
         <string-array name="planes_icon_size">
         <item >Nagy</item>
         <item >Közepes</item>
@@ -84,7 +84,7 @@
     <string name="lines_oos">Csak a képernyőről lelógó célpontoknál</string>
     <string name="lines_enemy">Ellenségek</string>
     <string name="lines_friendly">Szövetségesek</string>
-    <string name="lines_squad">Squad</string>
+    <string name="lines_squad">Szakasz</string>
     <string name="lines_target">Célpont</string>
     
     <string name="hide_gp_login">G+ bejelentkezés gomb elrejtése</string>
@@ -104,8 +104,7 @@
     <string name="show_intro_screen">Indítási képernyő mutatása</string>
     
     <string name="ext_unlock">Extrák feloldása</string>
-    <string name="ext_unlock_det">
-        "Az extrákat <b><i>bármennyi</i></b> adománnyal fel lehet oldani, vagy a programfejlesztéshez való hozzájárulással\r\n(Ha adományozták korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
+    <string name="ext_unlock_det">"Az extrákat <b><i>tetszőleges</i></b> mennyiségű adománnyal fel lehet oldani, de a programfejlesztéshez való hozzájárulással is.\r\n(Ha adományoztál korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
     <string name="ext_unlock_dial">"Feloldókulcs:"</string>
     
     <string name="ext_link">G+ profil csatolása</string>
