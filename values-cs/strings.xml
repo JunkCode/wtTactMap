@@ -110,5 +110,36 @@
     
     <string name="ext_link">Propojit s G+ účtem</string>
     
+    <string name="firing_zone">Zobrazení dostřelu</string>
+    <string name="gray_map">Mapa v odstínech šedé</string>
+        
+    <string name="map">Mapa:</string>
+    <string name="custom_maps">Vlastní mapy</string>
+    <string name="custom_maps_url">Adresa vlastních map</string>
+    <string name="see_forum">Detaily jsou na JunkCode fóru</string>
+    
+    <string name="tankicons">Ikony tanků</string>
+    <string name="groundicons">Ikony pozemních cílů</string>
+    
+    <string name="share_position">Sdílet pozici</string>
+    <string name="death_markers">Zanechávat lebky při úmrtí</string>
+
+    <string name="size">Velikost</string>
+    <string name="style">Styl</string>
+    
+    <string-array name="style_types">
+        <item >Starý</item>
+        <item >Nový</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>Dle War Thunderu</item>
+        <item>Zelená/Oranžová</item>
+        <item>Zelená/Červená</item>
+    </string-array>
+    <string name="colors">Barvy</string>
+    
+    <string name="pref_header_map_view">Nastavení mapy</string>
+    <string name="pref_header_GUI">Nastavení rozhraní</string>
 </resources>
 
