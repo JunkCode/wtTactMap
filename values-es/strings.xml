@@ -65,7 +65,6 @@
     <string name="ignore">Ignorar</string>
     <string name="help">Ayuda</string>
     <string name="pref_header_notifications">Notificaciones</string>
-    <string name="pref_header_general">General</string>
     <string name="pref_title_ringtone">Sonido</string>
     <string name="pref_header_data_sync">Conexión PC</string>
     <string name="pref_ringtone_silent">Silenciar</string>
@@ -110,6 +109,9 @@
     
     <string name="ext_link">Link to G+ account</string>
         
+    <string name="firing_zone">Firing range</string>
+    <string name="gray_map">Grayscale map</string>
+    
     <string name="map">Map:</string>
     <string name="custom_maps">Custom maps</string>
     <string name="custom_maps_url">Custom maps url</string>

@@ -67,7 +67,6 @@
     <string name="ignore">Ignorar</string>
     <string name="help">Ajuda</string>
     <string name="pref_header_notifications">Notificões</string>
-    <string name="pref_header_general">Geral</string>
     <string name="pref_title_ringtone">Ringtone</string>
     <string name="pref_header_data_sync">Conexão com o PC</string>
     <string name="pref_ringtone_silent">Silencioso</string>
