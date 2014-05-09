@@ -110,5 +110,33 @@
     <string name="ext_unlock_dial">"Unlock Code:"</string>
     
     <string name="ext_link">Link to G+ account</string>
+        
+    <string name="map">Map:</string>
+    <string name="custom_maps">Custom maps</string>
+    <string name="custom_maps_url">Custom maps url</string>
+    <string name="see_forum">For details see JunkCode forum</string>
     
+    <string name="tankicons">Tank icons</string>
+    <string name="groundicons">Ground icons</string>
+    
+    <string name="share_position">Share position</string>
+    <string name="death_markers">Leave skulls on death</string>
+
+    <string name="size">Size</string>
+    <string name="style">Style</string>
+    
+    <string-array name="style_types">
+        <item >Old</item>
+        <item >New</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>Default</item>
+        <item>Green/Orange</item>
+        <item>Green/Red</item>
+    </string-array>
+    <string name="colors">Colors</string>
+    
+    <string name="pref_header_map_view">Map setup</string>
+    <string name="pref_header_GUI">GUI</string>
 </resources>
