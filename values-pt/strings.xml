@@ -49,17 +49,17 @@
      <string name="info_title">Sobre</string>
     <string name="info_msg">
         "Este é um mapa não official feito por um fan!\r\n"
-        "This app is still in beta but feel free to contact me with bugs or new ideas at:\r\n"
+        "Este app ainda está em versão beta, mas sinta-se livre para entrar em contato sobre erros ou novas idéias em:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Portuguese translation (by xxdvgxx) \r\n"
+        "Portuguese translation (by xbral) \r\n"
         "\r\n"
         "I'm looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
-        "Do you like this app? Say it by donation on http://junkcode.net for future development.\r\n"
+        "Gostou do aplicativo? Responda com uma doação em http://junkcode.net for future development.\r\n"
         </string>
-     <string name="info_update_title">Update news</string>
+     <string name="info_update_title">Atualizações</string>
      
     <string name="version">Versão do APP:</string>
     <string name="ok">OK</string>
@@ -69,7 +69,7 @@
     <string name="pref_header_notifications">Notificões</string>
     <string name="pref_header_general">Geral</string>
     <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_header_data_sync">Conecção com o PC</string>
+    <string name="pref_header_data_sync">Conexão com o PC</string>
     <string name="pref_ringtone_silent">Silencioso</string>
     
     <string name="nowificonnected">Você deve conectar ao WIFI local</string>
@@ -91,27 +91,30 @@
     
     <string name="hide_gp_login">Hide G+ Login button</string>
     
-    <string name="fullscreen">Fullscreen</string>
-    <string name="connect">Connect to friends</string>
+    <string name="fullscreen">Tela cheia</string>
+    <string name="connect">Conecte com amigos</string>
     
-    <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="waypoint">Ponto de visão</string>
+    <string name="waypoint_ctrl">Controles de ponto de visão</string>
     <string name="add">Add</string>
     
-    <string name="horizontal_distance">Show horizontal distance</string>
+    <string name="horizontal_distance">Mostre a distância horizontal</string>
     
     <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
-    <string name="self">Self</string>
-    <string name="show_intro_screen">Show intro splash</string>
+    <string name="prediction">Predição</string>
+    <string name="self">Você mesmo</string>
+    <string name="show_intro_screen">Mostre tela de início</string>
     
-    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock">Desbloquear extras</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
+        "Extras são desbloqueados por uma doação de <b><i>qualquer</i></b> quantia ou contribuição de conteúdo\r\n(Se você doou recentemente e não recebeu o código ainda escreva um e-mail para nós)"</string>
+    <string name="ext_unlock_dial">"Código de desbloqueio:"</string>
     
-    <string name="ext_link">Link to G+ account</string>
-        
+    <string name="ext_link">Lincar a conta do G+</string>
+    
+    <string name="firing_zone">Firing range</string>
+    <string name="gray_map">Grayscale map</string>
+    
     <string name="map">Map:</string>
     <string name="custom_maps">Custom maps</string>
     <string name="custom_maps_url">Custom maps url</string>
@@ -140,4 +143,5 @@
     
     <string name="pref_header_map_view">Map setup</string>
     <string name="pref_header_GUI">GUI</string>
+    
 </resources>
