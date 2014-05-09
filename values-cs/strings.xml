@@ -65,7 +65,6 @@
     <string name="cancel">Zpět</string>
     <string name="help">Pomoc</string>
     <string name="pref_header_notifications">Upozornění</string>
-    <string name="pref_header_general">Zobrazení</string>
     <string name="pref_title_ringtone">Zvuk</string>
     <string name="pref_header_data_sync">Připojení k počítači</string>
     <string name="pref_ringtone_silent">Ticho</string>
