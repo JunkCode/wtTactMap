@@ -30,7 +30,7 @@
     <string name="friendly_structures">AAA Amigos</string>
     <string name="enemy_structures">AAA Inimigos</string>
     
-    <string name="updates_speed">Freguencia de Updates</string>
+    <string name="updates_speed">Frequência de Updates</string>
     <string name="how_ip">"Veja Como Conseguir o Endereço de IP: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Se Você Não Souber Como Conseguir o Endereço de IP Clique Aqui"</string>
     <string name="ip_err">Endereço de IP Não é Valido</string>
@@ -48,13 +48,13 @@
 
      <string name="info_title">Sobre</string>
     <string name="info_msg">
-        "Este é um mapa não official feito por um fan!\r\n"
+        "Este é um mapa não official feito por um fã!\r\n"
         "Este app ainda está em versão beta, mas sinta-se livre para entrar em contato sobre erros ou novas idéias em:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
         "Portuguese translation (by xbral) \r\n"
         "\r\n"
-        "I'm looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Estou procurando por pessoas para traduzir este aplicativo, se você quiser nos ajudar veja http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
         "Gostou do aplicativo? Responda com uma doação em http://junkcode.net for future development.\r\n"
@@ -88,7 +88,7 @@
     <string name="lines_squad">Esquadrão</string>
     <string name="lines_target">Alvo</string>
     
-    <string name="hide_gp_login">Hide G+ Login button</string>
+    <string name="hide_gp_login">Esconder botão de login do G+</string>
     
     <string name="fullscreen">Tela cheia</string>
     <string name="connect">Conecte com amigos</string>
@@ -111,36 +111,36 @@
     
     <string name="ext_link">Lincar a conta do G+</string>
     
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">Campo de tiro</string>
+    <string name="gray_map">Mapa em tons de cinza</string>
     
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="map">Mapa:</string>
+    <string name="custom_maps">Mapas customizados</string>
+    <string name="custom_maps_url">Url de mapas customizados</string>
+    <string name="see_forum">Para detalhes acesse o forum JunkCode</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">Ícones de tanques</string>
+    <string name="groundicons">Ícones de terreno</string>
     
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="share_position">Compartilhar posição</string>
+    <string name="death_markers">Deixe crânios na morte</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">Tamanho</string>
+    <string name="style">Estilo</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >Velho</item>
+        <item >Novo</item>
     </string-array>
     
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>Principal</item>
+        <item>Verde/Laranja</item>
+        <item>Verde/Vermelho</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">Cores</string>
     
-    <string name="pref_header_map_view">Map setup</string>
+    <string name="pref_header_map_view">Configuração do mapa</string>
     <string name="pref_header_GUI">GUI</string>
     
 </resources>
