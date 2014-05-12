@@ -88,8 +88,8 @@
     
     <string name="hide_gp_login">G+ bejelentkezés gomb elrejtése</string>
         
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">Tüzelési táv</string>
+    <string name="gray_map">Szürkeárnyalatos térkép</string>
     
     <string name="fullscreen">Teljes képernyő</string>
     <string name="connect">Csatlakozás barátokhoz</string>
@@ -111,32 +111,32 @@
     
     <string name="ext_link">G+ profil csatolása</string>
         
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="map">Térkép:</string>
+    <string name="custom_maps">Egyedi térképek</string>
+    <string name="custom_maps_url">Egyedi térképek url</string>
+    <string name="see_forum">Részletekért látogass el a JunkCode fórumra</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">Tank ikonok</string>
+    <string name="groundicons">Földi ikonok</string>
     
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="share_position">Pozíció megosztása</string>
+    <string name="death_markers">Koponya mutatása halál után</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">Méret</string>
+    <string name="style">Stílus</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >Régi</item>
+        <item >Új</item>
     </string-array>
     
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>Alap</item>
+        <item>Zöld/Narancssárga</item>
+        <item>Zöld/Piros</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">Színek</string>
     
-    <string name="pref_header_map_view">Map setup</string>
-    <string name="pref_header_GUI">GUI</string>
+    <string name="pref_header_map_view">Térkép beállítások</string>
+    <string name="pref_header_GUI">Felület</string>
 </resources>
