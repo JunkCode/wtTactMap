@@ -1,7 +1,7 @@
 wtTactMap
 =========
 
-WarThunder tactical map resources
+### WarThunder tactical map resources
 
 Translations : [here](./translations/)
 
