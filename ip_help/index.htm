@@ -1,0 +1,331 @@
+<html>
+	<head>
+		<title>How to get local IP address:</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="jquery-1.10.2.min.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38882316-1', 'junkcode.net');
+  ga('send', 'pageview');
+
+</script>
+    <script>
+      var addrs = Object.create(null);
+      var runningOnPc = true;
+      
+      var scanning = false;
+      var scanHref = null;
+      var scanImg = null;
+      var scanCap = null;
+      var space = "0.0.0"
+      var upper = 255;
+      var lower = 0;
+      var dirUp = true;
+      var img = new Image();
+      var table=null;
+      
+      var givenIP = false;
+      function updateDisplay(newAddr) {
+        if (newAddr in addrs) return;
+        else addrs[newAddr] = true;
+        displayAddrs = Object.keys(addrs).filter(function (k) { return addrs[k]; });
+        //document.getElementById('list').textContent = displayAddrs.join(" or perhaps ") || "n/a";
+        var row=table.insertRow(1)//<h3><a href="http://'+newAddr+':8111" target="_blank">Try it </h3>
+        //newAddr=newAddr.substr(1);
+        row.innerHTML='\
+          <td><h1 id="c'+newAddr+'">'+newAddr+'</h1></td>\
+          <td><img id="i'+newAddr+'" src="Find.png" onload=""></td>';
+        if(runningOnPc){  
+          row.innerHTML+='\
+            <td>\
+              <a href="http://chart.apis.google.com/chart?chs=300x300&amp;cht=qr&amp;chld=|1&amp;chl=http%3A%2F%2Fip.junkcode.net/index.htm?ip='+newAddr+'" alt="QR Code"/>\
+                <img src="http://chart.apis.google.com/chart?chs=100x100&amp;cht=qr&amp;chld=|1&amp;chl=http%3A%2F%2Fip.junkcode.net/index.htm?ip='+newAddr+'" alt="QR Code"/>\
+              </a>\
+            </td>';
+        }else{
+          row.innerHTML+='\
+            <td>\
+              <a href="#" id="h'+newAddr+'" onclick="scan(\''+newAddr+'\')"/>\
+                <h3>Scan for correct IP</h3>\
+              </a>\
+            </td>';
+        }
+        //console.log(row);
+        //console.log(addrs);
+        checkImage1(newAddr);
+        autoWorking();
+        return true;
+    }
+            
+      function getIP(){
+        // code source: http://net.ipcalf.com/
+        // NOTE: window.RTCPeerConnection is "not a constructor" in FF22/23
+        var RTCPeerConnection = /*window.RTCPeerConnection ||*/ window.webkitRTCPeerConnection || window.mozRTCPeerConnection;
+        
+        if (RTCPeerConnection) (function () {
+            var rtc = new RTCPeerConnection({iceServers:[]});
+            if (window.mozRTCPeerConnection) {      // FF needs a channel/stream to proceed
+                rtc.createDataChannel('', {reliable:false});
+            };
+            
+            rtc.onicecandidate = function (evt) {
+                if (evt.candidate) grepSDP(evt.candidate.candidate);
+            };
+            rtc.createOffer(function (offerDesc) {
+                grepSDP(offerDesc.sdp);
+                rtc.setLocalDescription(offerDesc);
+            }, function (e) { console.warn("offer failed", e); });
+            
+            
+            //addrs = Object.create(null);
+            addrs["0.0.0.0"] = false;
+ 
+            function grepSDP(sdp) {
+                var hosts = [];
+                sdp.split('\r\n').forEach(function (line) { // c.f. http://tools.ietf.org/html/rfc4566#page-39
+                    if (~line.indexOf("a=candidate")) {     // http://tools.ietf.org/html/rfc4566#section-5.13
+                        var parts = line.split(' '),        // http://tools.ietf.org/html/rfc5245#section-15.1
+                            addr = parts[4],
+                            type = parts[7];
+                        if (type === 'host') updateDisplay(addr);
+                    } else if (~line.indexOf("c=")) {       // http://tools.ietf.org/html/rfc4566#section-5.7
+                        var parts = line.split(' '),
+                            addr = parts[2];
+                        updateDisplay(addr);
+                    }
+                });
+            }
+        })(); else {
+            return false;
+            document.getElementById('list').innerHTML = "... nothing";
+            showManualGetIP();
+            //document.getElementById('list').nextSibling.textContent = "In Chrome and Firefox your IP should display automatically, by the power of WebRTCskull.";
+        }
+      }
+      function scan(addr){
+        
+        scanHref= document.getElementById("h"+addr);
+        scanImg = document.getElementById("i"+addr);
+        scanCap = document.getElementById("c"+addr);
+        scanImg.onclick="";
+        scanImg.src="Find.png";
+        if(scanning){
+          scanImg.src="Remove.png";
+          stopScan();
+        }else{
+          scanning=true;
+          scanHref.innerHTML='<h3>Stop</h3>';
+          var splitted = addr.split('.'),
+          lastDaddr = parseInt(splitted[3],10);
+          console.log("lastnum: "+splitted[3]+" -- "+lastDaddr);
+          space = splitted[0]+"."+splitted[1]+"."+splitted[2];
+          upper = lastDaddr;
+          lower = lastDaddr;
+          runScan();
+        }
+      }
+      
+      function stopScan(){
+        scanning=false;
+        scanHref.innerHTML='<h3>Scan for correct IP</h3>';
+      }
+      
+      // scanning function
+      function runScan(){
+        console.log("scanning2");
+        if(!scanning)return;
+        scanImg.src="Find.png";
+        
+        var timer;
+        function clearTimer() {
+          if (timer) {                
+              clearTimeout(timer);
+              timer = null;
+          }
+        }
+        
+        dirUp=!dirUp;
+        if(dirUp && upper<=255){
+          upper+=1;
+          src=space+"."+upper;
+          console.log("up");
+        }else{
+          console.log("down");
+          if(lower>0){
+            lower-=1;
+            src=space+"."+lower;
+          }else{
+            if(upper>255){
+              scanImg.src="Remove.png";
+              stopScan();
+            }
+            runScan();
+            console.log("out");
+            return;
+          }
+        }
+        
+        function handleFail() {
+          scanImg.src="Remove.png";
+          this.onload = this.onabort = this.onerror = function() {};
+          clearTimer();
+          runScan();
+        }
+        
+        
+        img.onload = function() {  /// Succes !
+          clearTimer();
+          stopScan();
+          scanImg.src="Check.png";
+          gotMatch(src);
+        };
+        
+        img.onerror = img.onabort = handleFail; //fail
+
+        
+        scanCap.innerHTML=src;
+        img.src = "http://"+src+":8111/css/vader/images/ui-icons_bbbbbb_256x240.png"; // fires off loading of image
+        timer = setTimeout(function(img) { 
+          return function() {
+            handleFail.call(img);
+          };
+        }(img), 200);
+      }
+      
+      // url parameter get
+      function get(name){
+         if(name=(new RegExp('[?&]'+encodeURIComponent(name)+'=([^&]*)')).exec(location.search))
+            return decodeURIComponent(name[1]);
+      }
+      
+      // warning if automatic ip discovery isn't working
+      function autoWorking(){
+        document.getElementById("manual").style.display = 'none';
+        document.getElementById("nw").style.display = 'none';
+      }
+      
+      // init function
+      function run(){
+        table=document.getElementById("myTable");
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+          runningOnPc = false;
+          document.getElementById('mainTXT').innerHTML="Try Scan or oppen this page on commputer";
+        }
+        
+        var newAddr = get("ip");
+        if(newAddr){
+          //autoWorking();
+          //alert(newAddr);
+          givenIP=true;
+          updateDisplay(newAddr);
+        }else{
+          getIP();
+        }
+        
+        //console.log(addrs);
+         /* for(var i=0;i<displayAddrs.length;i++){
+            console.log(displayAddrs);
+          }
+          */
+      }
+      
+      
+      function showManualGetIP(){
+        document.getElementById("manual").style.display = 'block';
+      }
+      
+      // refreshes QR images of manual ip
+      function manIpRefresh(input){
+        //document.getElementById("mlink").href="http://"+input.value+":8111";
+        document.getElementById("mQRlink").href="http://chart.apis.google.com/chart?chs=300x300&cht=qr&chld=|1&chl=http%3A%2F%2Fip.junkcode.net/index.htm?ip="+input.value+"";
+        document.getElementById("mQRimg").src="http://chart.apis.google.com/chart?chs=100x100&cht=qr&chld=|1&chl=http%3A%2F%2Fip.junkcode.net/index.htm?ip="+input.value+"";
+        checkImage(input.value,document.getElementById("imgmanual"));
+      }
+      
+      // chcecks if ip coresponds with WarThunder
+      function checkImage1(src){
+        var dst = document.getElementById("i"+src);
+        checkImage(src,dst)
+      }
+      function checkImage(src,dst) {
+        dst.onload="";
+        var img = new Image();
+        img.onload = function() {
+          gotMatch(src);
+          dst.src="Check.png"
+          
+        };
+        img.onerror = function() {
+          dst.src="Remove.png"
+          if(!runningOnPc){
+            var r=confirm("No connection on this IP. Run Scan on similar addresses?");
+            if (r==true){
+              scan(src);
+            }
+          }
+        }
+        img.src = "http://"+src+":8111/css/vader/images/ui-icons_bbbbbb_256x240.png"; // fires off loading of image
+      }
+      
+      function gotMatch(adr){
+        if(!runningOnPc){
+          alert("Found conntact. "+adr);
+          /*if(r){
+            window.location.replace("intent://ip/#Intent;scheme=junkcode;package=net.junkcode.warthundertacticalmap;ip="+adr+";end");
+          }*/
+        }
+        document.getElementById('mainTXT').style.color = "#006699";
+      }
+    </script>
+	</head>
+	<body onload='run()'>
+    <h1 style="color: red" id ="mainTXT">Open this page on computer running War Thunder</h1>
+    <h3 style="color: red;" id="nw">Automatic detection not working (try using Chrom or firefox), see bellow how to get it manualy </h3>
+    
+    <h2 style="color: green"><u>New help guide</u> &#62;&#62;<a href="./help">Here</a>&#60;&#60;</h2>
+		<div class="datagrid"><table id="myTable">
+      <thead><tr><th>IPs</th><th>Test</th><th>Get it mobile</th></tr></thead>
+      <tbody>
+      <tr>
+      <td><input type="text" name="manualip" onchange="manIpRefresh(this)"> <a href="#">Test</a></td>
+      <td><!--<h3><a target="_blank" id="mlink">Try it</h3> --><img id="imgmanual" src="Find.png"></td>
+      <td>
+        <a alt="QR Code" id="mQRlink"/>
+          <img src="Remove.png" alt="QR Code" id="mQRimg"/>
+        </a>
+      </td>
+      </tr>
+      </tbody>
+    </table></div>
+ 
+    <a href="#" onclick="showManualGetIP()">
+      <h3>How to manualy get local IP address</h3>
+    </a>
+    <div id="manual">
+      <p>
+        <strong>1</strong>. Open windows Start menu (or press keys WIN+R) and type &quot;cmd&quot;</p>
+      <p>
+        <img alt="" src="http://ip.junkcode.net/start.png" style="width: 468px; height: 540px;" /></p>
+      <p>
+        &nbsp;</p>
+      <p>
+        2. In command window type &quot;ipconfig&quot; and hit Enter</p>
+      <p>
+        <img alt="" src="http://ip.junkcode.net/cmd.png" style="width: 677px; height: 342px;" /></p>
+      <p>
+        3. You will find your local IP address on the line &quot;<code>IPv4 Address</code>&quot; under adapter for Local Area Network (LAN) (name may differ) and if you can&#39;t find it be sure to check if it isn&#39;t scroled up.</p>
+      <p>
+        <img alt="" src="http://ip.junkcode.net/ipconfig.png" style="width: 677px; height: 342px;" />
+      </p>
+    </div>  
+		<p>
+			If you encounter any problem contact me on&nbsp;<a href="mailto:help@junkcode.net?subject=I%20can't%20get%20my%20IP">help@junkcode.net</a></p>
+      <p>
+			<a href="http://junkcode.net/">Back to Main page</a></p>
+	</body>
+</html>
