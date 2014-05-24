@@ -2,143 +2,143 @@
 <resources>
 
     <string name="app_name">WarThunder tactical map</string>
-    
+
     <string name="settings">Einstellungen</string>
-    <string name="hide">ausblenden</string>
+    <string name="hide">Ausblenden</string>
     <string name="danger">Gegnerwarnung</string>
     <string name="nodanger">Entwarnung</string>
     <string name="proximity_wrn">Radius:</string>
-    
-    
-    <string name="more">weitere Einstellungen</string>
-    <string name="connerror">keine Verbindung</string>
-    
+
+
+    <string name="more">Mehr</string>
+    <string name="connerror">Keine Verbindung</string>
+
     <string name="gui">GUI-Einstellungen</string>
-    <string name="screenon">Bildschirm angeschaltet lassen</string>
+    <string name="screenon">Bildschirm wachhalten</string>
     <string name="counters">Zähler</string>
-    
+
     <string name="ip_h">IP-Adresse</string>
-    <string name="find_ip">richtige IP finden</string>
+    <string name="find_ip">IP finden</string>
     <string name="set_ip">IP eingeben</string>
     <string name="ip">IP des Computers mit War Thunder (ohne Port):</string>
-    
-    
+
+
     <string name="zoom_btns">Zoom-Buttons</string>
     <string name="donate">Spenden</string>
-    <string name="enemy_vehicles">gegnerische Fahrzeuge</string>
-    <string name="friendly_vehicles">verbündete Fahrzeuge</string>
-    <string name="friendly_structures">verbündete Gebäude</string>
-    <string name="enemy_structures">gegnerische Gebäude</string>
-    
+    <string name="enemy_vehicles">Gegnerische Fahrzeuge</string>
+    <string name="friendly_vehicles">Verbündete Fahrzeuge</string>
+    <string name="friendly_structures">Verbündete Gebäude</string>
+    <string name="enemy_structures">Gegnerische Gebäude</string>
+
     <string name="updates_speed">Aktualisierungsrate</string>
-    <string name="how_ip">"wie man seine IP-Adresse findet: http://ip.junkcode.net/"</string>
-    <string name="how_ip_der">"wenn du nicht weisst wie du deine IP herausfindest, klick hier"</string>
-    <string name="ip_err">ungültige IP-Adresse</string>
+    <string name="how_ip">"Wie Du Deine IP-Adresse findest: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Klicke hier, wenn Du nicht weißt, wie Du Deine IP herausfindest."</string>
+    <string name="ip_err">Ungültige IP-Adresse</string>
     <string name="ip_err_wrong">"IP im Format \r\nXXX.XXX.XXX.XXX \r\n eingeben."</string>
-    <string name="ip_err_local">"127.0.0.1 ist nicht die korrekte Adresse."</string>
+    <string name="ip_err_local">"127.0.0.1 ist nicht die korrekte IP-Adresse."</string>
     <string-array name="updates_speed_array">
-        <item >sehr schnell</item>
-        <item >schnell</item>
-        <item >normal</item>
-        <item >langsam</item>
-        <item >langsamer</item>
-        <item >sehr langsam</item>
-        <item >5 Sekunden</item>
+      <item >Sehr schnell</item>
+      <item >Schnell</item>
+      <item >Normal</item>
+      <item >Langsam</item>
+      <item >Langsamer</item>
+      <item >Sehr langsam</item>
+      <item >5 Sekunden</item>
     </string-array>
 
-     <string name="info_title">"Über&#8230;"</string>
+    <string name="info_title">"Über&#8230;"</string>
     <string name="info_msg">
-        "Dies ist eine inoffizielle App von einem War Thunder-Fan!\r\n"
-        "Die App ist noch in der Beta, aber ich freue mich über Bugmeldungen und neue Ideen unter:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-	      "deutsche Übersetzung von LoLmauZz\r\n"
+      "Dies ist eine inoffizielle App von einem War Thunder-Fan!\r\n"
+      "Die App ist noch in der Beta, aber ich freue mich über Bugmeldungen und neue Ideen unter:\r\n"
+      "http://junkcode.net/forum \r\n"
+      "\r\n"
+      "Deutsche Übersetzung von LoLmauZz und SplashScreen\r\n"
     </string>
-    <string name="donate_line">  
-        "Dir gefällt diese App? Spende unter http://junkcode.net um die Weiterentwicklung zu unterstützen.\r\n"
-        </string>
-     <string name="info_update_title">Neuigkeiten</string>
-     
+    <string name="donate_line">
+      "Gefällt Dir diese App? Spende unter http://junkcode.net um die Weiterentwicklung zu unterstützen.\r\n"
+    </string>
+    <string name="info_update_title">Neuigkeiten</string>
+
     <string name="version">App-Version:</string>
     <string name="ok">OK</string>
-    <string name="cancel">abbrechen</string>
+    <string name="cancel">Abbrechen</string>
     <string name="help">Hilfe</string>
     <string name="pref_header_notifications">Benachrichtigungen</string>
-    <string name="pref_title_ringtone">Signalton</string>
+    <string name="pref_title_ringtone">Benachrihtigungston</string>
     <string name="pref_header_data_sync">PC-Verbindung</string>
-    <string name="pref_ringtone_silent">lautlos</string>
-    
-    <string name="ignore">Ignorieren</string>
-    
-    <string name="nowificonnected">Bitte Verbindung mit lokalem WLAN herstellen</string>
-    
-    <string name="planeicons">Flugzeug Symbole</string>
-        <string-array name="planes_icon_size">
-        <item >Groß</item>
-        <item >Mittel</item>
-        <item >Klein</item>
-        <item >Sehr klein</item>
-    </string-array>
-    
-    <string name="lines">Navigation lines</string>
-    <string name="lines_oos">Only to offscreen</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
-    
-    <string name="hide_gp_login">Hide G+ Login button</string>
-    
-    <string name="fullscreen">Fullscreen</string>
-    <string name="connect">Connect to friends</string>
-    
-    <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Waypoint controls</string>
-    <string name="add">Add</string>
-    
-    <string name="horizontal_distance">Show horizontal distance</string>
-    
-    <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
-    <string name="self">Self</string>
-    <string name="show_intro_screen">Show intro splash</string>
-    
-    <string name="ext_unlock">Unlock extras</string>
-    <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
-    
-    <string name="ext_link">Link to G+ account</string>
-        
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
-    
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
-    
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
-    
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="pref_ringtone_silent">Lautlos</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
-    
+    <string name="ignore">Ignorieren</string>
+
+    <string name="nowificonnected">Bitte WLAN-Verbindung herstellen</string>
+
+    <string name="planeicons">Flugzeug-Symbole</string>
+    <string-array name="planes_icon_size">
+      <item >Groß</item>
+      <item >Mittel</item>
+      <item >Klein</item>
+      <item >Sehr klein</item>
+    </string-array>
+
+    <string name="lines">Navigationslinien</string>
+    <string name="lines_oos">Nur außerhalb des Bildschirms</string>
+    <string name="lines_enemy">Gegner</string>
+    <string name="lines_friendly">Verbündete</string>
+    <string name="lines_squad">Squad</string>
+    <string name="lines_target">Ziel</string>
+
+    <string name="hide_gp_login">G+ Login-Button ausblenden</string>
+
+    <string name="fullscreen">Vollbild</string>
+    <string name="connect">Mit Freunden verbinden</string>
+
+    <string name="waypoint">Wegpunkt</string>
+    <string name="waypoint_ctrl">Wegpunkt-Optionen</string>
+    <string name="add">Hinzufügen</string>
+
+    <string name="horizontal_distance">Horizontalen Abstand anzeigen</string>
+
+    <string name="pref_header_extras">Extras</string>
+    <string name="prediction">Prognostizierung</string>
+    <string name="self">Ich</string>
+    <string name="show_intro_screen">Startbildschirm anzeigen</string>
+
+    <string name="ext_unlock">Extras freischalten</string>
+    <string name="ext_unlock_det">
+      "Du kannst die Extras durch einen <b><i>beliebigen</i></b> Spendenbetrag oder durch das Beitragen von Inhalten freischalten\r\n(schreibe uns eine E-Mail, wenn Du bereits zuvor gespendet, aber noch keinen Code erhalten hast)"</string>
+    <string name="ext_unlock_dial">"Freischaltcode:"</string>
+
+    <string name="ext_link">Link zum G+ Konto</string>
+
+    <string name="firing_zone">Schussweite</string>
+    <string name="gray_map">Map in Graustufen</string>
+
+    <string name="map">Map:</string>
+    <string name="custom_maps">Benutzerdefinierte Maps</string>
+    <string name="custom_maps_url">URL zu benutzerdefinierten Maps</string>
+    <string name="see_forum">Besuche das JunkCode-Forum für weitere Details</string>
+
+    <string name="tankicons">Panzer-Icons</string>
+    <string name="groundicons">Bodeneinheiten-Icons</string>
+
+    <string name="share_position">Position teilen</string>
+    <string name="death_markers">Totenköpfe bei Tod anzeigen</string>
+
+    <string name="size">Größe</string>
+    <string name="style">Stil</string>
+
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+      <item >Alt</item>
+      <item >Neu</item>
     </string-array>
-    
+
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+      <item>Standard</item>
+      <item>Grün/Orange</item>
+      <item>Grün/Rot</item>
     </string-array>
-    <string name="colors">Colors</string>
-    
-    <string name="pref_header_map_view">Map setup</string>
-    <string name="pref_header_GUI">GUI</string>
+    <string name="colors">Farben</string>
+
+    <string name="pref_header_map_view">Map-Einstellungen</string>
+    <string name="pref_header_GUI">Oberfläche</string>
 </resources>
