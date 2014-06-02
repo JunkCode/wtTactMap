@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <integer-array name="color_vals_green_orange" tools:ignore="MissingTranslation">
+        <item>0xffffbf09</item>   <!-- enemy  -->
+        <item>0xff7fd509</item>   <!-- friendly -->
+        <item>0xff09d5c8</item>   <!-- squad  -->
+        <item>0xffd51009</item>   <!-- target -->
+    </integer-array>
+    
+    
+    <integer-array name="color_vals_green_red" tools:ignore="MissingTranslation">
+        <item>0xffa62500</item>   <!-- enemy  -->
+        <item>0xff9ff33d</item>   <!-- friendly -->
+        <item>0xff09d5c8</item>   <!-- squad  -->
+        <item>0xffa52959</item>   <!-- target -->
+    </integer-array>
+    
+</resources>
