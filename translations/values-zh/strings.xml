@@ -65,6 +65,7 @@
     <string name="ignore">忽略</string>
     <string name="help">帮助</string>
     <string name="pref_header_notifications">提示设置</string>
+    
     <string name="pref_title_ringtone">音效</string>
     <string name="pref_header_data_sync">PC connection</string>
     <string name="pref_ringtone_silent">Silent</string>
@@ -96,7 +97,6 @@
     <string name="add">Add</string>
     
     <string name="horizontal_distance">Show horizontal distance</string>
-    
     
     <string name="pref_header_extras">Extra</string>
     <string name="prediction">Prediction</string>

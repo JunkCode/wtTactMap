@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="help_map_ctrl">Ovládání mapy</string>
+    <string name="text_help_map_ctrl">
+        <b>1</b> Nevazaný pohyb\n
+        <b>2</b> Pohyb s vozidlem\n
+        <b>3</b> Zámek rotace\n
+        <b>4</b> Klikni pro navrácení\n
+    </string>
+    
+    <string name="help_prediction">Předpověď pozice</string>
+    <string name="text_help_prediction">
+        Předpověď pozice na základě aktuální rychlosti a směru (pozice za 10,30 a 90 vteřin).
+    </string>
+    
+    <string name="faq">FAQ (Často kladené otázky)</string>
+    
+    <string name="faq_connection">Připojení</string>
+    <string name="text_faq_con">
+        <b>Jak se připojím?</b>\n
+         \u00A0\u00A0 Aplikace potřebuje IP adresu počítače, kde běží War Thunder. Jak získat adresu zjitíte na http://ip.junkcode.net \n\n
+         
+        <b>Zadal jsem tam IP adresu, ale pořád to píše \"Žádné spojení\"</b>\n
+         \u00A0\u00A0 Pokud je adresa správná tak je problém v routování místní sítě. Pro detaily se podívejte na http://ip.junkcode.net/help \n\n
+         
+        <b>Pořád se to nepřipojuje!</b>\n
+         \u00A0\u00A0 Řešení je pořád tady http://ip.junkcode.net/help
+         \n
+    </string>
+    
+    <string name="faq_extras">Extra</string>
+    <string name="text_faq_extra">   
+        <b>Přispěl jsem, kde je můj kód?</b>\n
+         \u00A0\u00A0 Kód by měl dojít během pár minut na email, pokud se tak nestane kontaktujte support@junkcode.net \n\n
+         
+        <b>Zadal jsem kód a nic se nestalo</b>\n
+         \u00A0\u00A0 Zkuste restartovat aplikaci \n\n
+        
+    </string>
+    <string name="faq_improvement">Vylepšení aplikace</string>
+    <string name="text_faq_improve">"  
+        <b>Něco se mi nelíbí</b>\n
+         \u00A0\u00A0 Dejte nám vědět co - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>Našel sem chybu</b>\n
+         \u00A0\u00A0 Napište ji sem - http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+         
+        <b>Mám nápad na další funkčnost</b>\n
+         \u00A0\u00A0 Dejte nám vědět - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>Chci pomoct s překladem/ikonama/...</b>\n
+         \u00A0\u00A0 Část zdrojových souborů už je tady http://github.com/JunkCode/wtTactMap. Můžete tam přímo navrhnout změny nebo na základě těch souborů vytvořit další. Pokud máte nějaké otázky nebo další nápady, dejte nám vědět - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+    </string>
+    
+</resources>

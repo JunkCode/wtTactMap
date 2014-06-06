@@ -65,6 +65,7 @@
     <string name="ignore">Игнорировать</string>
     <string name="help">Помощь</string>
     <string name="pref_header_notifications">Оповещения</string>
+    
     <string name="pref_title_ringtone">Рингтон</string>
     <string name="pref_header_data_sync">Соединение с PC</string>
     <string name="pref_ringtone_silent">Без звука</string>

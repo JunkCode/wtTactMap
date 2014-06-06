@@ -63,9 +63,9 @@
     <string name="ok">OK</string>
     <string name="cancel">Annulla</string>
     <string name="ignore">Ignora</string>
-    
     <string name="help">Aiuto</string>
     <string name="pref_header_notifications">Notifiche</string>
+    
     <string name="pref_title_ringtone">Suoneria</string>
     <string name="pref_header_data_sync">Connessione PC</string>
     <string name="pref_ringtone_silent">Silenzioso</string>

@@ -55,7 +55,7 @@
         "We are looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
-        "Do you like this app? Say it by donation on http://junkcode.net for future development.\r\n"
+        "Do you like this app? Say it by donation on http://junkcode.net for future development. \r\n"
         </string>
      <string name="info_update_title">Update news</string>
      
@@ -110,7 +110,6 @@
     
     <string name="ext_link">Link to G+ account</string>
     
-    
     <string name="firing_zone">Firing range</string>
     <string name="gray_map">Grayscale map</string>
     
@@ -142,7 +141,4 @@
     
     <string name="pref_header_map_view">Map setup</string>
     <string name="pref_header_GUI">GUI</string>
-    
-    
-    
 </resources>

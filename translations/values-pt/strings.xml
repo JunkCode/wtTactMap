@@ -52,8 +52,6 @@
         "Este app ainda está em versão beta, mas sinta-se livre para entrar em contato sobre erros ou novas idéias em:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Portuguese translation (by xbral) \r\n"
-        "\r\n"
         "Estou procurando por pessoas para traduzir este aplicativo, se você quiser nos ajudar veja http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
@@ -67,6 +65,7 @@
     <string name="ignore">Ignorar</string>
     <string name="help">Ajuda</string>
     <string name="pref_header_notifications">Notificões</string>
+    
     <string name="pref_title_ringtone">Ringtone</string>
     <string name="pref_header_data_sync">Conexão com o PC</string>
     <string name="pref_ringtone_silent">Silencioso</string>

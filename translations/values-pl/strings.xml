@@ -48,12 +48,14 @@
 	
 	<string name="info_title">O</string>
 	<string name="info_msg">
-	"To NIE jest oficjalna aplikacja do War Thunder!!\r\n"
-	"Ta aplikacja wciąż jest w wersji beta, błędy i sugestie można zgłaszać na :\r\n"
-	"http://junkcode.net/forum \r\n"
-	"\r\n"</string>
+		"To NIE jest oficjalna aplikacja do War Thunder!!\r\n"
+		"Ta aplikacja wciąż jest w wersji beta, błędy i sugestie można zgłaszać na :\r\n"
+		"http://junkcode.net/forum \r\n"
+		"\r\n"
+    </string>
+    
 	<string name="donate_line"> 
-	"Lubisz tą aplikacje? Pokaż to wspomagając autora na http://junkcode.net dla przyszłego rozwoju.\r\n"
+	   "Lubisz tą aplikacje? Pokaż to wspomagając autora na http://junkcode.net dla przyszłego rozwoju.\r\n"
 	</string>
 	<string name="info_update_title">Informacje o aktualizacji</string>
 	
@@ -63,6 +65,7 @@
 	<string name="ignore">Ignoruj</string>
 	<string name="help">Pomoc</string>
 	<string name="pref_header_notifications">Powiadomienia</string>
+	
 	<string name="pref_title_ringtone">Dźwięk</string>
 	<string name="pref_header_data_sync">Połączenie z PC</string>
 	<string name="pref_ringtone_silent">Cichy</string>
@@ -92,7 +95,6 @@
 	<string name="waypoint">Punkt nawigacyjny</string>
 	<string name="waypoint_ctrl">Ustawienia punktów nawigacyjnych</string>
 	<string name="add">Dodaj</string>
-
 
     <string name="horizontal_distance">Pokaż odległość horyzontalną</string>
     

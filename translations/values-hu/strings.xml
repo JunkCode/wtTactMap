@@ -65,6 +65,7 @@
     <string name="ignore">Elutasít</string>
     <string name="help">Segítség</string>
     <string name="pref_header_notifications">Figyelmeztetések</string>
+    
     <string name="pref_title_ringtone">Csengőhang</string>
     <string name="pref_header_data_sync">PC kapcsolat</string>
     <string name="pref_ringtone_silent">Néma</string>
@@ -87,9 +88,6 @@
     <string name="lines_target">Célpont</string>
     
     <string name="hide_gp_login">G+ bejelentkezés gomb elrejtése</string>
-        
-    <string name="firing_zone">Tüzelési táv</string>
-    <string name="gray_map">Szürkeárnyalatos térkép</string>
     
     <string name="fullscreen">Teljes képernyő</string>
     <string name="connect">Csatlakozás barátokhoz</string>
@@ -106,11 +104,15 @@
     <string name="show_intro_screen">Indítási képernyő mutatása</string>
     
     <string name="ext_unlock">Extrák feloldása</string>
-    <string name="ext_unlock_det">"Az extrákat <b><i>tetszőleges</i></b> mennyiségű adománnyal fel lehet oldani, de a programfejlesztéshez való hozzájárulással is.\r\n(Ha adományoztál korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
+    <string name="ext_unlock_det">
+        "Az extrákat <b><i>tetszőleges</i></b> mennyiségű adománnyal fel lehet oldani, de a programfejlesztéshez való hozzájárulással is.\r\n(Ha adományoztál korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
     <string name="ext_unlock_dial">"Feloldókulcs:"</string>
     
     <string name="ext_link">G+ profil csatolása</string>
-        
+    
+    <string name="firing_zone">Tüzelési táv</string>
+    <string name="gray_map">Szürkeárnyalatos térkép</string>
+    
     <string name="map">Térkép:</string>
     <string name="custom_maps">Egyedi térképek</string>
     <string name="custom_maps_url">Egyedi térképek url</string>
