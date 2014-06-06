@@ -141,4 +141,7 @@
     
     <string name="pref_header_map_view">Map setup</string>
     <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">Help &amp; FAQ</string>
+    
 </resources>
