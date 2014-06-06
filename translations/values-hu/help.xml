@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Térkép irányítás</string>
     <string name="text_help_map_ctrl">
-        <b>1</b> Free mode\n
-        <b>2</b> Follow plane\n
-        <b>3</b> Rotation lock\n
-        <b>4</b> Click to reset\n
+        <b>1</b> Szabad mód\n
+        <b>2</b> Repülőgép követése\n
+        <b>3</b> Forgás rögzítése\n
+        <b>4</b> Alaphelyzet\n
     </string>
     
-    <string name="help_prediction">Prediction</string>
+    <string name="help_prediction">Előrejelzés</string>
     <string name="text_help_prediction">
-        Prediction of plane position (based on current speed and direction) in 10,30 and 90 seconds
+        Repülőgép helyének előrejelzése (az aktuális sebesség és irány alapján) 10, 30 és 90 másodperc múlva.
     </string>
     
-    <string name="faq">FAQ (Frequently asked questions)</string>
+    <string name="faq">GYIK (Gyakran Ismételt Kérdések)</string>
     
-    <string name="faq_connection">Connection</string>
+    <string name="faq_connection">Kapcsolódás</string>
     <string name="text_faq_con">
-        <b>How do I connect?</b>\n
-         \u00A0\u00A0 The app needs an IP address of your computer running War Thunder, how to get your IP see http://ip.junkcode.net \n\n
+        <b>Hogy kapcsolódjak?</b>\n
+         \u00A0\u00A0 Az appnak szüksége van egy gép IP címére, amin War Thunder fut, így találod meg: http://ip.junkcode.net \n\n
          
-        <b>I did enter IP and it still says \"No connection\"</b>\n
-         \u00A0\u00A0 There might be problem with your local network routing see http://ip.junkcode.net/help \n\n
+        <b>Beírtam az IP címet, mégis azt írja: \"Nincs kapcsolat\"</b>\n
+         \u00A0\u00A0 Probléma lehet a hálózati beállításaiddal, segítség: http://ip.junkcode.net/help \n\n
          
-        <b>It still doesn\'t connect!</b>\n
-         \u00A0\u00A0 You didn\'t read http://ip.junkcode.net/help, did you?
+        <b>Továbbra sem kapcsolódik!</b>\n
+         \u00A0\u00A0 Nem olvastad el az  http://ip.junkcode.net/help oldalt, ugye?
          \n
     </string>
     
-    <string name="faq_extras">Extras</string>
+    <string name="faq_extras">Extrák</string>
     <string name="text_faq_extra">   
-        <b>I donated, where is my code?</b>\n
-         \u00A0\u00A0 You should receive code to your email within few minutes after donation, if not contact support@junkcode.net \n\n
+        <b>Adományoztam, hol a kódom?</b>\n
+         \u00A0\u00A0 Egy email fog érkezni az adományozás után pár perccel, ha nem kaptál ilyet, írj ide: support@junkcode.net \n\n
          
-        <b>I entered code but nothing is unlocked</b>\n
-         \u00A0\u00A0 Try restarting the app \n\n
+        <b>Beírtam a kódot, de nem oldott fel semmit!</b>\n
+         \u00A0\u00A0 Indítsd újra az appot. \n\n
         
     </string>
-    <string name="faq_improvement">App improvement</string>
+    <string name="faq_improvement">App fejlesztés</string>
     <string name="text_faq_improve">"  
-        <b>I don\'t like something</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Nem tetszik valami!</b>\n
+         \u00A0\u00A0 Írd meg - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I found a bug</b>\n
-         \u00A0\u00A0 Post it here http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+        <b>Hibát találtam!</b>\n
+         \u00A0\u00A0 Írd meg http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
-        <b>I have idea for new feature</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Van egy új ötletem!</b>\n
+         \u00A0\u00A0 Írd meg - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I want to help with translation/icons/...</b>\n
-         \u00A0\u00A0 Some of the resources are already here http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Szeretnék segíteni a fordításban/ikonokban stb.</b>\n
+         \u00A0\u00A0 Néhány forrást megtalálsz itt: http://github.com/JunkCode/wtTactMap Itt tudsz módosításokat kérni, vagy új dolgokat megadni. Ha bármi kérdésed van, vagy ötleted, írd meg - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
     </string>
     
