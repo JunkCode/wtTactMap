@@ -11,45 +11,45 @@
     
     <string name="help_prediction">Prédiction</string>
     <string name="text_help_prediction">
-        
-    </string>Prédiction de la position du plan (basé sur la vitesse et la direction du courant) à 10,30 et 90 secondes</string>
+        Prédiction de la position du plan (basé sur la vitesse et la direction du courant) à 10,30 et 90 secondes
+    </string>
     
     <string name="faq">FAQ (Foire aux questions)</string>
     
     <string name="faq_connection">Lien</string>
     <string name="text_faq_con">
         <b>Comment puis-je me connecter?</b>\n
-         \u00A0\u00A0 L'application a besoin d'une adresse IP de votre ordinateur exécutant Warthunder, comment obtenir votre IP voir http://ip.junkcode.net \n\n
+         \u00A0\u00A0 L\'application a besoin d\'une adresse IP de votre ordinateur exécutant Warthunder, comment obtenir votre IP voir http://ip.junkcode.net \n\n
          
-         <b>Je l'ai fait entrer IP et il dit toujours \"Pas de connexion\"</b>\n
+         <b>Je l\'ai fait entrer IP et il dit toujours \"Pas de connexion\"</b>\n
          \u00A0\u00A0 Il pourrait y avoir des problèmes avec votre routage de réseau local voir http://ip.junkcode.net/help \n\n
          
         <b>Il ne communique pas toujours!</b>\n
-         \u00A0\u00A0 Vous n'avez pas lu http://ip.junkcode.net/help, n'est-ce pas?
+         \u00A0\u00A0 Vous n\'avez pas lu http://ip.junkcode.net/help, n\'est-ce pas?
     </string>
     
     <string name="faq_extras">Suppléments</string>
     <string name="text_faq_extra">   
-        <b>J'ai fait don, où est mon code?</b>\n
+        <b>J\'ai fait don, où est mon code?</b>\n
          \u00A0\u00A0 Vous devez recevoir le code de votre email dans quelques minutes après le don, sinon contacter support@junkcode.net \n\n
          
-        <b>Je suis entré dans le code mais rien n'est débloqué</b>\n
-         \u00A0\u00A0 Essayez de redémarrer l'application\n\n
+        <b>Je suis entré dans le code mais rien n\'est débloqué</b>\n
+         \u00A0\u00A0 Essayez de redémarrer l\'application\n\n
         
     </string>
-    <string name="faq_improvement">L'amélioration de l'application</string>
+    <string name="faq_improvement">L\'amélioration de l\'application</string>
     <string name="text_faq_improve">"  
-        <b>Je n'aime pas quelque chose</b>\n
+        <b>Je n\'aime pas quelque chose</b>\n
          \u00A0\u00A0 Faites-nous savoir ce que - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>J'ai trouvé un bug</b>\n
+        <b>J\'ai trouvé un bug</b>\n
          \u00A0\u00A0 Publiez ici http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
-        <b>J'ai idée pour nouvelle fonctionnalité</b>\n
+        <b>J\'ai idée pour nouvelle fonctionnalité</b>\n
          \u00A0\u00A0 Faites-nous savoir ce que - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
         <b>Je veux aider avec translation/icons/...</b>\n
-         \u00A0\u00A0 Certaines des ressources sont déjà ici http://github.com/JunkCode/wtTactMap Vous pouvez proposer la modification ou ajouter de nouvelles choses. Si vous avez une question ou d'autres idées nous permettent de savoir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         \u00A0\u00A0 Certaines des ressources sont déjà ici http://github.com/JunkCode/wtTactMap Vous pouvez proposer la modification ou ajouter de nouvelles choses. Si vous avez une question ou d\'autres idées nous permettent de savoir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
            
     </string>
     
