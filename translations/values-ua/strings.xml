@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тактична карта Warthunder</string>
+    
+    <string name="settings">Настроювання</string>
+    <string name="hide">Сховати</string>
+    <string name="danger">Небезпечно</string>
+    <string name="nodanger">Безпечно</string>
+    <string name="proximity_wrn">Радіус:</string>
+    
+    
+    <string name="more">Додаткові настроювання</string>
+    <string name="connerror">Немає з'єднання</string>
+    
+    <string name="gui">Настроювання інтерфейсу</string>
+    <string name="screenon">Закріпити на екрані</string>
+    <string name="counters">Лічильники</string>
+    
+    <string name="ip_h">IP адреса</string>
+    <string name="find_ip">Знайти IP</string>
+    <string name="set_ip">Установка IP</string>
+    <string name="ip">IP Вашого комп'ютера(без порту):</string>
+    
+    
+    <string name="zoom_btns">Масштаб</string>
+    <string name="donate">Допомога проекту</string>
+    <string name="enemy_vehicles">Ворожа техніка</string>
+    <string name="friendly_vehicles">Дружня техніка</string>
+    <string name="friendly_structures">Дружні будови</string>
+    <string name="enemy_structures">Ворожі будови</string>
+    
+    <string name="updates_speed">Частота відновлень</string>
+    <string name="how_ip">" Як одержати IP адресу – дивитеся отут: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Якщо Ви не знаєте, як одержати IP адресу – натисніть тут"</string>
+    <string name="ip_err">IP адреса невірна</string>
+    <string name="ip_err_wrong">"Уведіть адресу у форматі \r\nxxx.XXX.XXX.XXX \r\n Кликніть на "Допомогу" для одержання детальних інструкцій."</string>
+    <string name="ip_err_local">"127.0.0.1 невірна адреса. \r\n Кликніть на "Допомогу" для одержання детальних інструкцій."</string>
+    <string-array name="updates_speed_array">
+        <item >Дуже швидко</item>
+        <item >Швидко</item>
+        <item >Середня швидкість</item>
+        <item >Повільніше</item>
+        <item >Повільно</item>
+        <item >Дуже повільно</item>
+        <item >5 сік</item>
+    </string-array>
+
+     <string name="info_title"> Про додаток</string>
+    <string name="info_msg">
+        "Цей неофіційний додаток, зроблене для аматорів War Thunder!\r\n"
+        "Цей додаток усе ще на стадії бети, але не соромтеся звертатися до мене з помилками або новими ідеями в:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Переклад на росіянин – Антон aka "Stariymetall"\r\n"        
+    </string>
+    <string name="donate_line">  
+        " чи Подобається вам цей додаток? Скажіть це пожертвуванням на http://junkcode.net для майбутнього розвитку.\r\n"
+        </string>
+     <string name="info_update_title">Відновлення новин</string>
+     
+    <string name="version">Версія додатка:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ignore">Ігнорувати</string>
+    <string name="help">Допомога</string>
+    <string name="pref_header_notifications">Оповіщення</string>
+    
+    <string name="pref_title_ringtone"> Рінґтон</string>
+    <string name="pref_header_data_sync">З'єднання з PC</string>
+    <string name="pref_ringtone_silent"> Без звуку</string>
+    
+    <string name="nowificonnected"> Необхідно підключитися до Wifi</string>
+
+    <string name="planeicons">Іконки літаків</string>
+        <string-array name="planes_icon_size">
+        <item >Великі</item>
+        <item >Середні</item>
+        <item >Маленькі</item>
+        <item >Дуже маленькі</item>
+    </string-array>
+    
+    <string name="lines">Навігаційні лінії</string>
+    <string name="lines_oos">Тількі закадрові</string>
+    <string name="lines_enemy">Ворогів</string>
+    <string name="lines_friendly">Союзників</string>
+    <string name="lines_squad">Команди</string>
+    <string name="lines_target">Ціль</string>
+    
+    <string name="hide_gp_login">Сховати кнопку G+</string>
+    
+    <string name="fullscreen">Повноекранний режим</string>
+    <string name="connect">Підключити друзів</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Управління Waypoint</string>
+    <string name="add">Додати</string>
+    
+    <string name="horizontal_distance">Показати горизонтальну відстань</string>
+    
+    <string name="pref_header_extras">Екстра</string>
+    <string name="prediction">Прогнозування</string>
+    <string name="self">Самостійно</string>
+    <string name="show_intro_screen">Розробник</string>
+    
+    <string name="ext_unlock">Розблокувати додаткові послуги</string>
+    <string name="ext_unlock_det">
+        "Додаткові послуги будуть розблоковані якщо пожертвуйте будь яку <b><i>суму</i></b> \r\n(Якщо ви раніше вже жертвували і не отримали код активації, то напишіть на на електрону пошту)"</string>
+    <string name="ext_unlock_dial">"Код розблокування:"</string>
+    
+    <string name="ext_link">Посилання на акаунт G+</string>
+            
+    <string name="firing_zone"> Дальність стрільби</string>
+    <string name="gray_map">”Туман війни”</string>
+    
+    <string name="map">Мапа:</string>
+    <string name="custom_maps">Користувацька мапа</string>
+    <string name="custom_maps_url">Посилання на користувацьку мапу</string>
+    <string name="see_forum">Для додаткової інформації перейдіть на форум Junkcode</string>
+    
+    <string name="tankicons">Піктограма танка</string>
+    <string name="groundicons">Наземні піктограми</string>
+    
+    <string name="share_position">Показати положення</string>
+    <string name="death_markers">Залишити піктограму “черепів” на місці смерті</string>
+
+    <string name="size">Розмір</string>
+    <string name="style">Стиль</string>
+    
+    <string-array name="style_types">
+        <item >Старий</item>
+        <item >Новий</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>За замовчування</item>
+        <item>Зелений/Помаранчевий</item>
+        <item>Зелений/Червоний</item>
+    </string-array>
+    <string name="colors">Colors</string>
+    
+    <string name="pref_header_map_view">Налаштування мапи</string>
+    <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">Довідка &amp; FAQ</string>
+    
+</resources>
