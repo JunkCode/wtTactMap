@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Ontgrendel extras</string>
     <string name="ext_unlock_det">
-        "Extras worden ontgrendeld door een donatie van <b><i>elke</i></b hoeveelheid of door verdeling van inhoud\r\n(Als je al gedoneerd hebt maar je krijgt je code niet schrijf ons dan een email)"</string>
+        "Extras worden ontgrendeld door een donatie van <b><i>elke</i></b> hoeveelheid of door verdeling van inhoud\r\n(Als je al gedoneerd hebt maar je krijgt je code niet schrijf ons dan een email)"</string>
     <string name="ext_unlock_dial">"Ontgrendel Code:"</string>
     
     <string name="ext_link">Link aan G+ account</string>

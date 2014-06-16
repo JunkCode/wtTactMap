@@ -11,7 +11,7 @@
     
     
     <string name="more">Додаткові настроювання</string>
-    <string name="connerror">Немає з'єднання</string>
+    <string name="connerror">Немає з\'єднання</string>
     
     <string name="gui">Настроювання інтерфейсу</string>
     <string name="screenon">Закріпити на екрані</string>
@@ -20,7 +20,7 @@
     <string name="ip_h">IP адреса</string>
     <string name="find_ip">Знайти IP</string>
     <string name="set_ip">Установка IP</string>
-    <string name="ip">IP Вашого комп'ютера(без порту):</string>
+    <string name="ip">IP Вашого комп\'ютера(без порту):</string>
     
     
     <string name="zoom_btns">Масштаб</string>
@@ -67,7 +67,7 @@
     <string name="pref_header_notifications">Оповіщення</string>
     
     <string name="pref_title_ringtone"> Рінґтон</string>
-    <string name="pref_header_data_sync">З'єднання з PC</string>
+    <string name="pref_header_data_sync">З\'єднання з PC</string>
     <string name="pref_ringtone_silent"> Без звуку</string>
     
     <string name="nowificonnected"> Необхідно підключитися до Wifi</string>
