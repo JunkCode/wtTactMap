@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder tactische kaart</string>
+    
+    <string name="settings">Instellingen</string>
+    <string name="hide">Verberg</string>
+    <string name="danger">Gevaar waarschuwing</string>
+    <string name="nodanger">OK waarschuwing</string>
+    <string name="proximity_wrn">Straal:</string>
+    
+    
+    <string name="more">Meer instellingen</string>
+    <string name="connerror">Geen connectie</string>
+    
+    <string name="gui">GUI instellingen</string>
+    <string name="screenon">Houd scherm aan</string>
+    <string name="counters">Bestrijden</string>
+    
+    <string name="ip_h">IP addres</string>
+    <string name="find_ip">Vindt juiste IP</string>
+    <string name="set_ip">Stel IP in</string>
+    <string name="ip">IP van computer met War Thunder (zonder poort):</string>
+    
+    
+    <string name="zoom_btns">Zoem knoppen</string>
+    <string name="donate">Doneer</string>
+    <string name="enemy_vehicles">Vijandelijke voertuigen</string>
+    <string name="friendly_vehicles">Vriendelijke voertuigen</string>
+    <string name="friendly_structures">Vriendelijke structuren</string>
+    <string name="enemy_structures">Vijandelijke structures</string>
+    
+    <string name="updates_speed">Updates frequentie</string>
+    <string name="how_ip">"Hoe vind ik mijn IP¨adress? Kijk op: http://ip.junkcode.net/help"</string>
+    <string name="how_ip_der">"Als je niet weet hoe je je IP adres vindt, klik dan hier"</string>
+    <string name="ip_err">IP addres is niet geldig</string>
+    <string name="ip_err_wrong">"input adres in het formaat \r\nXXX.XXX.XXX.XXX \r\n Klik op Help om een gids te krijgen voor het vinden van het juiste adres."</string>
+    <string name="ip_err_local">"127.0.0.1 is niet het juist IP adres. \r\n Klik op help om een gids te krijgen voor het vinden van het juiste IP."</string>
+    <string-array name="updates_speed_array">
+        <item >Zeer snel</item>
+        <item >Snel</item>
+        <item >Gemiddeld</item>
+        <item >Trager</item>
+        <item >Traag</item>
+        <item >Zeer traag</item>
+        <item >5 sec</item>
+    </string-array>
+
+     <string name="info_title">Over</string>
+    <string name="info_msg">
+        "Dit is een onofficieele app gemaakt door War Thunder fans!\r\n"
+        "Deze app is in beta, maar contacteer ons gerust over bugs of met nieuwe ideën op:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "We zijn nog op zoek naar mensen om deze app te vertalen, als je wilt helpen kijk dan op http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+    </string>
+    <string name="donate_line">  
+        "Vind je dit een goede app? Vertel het ons door een donatie op http://junkcode.net voor verdere ontwikkeling. \r\n"
+        </string>
+     <string name="info_update_title">Update nieuws</string>
+     
+    <string name="version">App Versie:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuleer</string>
+    <string name="ignore">Negeer</string>
+    <string name="help">Help</string>
+    <string name="pref_header_notifications">Meldingen</string>
+
+    <string name="pref_title_ringtone">Ringtoon</string>
+    <string name="pref_header_data_sync">PC connectie</string>
+    <string name="pref_ringtone_silent">Stil</string>
+    
+    <string name="nowificonnected">Je moet verbonden zijn met je locale WiFi</string>
+
+    <string name="planeicons">Vliegtuig iconen</string>
+    <string-array name="planes_icon_size">
+        <item >Groot</item>
+        <item >Medium</item>
+        <item >Klein</item>
+        <item >Zeer klein</item>
+    </string-array>
+    
+    <string name="lines">Navigatie lijnen</string>
+    <string name="lines_oos">Alleen van het scherm doelwitten</string>
+    <string name="lines_enemy">Vijanden</string>
+    <string name="lines_friendly">Vrienden</string>
+    <string name="lines_squad">Troep</string>
+    <string name="lines_target">Doelwot</string>
+    
+    <string name="hide_gp_login">Verberg G+ Login knop</string>
+    
+    <string name="fullscreen">Volledig scherm</string>
+    <string name="connect">Verbind met vrienden</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint bediening</string>
+    <string name="add">Toevoegen</string>
+    
+    <string name="horizontal_distance">Toon horizontale afstand</string>
+    
+    <string name="pref_header_extras">Extra</string>
+    <string name="prediction">Voorspelling</string>
+    <string name="self">Zelf</string>
+    <string name="show_intro_screen">Toon intro splash</string>
+    
+    <string name="ext_unlock">Ontgrendel extras</string>
+    <string name="ext_unlock_det">
+        "Extras worden ontgrendeld door een donatie van <b><i>elke</i></b hoeveelheid of door verdeling van inhoud\r\n(Als je al gedoneerd hebt maar je krijgt je code niet schrijf ons dan een email)"</string>
+    <string name="ext_unlock_dial">"Ontgrendel Code:"</string>
+    
+    <string name="ext_link">Link aan G+ account</string>
+    
+    <string name="firing_zone">Vuurafstand</string>
+    <string name="gray_map">Zwart-Witte kaart</string>
+    
+    <string name="map">Map:</string>
+    <string name="custom_maps">Gecostumeerde kaarten</string>
+    <string name="custom_maps_url">Gecostumeerde kaarten url</string>
+    <string name="see_forum">Voor details kan je kijken op het JunkCode forum</string>
+    
+    <string name="tankicons">Tank icons</string>
+    <string name="groundicons">Grond icoon</string>
+    
+    <string name="share_position">Deel positie</string>
+    <string name="death_markers">Laat schedel bij overlijden</string>
+
+    <string name="size">Grootte</string>
+    <string name="style">Stijl</string>
+    
+    <string-array name="style_types">
+        <item >Oud</item>
+        <item >Nieuw</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>Standaart</item>
+        <item>Groen/Orange</item>
+        <item>Groen/Rood</item>
+    </string-array>
+    <string name="colors">Kleuren</string>
+    
+    <string name="pref_header_map_view">Kaart instellingen</string>
+    <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">Help &amp; FAQ</string>
+     
+</resources>
