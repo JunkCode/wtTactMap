@@ -6,7 +6,7 @@
         <b>1</b> Свободный режим\n
         <b>2</b> Следовать за самолетом\n
         <b>3</b> Без вращения\n
-        <b>4</b> Click to reset\n
+        <b>4</b> Нажмите для сброса\n
     </string>
     
     <string name="help_prediction">Прогноз</string>
