@@ -81,7 +81,7 @@
     </string-array>
     
     <string name="lines">Линии до объектов</string>
-    <string name="lines_oos">Только когда вне экрана</string>
+    <string name="lines_oos">Только когда объект вне экрана</string>
     <string name="lines_enemy">Враги</string>
     <string name="lines_friendly">Союзники</string>
     <string name="lines_squad">Отряд</string>
