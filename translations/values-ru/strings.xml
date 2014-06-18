@@ -80,7 +80,7 @@
         <item >Очень маленькие</item>
     </string-array>
     
-    <string name="lines">Линия движения</string>
+    <string name="lines">Направление движения</string>
     <string name="lines_oos">Only to offscreen</string>
     <string name="lines_enemy">Враги</string>
     <string name="lines_friendly">Союзники</string>
