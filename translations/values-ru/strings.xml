@@ -52,7 +52,7 @@
         "Это приложение всё ещё на стадии беты, но не стесняйтесь обращаться ко мне с ошибками или новыми идеями в:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Перевод на русский – Антон aka "StariyMetall"\r\n"        
+        "Перевод на русский – Антон aka "StariyMetall", Дмитрий aka "Deus_Ex_Perceptron"\r\n"        
     </string>
     <string name="donate_line">  
         "Нравится ли вам это приложение? Скажите это пожертвованием на http://junkcode.net для будущего развития.\r\n"
@@ -80,68 +80,68 @@
         <item >Очень маленькие</item>
     </string-array>
     
-    <string name="lines">Navigation lines</string>
+    <string name="lines">Линия движения</string>
     <string name="lines_oos">Only to offscreen</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
+    <string name="lines_enemy">Враги</string>
+    <string name="lines_friendly">Союзники</string>
+    <string name="lines_squad">Отряд</string>
+    <string name="lines_target">Цель</string>
     
-    <string name="hide_gp_login">Hide G+ Login button</string>
+    <string name="hide_gp_login">Скрыть кнопку G+ Login</string>
     
-    <string name="fullscreen">Fullscreen</string>
-    <string name="connect">Connect to friends</string>
+    <string name="fullscreen">Полный экран</string>
+    <string name="connect">Пригласить друга</string>
     
-    <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Waypoint controls</string>
-    <string name="add">Add</string>
+    <string name="waypoint">Точка маршрута</string>
+    <string name="waypoint_ctrl">Управление точками маршрута</string>
+    <string name="add">Добавить</string>
     
-    <string name="horizontal_distance">Show horizontal distance</string>
+    <string name="horizontal_distance">Показывать расстояние (по горизонтали)</string>
     
-    <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
-    <string name="self">Self</string>
-    <string name="show_intro_screen">Show intro splash</string>
+    <string name="pref_header_extras">Бонусы</string>
+    <string name="prediction">Прогнозирование</string>
+    <string name="self">Я</string>
+    <string name="show_intro_screen">Показывать интро</string>
     
-    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock">Разблокировать бонусы</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
+        "Бонусы разблокируются при пожертвовании <b><i>любой</i></b> суммы или за помощь в развитии приложения\r\n(Если вы жертвовали ранее и не получили код, напишите нам по e-mail)"</string>
+    <string name="ext_unlock_dial">"Код разблокировки:"</string>
     
-    <string name="ext_link">Link to G+ account</string>
+    <string name="ext_link">Приязать к G+ аккаунту</string>
             
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">Дальность стрельбы</string>
+    <string name="gray_map">Черно-белая карта</string>
     
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="map">Карта:</string>
+    <string name="custom_maps">Сторонняя карта</string>
+    <string name="custom_maps_url">Ссылка на стороннюю карту</string>
+    <string name="see_forum">Подробности смотрите на форуме JunkCode</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">Иконки танков</string>
+    <string name="groundicons">Иконки наземных целей</string>
     
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="share_position">Поделиться позицией</string>
+    <string name="death_markers">Оставлять черепа на месте смерти</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">Размер</string>
+    <string name="style">Стиль</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >Старый</item>
+        <item >Новый</item>
     </string-array>
     
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>По умолчанию</item>
+        <item>Зеленый/Оранжевый</item>
+        <item>Зеленый/Красный</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">Цвета</string>
     
-    <string name="pref_header_map_view">Map setup</string>
-    <string name="pref_header_GUI">GUI</string>
+    <string name="pref_header_map_view">Настройки карты</string>
+    <string name="pref_header_GUI">Интерфейс</string>
     
-    <string name="help_title">Help &amp; FAQ</string>
+    <string name="help_title">Помощь &amp; ЧаВо</string>
     
 </resources>
