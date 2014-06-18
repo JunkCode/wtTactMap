@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Управление картой</string>
     <string name="text_help_map_ctrl">
-        <b>1</b> Free mode\n
-        <b>2</b> Follow plane\n
-        <b>3</b> Rotation lock\n
+        <b>1</b> Свободный режим\n
+        <b>2</b> Следовать за самолетом\n
+        <b>3</b> Без вращения\n
         <b>4</b> Click to reset\n
     </string>
     
-    <string name="help_prediction">Prediction</string>
+    <string name="help_prediction">Прогноз</string>
     <string name="text_help_prediction">
-        Prediction of plane position (based on current speed and direction) in 10,30 and 90 seconds
+        Прогнозирование положения самолета (при текущей скорости и направлении) через 10, 30 и 90 секунд
     </string>
     
-    <string name="faq">FAQ (Frequently asked questions)</string>
+    <string name="faq">ЧаВо (Частые Вопросы)</string>
     
-    <string name="faq_connection">Connection</string>
+    <string name="faq_connection">Подключение</string>
     <string name="text_faq_con">
-        <b>How do I connect?</b>\n
-         \u00A0\u00A0 The app needs an IP address of your computer running War Thunder, how to get your IP see http://ip.junkcode.net \n\n
+        <b>Как подключить?</b>\n
+         \u00A0\u00A0 В приложении надо указать IP адрес вашего компьютера, на котором запущен War Thunder. Как узнать ваш IP адрес смотрите http://ip.junkcode.net \n\n
          
-        <b>I did enter IP and it still says \"No connection\"</b>\n
-         \u00A0\u00A0 There might be problem with your local network routing see http://ip.junkcode.net/help \n\n
+        <b>Я указал IP адрес, но до сих пор висит сообщение \"No connection\"</b>\n
+         \u00A0\u00A0 У вас может быть проблема с маршрутизацией в локальной сети. Смотрите http://ip.junkcode.net/help \n\n
          
-        <b>It still doesn\'t connect!</b>\n
-         \u00A0\u00A0 You didn\'t read http://ip.junkcode.net/help, did you?
+        <b>Все равно не подключается!</b>\n
+         \u00A0\u00A0 Вы уже читали http://ip.junkcode.net/help, так ведь?
          \n
     </string>
     
-    <string name="faq_extras">Extras</string>
+    <string name="faq_extras">Бонусы</string>
     <string name="text_faq_extra">   
-        <b>I donated, where is my code?</b>\n
-         \u00A0\u00A0 You should receive code to your email within few minutes after donation, if not contact support@junkcode.net \n\n
+        <b>Я внес пожертвование, где мой код?</b>\n
+         \u00A0\u00A0 Вы должны получить код на ваш e-mail в течение нескольких минут после пожертвования. Если этого не произошло напишите по адресу support@junkcode.net \n\n
          
-        <b>I entered code but nothing is unlocked</b>\n
-         \u00A0\u00A0 Try restarting the app \n\n
+        <b>Я ввел код, но ничего не разблокировалось</b>\n
+         \u00A0\u00A0 Попробуйте перезагрузить приложение \n\n
         
     </string>
-    <string name="faq_improvement">App improvement</string>
+    <string name="faq_improvement">Улучшение приложения</string>
     <string name="text_faq_improve">"  
-        <b>I don\'t like something</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Мне кое что не нравится</b>\n
+         \u00A0\u00A0 Скажите нам, что именно вам не нравится - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I found a bug</b>\n
-         \u00A0\u00A0 Post it here http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+        <b>Я нашел ошибку</b>\n
+         \u00A0\u00A0 Напишите об этом http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
-        <b>I have idea for new feature</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>У меня есть идея новой функции</b>\n
+         \u00A0\u00A0 Обязательно рассажите нам - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I want to help with translation/icons/...</b>\n
-         \u00A0\u00A0 Some of the resources are already here http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Я хочу помочь с переводом/иконками/...</b>\n
+         \u00A0\u00A0 Часть ресурсов уже доступна тут http://github.com/JunkCode/wtTactMap Вы можете предложить изменения или добавить что-то новое. Если у Вас возникли вопросы или другие идеи, сообщите нам - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
     </string>
     
