@@ -55,7 +55,7 @@
     </string>
     
 	<string name="donate_line"> 
-	   "Lubisz tą aplikacje? Pokaż to wspomagając autora na http://junkcode.net dla przyszłego rozwoju.\r\n"
+	   "Lubisz tą aplikacje? Okaż to wspomagając autora na http://junkcode.net dla przyszłego rozwoju.\r\n"
 	</string>
 	<string name="info_update_title">Informacje o aktualizacji</string>
 	
@@ -98,50 +98,50 @@
 
     <string name="horizontal_distance">Pokaż odległość horyzontalną</string>
     
-    <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
+    <string name="pref_header_extras">Dodatki</string>
+    <string name="prediction">Przewidywanie</string>
     <string name="self">Self</string>
-    <string name="show_intro_screen">Show intro splash</string>
+    <string name="show_intro_screen">Pokaż intro</string>
     
-    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock">Odblokuj dodatki</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
+        "Dodatki są odblokowane przez dotację w <b><i>jakiejkolwiek</i></b> ilości lub poprzez udział w tworzeniu aplikacji.\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
+    <string name="ext_unlock_dial">"Kod odblokowujący:"</string>
     
-    <string name="ext_link">Link to G+ account</string>
+    <string name="ext_link">Link do konta Google+</string>
         
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">Zasięg ostrzału</string>
+    <string name="gray_map">Mapa w odcieniach szarości</string>
     
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="map">Mapa:</string>
+    <string name="custom_maps">Niestandartowe mapy</string>
+    <string name="custom_maps_url">Linki do niestandartowych map</string>
+    <string name="see_forum">Więcej szczegółów na JunkCode forum</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">Ikona czołgu</string>
+    <string name="groundicons">Ikony sił lądowych</string>
     
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="share_position">Udostępnij pozycję</string>
+    <string name="death_markers">Pozostaw czaszki w miejscach śmierci</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">Wielkość</string>
+    <string name="style">Typ</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >Stary</item>
+        <item >Nowy</item>
     </string-array>
     
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>Podstawowy</item>
+        <item>Zielono-Pomarańczowy</item>
+        <item>Zielono-Czerwony</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">Kolory</string>
     
-    <string name="pref_header_map_view">Map setup</string>
-    <string name="pref_header_GUI">GUI</string>
+    <string name="pref_header_map_view">Ustawienia Map</string>
+    <string name="pref_header_GUI">Interfejs</string>
     
-    <string name="help_title">Help &amp; FAQ</string>
+    <string name="help_title">Pomoc &amp; FAQ</string>
     
 </resources>
