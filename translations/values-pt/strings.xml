@@ -5,37 +5,37 @@
     
     <string name="settings">Configurações</string>
     <string name="hide">Esconder</string>
-    <string name="danger">Notificação de Perigo</string>
-    <string name="nodanger">Notificação de OK</string>
-    <string name="proximity_wrn">Raio:</string>
+    <string name="danger">Alerta de perigo</string>
+    <string name="nodanger">Nenhum perigo</string>
+    <string name="proximity_wrn">Alerta de proximidade:</string>
     
     
-    <string name="more">Mais Configurações</string>
-    <string name="connerror">Sem Conecção</string>
+    <string name="more">Mais configurações</string>
+    <string name="connerror">Sem conexão</string>
     
-    <string name="gui">GUI Configurações</string>
-    <string name="screenon">Manter na Tela</string>
+    <string name="gui">Configurações de interface</string>
+    <string name="screenon">Manter na tela</string>
     <string name="counters">Contadores</string>
     
     <string name="ip_h">Endereço de IP</string>
-    <string name="find_ip">Procurar IP correto</string>
-    <string name="set_ip">Adicionar IP</string>
+    <string name="find_ip">Procurar IP automaticamente</string>
+    <string name="set_ip">Adicionar IP manualmente</string>
     <string name="ip">IP do computador com War Thunder (without port):</string>
     
     
-    <string name="zoom_btns">Botões de Zoom</string>
-    <string name="donate">Avaliar</string>
-    <string name="enemy_vehicles">Veículos Inimigos</string>
-    <string name="friendly_vehicles">Veículos Amigos</string>
-    <string name="friendly_structures">AAA Amigos</string>
-    <string name="enemy_structures">AAA Inimigos</string>
+    <string name="zoom_btns">Botões de zoom</string>
+    <string name="donate">DOE!</string>
+    <string name="enemy_vehicles">Veículos inimigos</string>
+    <string name="friendly_vehicles">Veículos amigos</string>
+    <string name="friendly_structures">AAA amigos</string>
+    <string name="enemy_structures">AAA inimigos</string>
     
-    <string name="updates_speed">Frequência de Updates</string>
-    <string name="how_ip">"Veja Como Conseguir o Endereço de IP: http://ip.junkcode.net/"</string>
-    <string name="how_ip_der">"Se Você Não Souber Como Conseguir o Endereço de IP Clique Aqui"</string>
+    <string name="updates_speed">Frequência de atualização</string>
+    <string name="how_ip">"Veja como conseguir o endereço de IP: http://ip.junkcode.net/"</string>
+    <string name="how_ip_der">"Se você não souber como conseguir o endereço de IP, clique aqui"</string>
     <string name="ip_err">Endereço de IP Não é Valido</string>
-    <string name="ip_err_wrong">"Entrada de Endereço No Formato \r\nXXX.XXX.XXX.XXX \r\n Clique em Ajuda Para Conseguir o Correto."</string>
-    <string name="ip_err_local">"127.0.0.1 Não é o Verdadeiro. \r\n Clique em Ajuda Para Conseguir o Correto."</string>
+    <string name="ip_err_wrong">"Entrada de endereço no formato \r\nXXX.XXX.XXX.XXX \r\n Clique em ajuda para conseguir o correto."</string>
+    <string name="ip_err_local">"127.0.0.1 Não é o verdadeiro. \r\n clique em ajuda para conseguir o correto."</string>
     <string-array name="updates_speed_array">
         <item >Muito Rápido</item>
         <item >Rápido</item>
@@ -48,11 +48,11 @@
 
      <string name="info_title">Sobre</string>
     <string name="info_msg">
-        "Este é um mapa não official feito por um fã!\r\n"
-        "Este app ainda está em versão beta, mas sinta-se livre para entrar em contato sobre erros ou novas idéias em:\r\n"
+        "Este é um aplicativo não oficial feito por fãs!\r\n"
+        "Este aplicativo ainda está em versão beta, mas sinta-se livre para entrar em contato sobre erros ou novas idéias em:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Estou procurando por pessoas para traduzir este aplicativo, se você quiser nos ajudar veja http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Estamos procurando por pessoas para traduzir este aplicativo, se você quiser nos ajudar veja http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
         "Gostou do aplicativo? Responda com uma doação em http://junkcode.net for future development.\r\n"
@@ -64,15 +64,15 @@
     <string name="cancel">Cancelar</string>
     <string name="ignore">Ignorar</string>
     <string name="help">Ajuda</string>
-    <string name="pref_header_notifications">Notificões</string>
+    <string name="pref_header_notifications">Notificações</string>
     
-    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_ringtone">Personalizar sons</string>
     <string name="pref_header_data_sync">Conexão com o PC</string>
-    <string name="pref_ringtone_silent">Silencioso</string>
+    <string name="pref_ringtone_silent">Sem som</string>
     
-    <string name="nowificonnected">Você deve conectar ao WIFI local</string>
+    <string name="nowificonnected">Favor conectar ao WIFI local</string>
 
-    <string name="planeicons">Icone dos Aviões</string>
+    <string name="planeicons">Ícone dos Aviões</string>
         <string-array name="planes_icon_size">
         <item >Grande</item>
         <item >Médio</item>
@@ -80,10 +80,10 @@
         <item >Muito Pequeno</item>
     </string-array>
     
-    <string name="lines">Linhas de Navegação</string>
-    <string name="lines_oos">Somente Fora da Tela</string>
+    <string name="lines">Linhas de navegação</string>
+    <string name="lines_oos">Somente fora da tela</string>
     <string name="lines_enemy">Inimigos</string>
-    <string name="lines_friendly">Linhas Amigas</string>
+    <string name="lines_friendly">Linhas amigas</string>
     <string name="lines_squad">Esquadrão</string>
     <string name="lines_target">Alvo</string>
     
@@ -108,7 +108,7 @@
         "Extras são desbloqueados por uma doação de <b><i>qualquer</i></b> quantia ou contribuição de conteúdo\r\n(Se você doou recentemente e não recebeu o código ainda escreva um e-mail para nós)"</string>
     <string name="ext_unlock_dial">"Código de desbloqueio:"</string>
     
-    <string name="ext_link">Lincar a conta do G+</string>
+    <string name="ext_link">Linkar a conta do G+</string>
     
     <string name="firing_zone">Campo de tiro</string>
     <string name="gray_map">Mapa em tons de cinza</string>
@@ -116,13 +116,13 @@
     <string name="map">Mapa:</string>
     <string name="custom_maps">Mapas customizados</string>
     <string name="custom_maps_url">Url de mapas customizados</string>
-    <string name="see_forum">Para detalhes acesse o forum JunkCode</string>
+    <string name="see_forum">Para maiores detalhes acesse o forum JunkCode</string>
     
     <string name="tankicons">Ícones de tanques</string>
     <string name="groundicons">Ícones de terreno</string>
     
     <string name="share_position">Compartilhar posição</string>
-    <string name="death_markers">Deixe crânios na morte</string>
+    <string name="death_markers">Marcar local da queda</string>
 
     <string name="size">Tamanho</string>
     <string name="style">Estilo</string>
@@ -140,9 +140,9 @@
     <string name="colors">Cores</string>
     
     <string name="pref_header_map_view">Configuração do mapa</string>
-    <string name="pref_header_GUI">GUI</string>
+    <string name="pref_header_GUI">Config da interface</string>
     
-    <string name="help_title">Help &amp; FAQ</string>
+    <string name="help_title">Ajuda &amp; FAQ</string>
     
     
 </resources>
