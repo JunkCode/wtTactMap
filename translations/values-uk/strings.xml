@@ -92,8 +92,8 @@
     <string name="fullscreen">Повноекранний режим</string>
     <string name="connect">Підключити друзів</string>
     
-    <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Управління Waypoint</string>
+    <string name="waypoint">Точка маршруту</string>
+    <string name="waypoint_ctrl">Управління точкою маршруту</string>
     <string name="add">Додати</string>
     
     <string name="horizontal_distance">Показати горизонтальну відстань</string>
