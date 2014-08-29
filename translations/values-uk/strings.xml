@@ -3,24 +3,24 @@
 
     <string name="app_name">Тактична карта Warthunder</string>
     
-    <string name="settings">Настроювання</string>
+    <string name="settings">Налаштування</string>
     <string name="hide">Сховати</string>
     <string name="danger">Небезпечно</string>
     <string name="nodanger">Безпечно</string>
     <string name="proximity_wrn">Радіус:</string>
     
     
-    <string name="more">Додаткові настроювання</string>
+    <string name="more">Додаткові налаштування</string>
     <string name="connerror">Немає з\'єднання</string>
     
-    <string name="gui">Настроювання інтерфейсу</string>
+    <string name="gui">Налаштування інтерфейсу</string>
     <string name="screenon">Закріпити на екрані</string>
     <string name="counters">Лічильники</string>
     
     <string name="ip_h">IP адреса</string>
     <string name="find_ip">Знайти IP</string>
     <string name="set_ip">Установка IP</string>
-    <string name="ip">IP Вашого комп\'ютера(без порту):</string>
+    <string name="ip">IP Вашого комп'ютера(без порту):</string>
     
     
     <string name="zoom_btns">Масштаб</string>
@@ -43,7 +43,7 @@
         <item >Повільніше</item>
         <item >Повільно</item>
         <item >Дуже повільно</item>
-        <item >5 сік</item>
+        <item >5 сек</item>
     </string-array>
 
      <string name="info_title"> Про додаток</string>
@@ -52,7 +52,7 @@
         "Цей додаток усе ще на стадії бети, але не соромтеся звертатися до мене з помилками або новими ідеями в:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Переклад на росіянин – Антон aka "Stariymetall"\r\n"        
+        "Переклад на російську – Антон aka "Stariymetall"\r\n"        
     </string>
     <string name="donate_line">  
         " чи Подобається вам цей додаток? Скажіть це пожертвуванням на http://junkcode.net для майбутнього розвитку.\r\n"
@@ -67,7 +67,7 @@
     <string name="pref_header_notifications">Оповіщення</string>
     
     <string name="pref_title_ringtone"> Рінґтон</string>
-    <string name="pref_header_data_sync">З\'єднання з PC</string>
+    <string name="pref_header_data_sync">З'єднання з PC</string>
     <string name="pref_ringtone_silent"> Без звуку</string>
     
     <string name="nowificonnected"> Необхідно підключитися до Wifi</string>
