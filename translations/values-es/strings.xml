@@ -34,8 +34,8 @@
     <string name="how_ip">"Cómo conseguir una IP, ver en: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Si no sabes cómo conseguir tu dirección IP apreta aquí"</string>
     <string name="ip_err">Dirección IP no válida</string>
-    <string name="ip_err_wrong">"Formato de dirección IP: \r\nXXX.XXX.XXX.XXX \r\n Apreta en Ayuda para informarte de cómo conseguir una."</string>
-    <string name="ip_err_local">"127.0.0.1 no es una dirección correcta. \r\n Apreta en Ayuda para informarte de cómo conseguir una."</string>
+    <string name="ip_err_wrong">"Formato de dirección IP: \r\nXXX.XXX.XXX.XXX \r\n Pulsa Ayuda para informarte de cómo conseguir una."</string>
+    <string name="ip_err_local">"127.0.0.1 no es una dirección correcta. \r\n Pulsa Ayuda para informarte de cómo conseguir una."</string>
     <string-array name="updates_speed_array">
         <item >Muy Rápido</item>
         <item >Rápido</item>
@@ -43,7 +43,7 @@
         <item >Lento</item>
         <item >Muy lento</item>
         <item >Seriosamente lento</item>
-        <item >5 sec</item>
+        <item >5 segundos</item>
     </string-array>
 
      <string name="info_title">"Sobre&#8230;"</string>
@@ -52,10 +52,10 @@
         "La app está todavía en beta pero no dudes en contactar con migo con problemas o nuevas ideas:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Traducción hecha por Shinichi (CrazyShini)\r\n"
+        "Traducción hecha por Shinichi (CrazyShini) y Rincewindy\r\n"
     </string>
     <string name="donate_line">  
-        "¿Te gustó la APP?Do you like this app? Dilo con una donación en http://junkcode.net for future development.\r\n"
+        "¿Te gustó la APP? Dilo con una donación en http://junkcode.net for future development.\r\n"
         </string>
      <string name="info_update_title">Noticias de actualización</string>
      
@@ -70,7 +70,7 @@
     <string name="pref_header_data_sync">Conexión PC</string>
     <string name="pref_ringtone_silent">Silenciar</string>
     
-    <string name="nowificonnected">Debes estar conectado en tu red WiFi</string>
+    <string name="nowificonnected">Debes estar conectado a tu red WiFi</string>
 
     <string name="planeicons">Tamaño de los aviones</string>
         <string-array name="planes_icon_size">
@@ -80,68 +80,68 @@
         <item >Muy pequeño</item>
     </string-array>
     
-    <string name="lines">Navigation lines</string>
-    <string name="lines_oos">Only to offscreen</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
+    <string name="lines">Lineas de navegación</string>
+    <string name="lines_oos">Sólo fuera de pantalla</string>
+    <string name="lines_enemy">Enemigos</string>
+    <string name="lines_friendly">Amigos</string>
+    <string name="lines_squad">Escuadrón</string>
+    <string name="lines_target">Objetivo</string>
     
-    <string name="hide_gp_login">Hide G+ Login button</string>
+    <string name="hide_gp_login">Ocultar botón login G+</string>
     
-    <string name="fullscreen">Fullscreen</string>
-    <string name="connect">Connect to friends</string>
+    <string name="fullscreen">Pantalla completa</string>
+    <string name="connect">Connectar con amigos</string>
     
     <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Waypoint controls</string>
-    <string name="add">Add</string>
+    <string name="waypoint_ctrl">Ajustes de Waypoints</string>
+    <string name="add">Añadir</string>
     
-    <string name="horizontal_distance">Show horizontal distance</string>
+    <string name="horizontal_distance">Muestra distancia horizontal</string>
     
     <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
-    <string name="self">Self</string>
-    <string name="show_intro_screen">Show intro splash</string>
+    <string name="prediction">Predicción</string>
+    <string name="self">Auto</string>
+    <string name="show_intro_screen">Muestra pantalla inicio</string>
     
-    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock">Desbloquea extras</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
+        "Los extras han sido desbloqueados por donación de <b><i>cualquier</i></b> cantidad o por contribución de contenido\r\n(Si donaste y no has recibido el código aún, escríbenos un correo)"</string>
+    <string name="ext_unlock_dial">"Código de desbloqueo:"</string>
     
-    <string name="ext_link">Link to G+ account</string>
+    <string name="ext_link">Enlaza con cuenta G+</string>
         
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">Rango de fuego</string>
+    <string name="gray_map">Mapa en blanco y negro</string>
     
-    <string name="map">Map:</string>
+    <string name="map">Mapa:</string>
     <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
+    <string name="custom_maps_url">url de mapas personalizados</string>
     <string name="see_forum">For details see JunkCode forum</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">Iconos de tanque</string>
+    <string name="groundicons">Iconos de tierra</string>
     
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="share_position">Comparte posición</string>
+    <string name="death_markers">Dejar calavera de muertes</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">Tamaño</string>
+    <string name="style">Estilo</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >Viejo</item>
+        <item >Nuevo</item>
     </string-array>
     
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>Por defecto</item>
+        <item>Verde/Naranja</item>
+        <item>Verde/Rojo</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">Colores</string>
     
-    <string name="pref_header_map_view">Map setup</string>
+    <string name="pref_header_map_view">Configurar mapa</string>
     <string name="pref_header_GUI">GUI</string>
     
-    <string name="help_title">Help &amp; FAQ</string>
+    <string name="help_title">Ayuda &amp; FAQ</string>
     
 </resources>
