@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4686"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fighter_spawn.svg"
+   inkscape:export-filename="C:\wrk\WarThunder\images\statics\bomber_spawn.png"
+   inkscape:export-xdpi="552.27271"
+   inkscape:export-ydpi="552.27271">
+  <defs
+     id="defs4688">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4742"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4720"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4709"
+       is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       id="filter6571">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.7577344"
+         id="feGaussianBlur6573" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="598.98361"
+     inkscape:cy="585.72386"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1837"
+     inkscape:window-height="1006"
+     inkscape:window-x="1272"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="1,0"
+       position="402.04071,460.62956"
+       id="guide4705" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4691">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:0.82978724999999998;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;filter:url(#filter6571);stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 402.03125 211.90625 C 249.72678 211.90625 126.28125 335.38303 126.28125 487.6875 C 126.28125 639.99197 249.72678 763.46875 402.03125 763.46875 C 554.33572 763.46875 677.8125 639.99197 677.8125 487.6875 C 677.8125 335.38303 554.33572 211.90625 402.03125 211.90625 z M 402.03125 312.9375 L 417.1875 313.9375 C 417.1875 313.9375 423.31541 319.05256 425.53125 322.03125 C 428.04342 325.4083 428.5625 333.90625 428.5625 333.90625 L 430.3125 359.40625 C 430.3125 359.40625 433.71533 369.73855 437.375 373.53125 C 440.3046 376.56735 448.5 379.59375 448.5 379.59375 L 614.15625 379.59375 C 614.15625 379.59375 618.9772 381.56957 620.21875 383.65625 C 622.12046 386.85245 621.21875 394.75 621.21875 394.75 C 621.21875 394.75 610.68595 413.92649 602.03125 420 C 592.79072 426.48462 569.71875 430.09375 569.71875 430.09375 L 454.5625 441.21875 C 454.5625 441.21875 440.6416 444.2344 436.375 449.3125 C 432.80268 453.56427 432.34375 465.46875 432.34375 465.46875 L 426.03125 600.3125 C 426.03125 600.3125 427.32439 608.94935 431.0625 611.9375 C 435.76742 615.69847 442.6875 616.71875 442.6875 616.71875 L 501.03125 624.0625 C 501.03125 624.0625 504.25107 629.25427 504.0625 632.125 C 503.6873 637.83689 500.39029 643.6458 495.96875 647.28125 C 489.71576 652.42255 472.75 654.375 472.75 654.375 L 414 654.625 L 410.4375 657.5 L 409.21875 675.96875 C 409.21875 675.96875 408.47731 678.17698 407.5625 678.78125 C 406.29271 679.62 402.53125 679.375 402.53125 679.375 C 402.53125 679.375 398.76979 679.62 397.5 678.78125 C 396.58519 678.17698 395.84375 675.96875 395.84375 675.96875 L 394.65625 657.5 L 391.0625 654.625 L 332.34375 654.375 C 332.34375 654.375 315.34674 652.42255 309.09375 647.28125 C 304.67221 643.6458 301.40645 637.83689 301.03125 632.125 C 300.84268 629.25427 304.0625 624.0625 304.0625 624.0625 L 362.40625 616.71875 C 362.40625 616.71875 369.29508 615.69847 374 611.9375 C 377.73811 608.94935 379.0625 600.3125 379.0625 600.3125 L 372.75 465.46875 C 372.75 465.46875 372.29107 453.56427 368.71875 449.3125 C 364.45215 444.2344 350.53125 441.21875 350.53125 441.21875 L 235.375 430.09375 C 235.375 430.09375 212.27178 426.48462 203.03125 420 C 194.37655 413.92649 183.84375 394.75 183.84375 394.75 C 183.84375 394.75 182.94204 386.85245 184.84375 383.65625 C 186.0853 381.56957 190.90625 379.59375 190.90625 379.59375 L 356.59375 379.59375 C 356.59375 379.59375 364.7579 376.56735 367.6875 373.53125 C 371.34717 369.73855 374.78125 359.40625 374.78125 359.40625 L 376.53125 333.90625 C 376.53125 333.90625 377.05033 325.4083 379.5625 322.03125 C 381.77834 319.05256 387.90625 313.9375 387.90625 313.9375 L 402.03125 312.9375 z "
+       id="path5984" />
+  </g>
+</svg>
