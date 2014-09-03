@@ -18,7 +18,7 @@
     <string name="counters">Counters</string>
     
     <string name="ip_h">IP address</string>
-    <string name="find_ip">Find right IP</string>
+    <string name="find_ip">Scan</string>
     <string name="set_ip">Set IP</string>
     <string name="ip">IP of computer with War Thunder (without port):</string>
     
@@ -143,5 +143,7 @@
     <string name="pref_header_GUI">GUI</string>
     
     <string name="help_title">Help &amp; FAQ</string>
+    
+    <string name="blink">Allow flashing</string>
      
 </resources>
