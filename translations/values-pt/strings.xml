@@ -144,5 +144,7 @@
     
     <string name="help_title">Ajuda &amp; FAQ</string>
     
+    <string name="blink">Allow flashing</string>
+    
     
 </resources>
