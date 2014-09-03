@@ -142,5 +142,7 @@
     <string name="pref_header_GUI">GUI</string>
     
     <string name="help_title">Aide &amp; FAQ</string>
-     
+    
+    <string name="blink">Allow flashing</string>
+    
 </resources>
