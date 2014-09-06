@@ -32,7 +32,7 @@
     
     <string name="updates_speed">Velocidad de refresco</string>
     <string name="how_ip">"Cómo conseguir una IP, ver en: http://ip.junkcode.net/"</string>
-    <string name="how_ip_der">"Si no sabes cómo conseguir tu dirección IP apreta aquí"</string>
+    <string name="how_ip_der">"Si no sabes cómo conseguir tu dirección IP clickea aquí"</string>
     <string name="ip_err">Dirección IP no válida</string>
     <string name="ip_err_wrong">"Formato de dirección IP: \r\nXXX.XXX.XXX.XXX \r\n Pulsa Ayuda para informarte de cómo conseguir una."</string>
     <string name="ip_err_local">"127.0.0.1 no es una dirección correcta. \r\n Pulsa Ayuda para informarte de cómo conseguir una."</string>
@@ -42,20 +42,20 @@
         <item >Medio</item>
         <item >Lento</item>
         <item >Muy lento</item>
-        <item >Seriosamente lento</item>
+        <item >Seriamente lento</item>
         <item >5 segundos</item>
     </string-array>
 
      <string name="info_title">"Sobre&#8230;"</string>
     <string name="info_msg">
         "¡Esta es una app no oficial hecha por un fan de War Thunder!\r\n"
-        "La app está todavía en beta pero no dudes en contactar con migo con problemas o nuevas ideas:\r\n"
+        "La app está todavía en beta pero no dudes en contactarte conmigo por problemas o nuevas ideas:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
         "Traducción hecha por Shinichi (CrazyShini) y Rincewindy\r\n"
     </string>
     <string name="donate_line">  
-        "¿Te gustó la APP? Dilo con una donación en http://junkcode.net for future development.\r\n"
+        "¿Te gustó la APP? Dilo con una donación en http://junkcode.net para seguir desarrollando la aplicación.\r\n"
         </string>
      <string name="info_update_title">Noticias de actualización</string>
      
@@ -114,9 +114,9 @@
     <string name="gray_map">Mapa en blanco y negro</string>
     
     <string name="map">Mapa:</string>
-    <string name="custom_maps">Custom maps</string>
+    <string name="custom_maps">Mapas personalizados</string>
     <string name="custom_maps_url">url de mapas personalizados</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="see_forum">Para más detalles visita el foro de JunkCode</string>
     
     <string name="tankicons">Iconos de tanque</string>
     <string name="groundicons">Iconos de tierra</string>
@@ -144,6 +144,6 @@
     
     <string name="help_title">Ayuda &amp; FAQ</string>
     
-    <string name="blink">Allow flashing</string>
+    <string name="blink">Permitir parpadeo</string>
     
 </resources>
