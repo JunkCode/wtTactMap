@@ -18,7 +18,7 @@
     <string name="counters">Zähler</string>
 
     <string name="ip_h">IP-Adresse</string>
-    <string name="find_ip">IP finden</string>
+    <string name="find_ip">IP suchen</string>
     <string name="set_ip">IP eingeben</string>
     <string name="ip">IP des Computers mit War Thunder (ohne Port):</string>
 
@@ -144,6 +144,6 @@
     
     <string name="help_title">Hilfe &amp; FAQ</string>
     
-    <string name="blink">Allow flashing</string>
+    <string name="blink">Blinkendes Icon</string>
     
 </resources>
