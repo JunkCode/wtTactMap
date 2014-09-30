@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder tactical map</string>
+    
+    <string name="settings">Inställningar</string>
+    <string name="hide">Göm</string>
+    <string name="danger">Varning</string>
+    <string name="nodanger">OK meddelande</string>
+    <string name="proximity_wrn">Radie:</string>
+    
+    
+    <string name="more">Fler inställningar</string>
+    <string name="connerror">Ingen anslutning</string>
+    
+    <string name="gui">GUI inställningar</string>
+    <string name="screenon">Behåll skärmen på</string>
+    <string name="counters">Räknare</string>
+    
+    <string name="ip_h">IP adress</string>
+    <string name="find_ip">Skanna</string>
+    <string name="set_ip">Ställ in IP adress</string>
+    <string name="ip">IP adress för datorn med War Thunder (utan port):</string>
+    
+    
+    <string name="zoom_btns">Zoom knappar</string>
+    <string name="donate">Donera</string>
+    <string name="enemy_vehicles">Fiende fordon</string>
+    <string name="friendly_vehicles">Allierade fordon</string>
+    <string name="friendly_structures">Allierade byggnader</string>
+    <string name="enemy_structures">Fiendens byggnader</string>
+    
+    <string name="updates_speed">Updaterings frekvens</string>
+    <string name="how_ip">"För att hitta din IP adress, se: http://ip.junkcode.net/help"</string>
+    <string name="how_ip_der">"Om du inte vet hir du hittar din IP address, klicka här"</string>
+    <string name="ip_err">Ogiltig IP adress</string>
+    <string name="ip_err_wrong">"Mata in adressen i formatet \r\nXXX.XXX.XXX.XXX \r\n Klicka på hjälp för att hitta rätt adress."</string>
+    <string name="ip_err_local">"127.0.0.1 är fel adress. \r\n Tryck på hjälp för att hitta rätt adress."</string>
+    <string-array name="updates_speed_array">
+        <item >Väldigt ofta</item>
+        <item >Ofta</item>
+        <item >Ganska ofta</item>
+        <item >Ibland</item>
+        <item >Sällan</item>
+        <item >Väldigt sällan</item>
+        <item >5 sek intervall</item>
+    </string-array>
+
+     <string name="info_title">Om War Thunder tactical map</string>
+    <string name="info_msg">
+        "Detta är en inofficiell app gjord av War Thunder fans!\r\n"
+        "Den här appen är fortfarande i beta så rapportera gärna buggar, problem och nya idéer till:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Vi letar efter folk som vill hjälpa till at översätta den här appen till fler språk. Om du vill hjälpa till kan du göra det på http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+    </string>
+    <string name="donate_line">  
+        "Tycker du om den här appen? Visa det genom att donera på http://junkcode.net för att fortsätta utvecklingen av den. \r\n"
+        </string>
+     <string name="info_update_title">Nyheter om uppdateringar</string>
+     
+    <string name="version">App Version:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="ignore">Ignorera</string>
+    <string name="help">Hjälp</string>
+    <string name="pref_header_notifications">Meddelanden</string>
+
+    <string name="pref_title_ringtone">Ringsignal</string>
+    <string name="pref_header_data_sync">PC anslutning</string>
+    <string name="pref_ringtone_silent">Tyst läge</string>
+    
+    <string name="nowificonnected">Anslut till WiFi</string>
+
+    <string name="planeicons">Flygplansikoner</string>
+    <string-array name="planes_icon_size">
+        <item >Stora</item>
+        <item >Mellan</item>
+        <item >Små</item>
+        <item >Väldigt små</item>
+    </string-array>
+    
+    <string name="lines">Navigations linjer</string>
+    <string name="lines_oos">Endast för föremål utanför bilden</string>
+    <string name="lines_enemy">Fiender</string>
+    <string name="lines_friendly">Allierade</string>
+    <string name="lines_squad">Grupp</string>
+    <string name="lines_target">Markerad fiende</string>
+    
+    <string name="hide_gp_login">Dölj G+ inloggnings knapp</string>
+    
+    <string name="fullscreen">Fullskärm</string>
+    <string name="connect">Anslut till vänner</string>
+    
+    <string name="waypoint">Vägpunkt</string>
+    <string name="waypoint_ctrl">Vägpunkts inställningar</string>
+    <string name="add">Lägg till</string>
+    
+    <string name="horizontal_distance">Visa horisontellt avstånd</string>
+    
+    <string name="pref_header_extras">Extra</string>
+    <string name="prediction">Förutseenden</string>
+    <string name="self">Du själv</string>
+    <string name="show_intro_screen">Visa uppstarts animering</string>
+    
+    <string name="ext_unlock">Lås upp fler funktioner</string>
+    <string name="ext_unlock_det">
+        "Du låser upp fler funktioner genom att donera valfri summa eller genom att bidra till\r\nappens utveckling(Om du har donerat tidigare men inte har fått någon kod så\r\nskicka ett email till oss)</string>
+    <string name="ext_unlock_dial">"Kod för fler funktioner:"</string>
+    
+    <string name="ext_link">Länka till G+</string>
+    
+    <string name="firing_zone">Skottzon</string>
+    <string name="gray_map">Karta i gråskala</string>
+    
+    <string name="map">Karta:</string>
+    <string name="custom_maps">Egen karta</string>
+    <string name="custom_maps_url">Url till den egna kartan</string>
+    <string name="see_forum">För mer detaljer besök JunkCodes forum</string>
+    
+    <string name="tankicons">Stridsvagns ikoner</string>
+    <string name="groundicons">Mark ikoner</string>
+    
+    <string name="share_position">Dela position</string>
+    <string name="death_markers">Visa en dödskalle där du dog</string>
+
+    <string name="size">Storlek</string>
+    <string name="style">Stil</string>
+    
+    <string-array name="style_types">
+        <item >Gammal</item>
+        <item >Ny</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>Standard</item>
+        <item>Grön/Orange</item>
+        <item>Grön/Röd</item>
+    </string-array>
+    <string name="colors">Färger</string>
+    
+    <string name="pref_header_map_view">Kart inställningar</string>
+    <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">Hjälp &amp; Vanliga frågor</string>
+    
+    <string name="blink">Tillåt blinkande</string>
+     
+</resources>
