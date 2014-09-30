@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="help_map_ctrl">Map control</string>
+    <string name="text_help_map_ctrl">
+        <b>1</b> Fritt läge\n
+        <b>2</b> Följ planet\n
+        <b>3</b> Lås rotation\n
+        <b>4</b> Tryck för att återställa\n
+    </string>
+    
+    <string name="help_prediction">Förutseende</string>
+    <string name="text_help_prediction">
+        Förutser flygplanets position (baserat på flygplanets nuvarande hastighet och kurs) med markeringar för 10,30 och 90 seunder
+    </string>
+    
+    <string name="faq">Vanliga frågor</string>
+    
+    <string name="faq_connection">Anslutning</string>
+    <string name="text_faq_con">
+        <b>Hur ansluter jag?</b>\n
+         \u00A0\u00A0 Appen behöver IP adressen till datorn som kör War Thunder. Om du inte vet hur du hittar din IP adress kan du lära dig här http://ip.junkcode.net \n\n
+         
+        <b>Jag slog in rätt adress men ändå får jag meddelandet \"Ingen anslutning\"</b>\n
+         \u00A0\u00A0 Det kan vara något fel med anslutningen till din router. För hjälp besök http://ip.junkcode.net/help \n\n
+         
+        <b>Jag kan fortfarande inte ansluta!</b>\n
+         \u00A0\u00A0 Har du verkligen läst http://ip.junkcode.net/help?
+         \n
+    </string>
+    
+    <string name="faq_extras">Fler funktioner</string>
+    <string name="text_faq_extra">   
+        <b>Jag har donerat, när får jag min kod?</b>\n
+         \u00A0\u00A0 Om du inte har fått den inom ett par minuter bör du kontakta support@junkcode.net \n\n
+         
+        <b>Jag har matat in min kod men inga funktioner är upplåsta</b>\n
+         \u00A0\u00A0 Testa att starta om appen \n\n
+        
+    </string>
+    <string name="faq_improvement">Förbättra appen</string>
+    <string name="text_faq_improve">"  
+        <b>Det var något jag inte tyckte om</b>\n
+         \u00A0\u00A0 Låt oss veta vad du inte tyckte om- http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>Jag hittade en bug</b>\n
+         \u00A0\u00A0 Låt oss veta här http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+         
+        <b>Förslag till nya funktioner</b>\n
+         \u00A0\u00A0 Låt oss veta vad - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>Jag vill hjälpa till med översättningar/ikoner/med mera</b>\n
+         \u00A0\u00A0 En del resurser finns redan här http://github.com/JunkCode/wtTactMap Du kan föreslå fler ändringar eller förslag. Om du har några frågor så kan du ställa dem på - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+          
+    </string>
+    
+</resources>
