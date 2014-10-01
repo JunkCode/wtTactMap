@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Kartinställningar</string>
     <string name="text_help_map_ctrl">
         <b>1</b> Fritt läge\n
         <b>2</b> Följ planet\n
@@ -9,7 +9,7 @@
         <b>4</b> Tryck för att återställa\n
     </string>
     
-    <string name="help_prediction">Förutseende</string>
+    <string name="help_prediction">Förutse flygplanets position</string>
     <string name="text_help_prediction">
         Förutser flygplanets position (baserat på flygplanets nuvarande hastighet och kurs) med markeringar för 10,30 och 90 seunder
     </string>
@@ -21,7 +21,7 @@
         <b>Hur ansluter jag?</b>\n
          \u00A0\u00A0 Appen behöver IP adressen till datorn som kör War Thunder. Om du inte vet hur du hittar din IP adress kan du lära dig här http://ip.junkcode.net \n\n
          
-        <b>Jag slog in rätt adress men ändå får jag meddelandet \"Ingen anslutning\"</b>\n
+        <b>Jag angav rätt adress men ändå får jag meddelandet \"Ingen anslutning\"</b>\n
          \u00A0\u00A0 Det kan vara något fel med anslutningen till din router. För hjälp besök http://ip.junkcode.net/help \n\n
          
         <b>Jag kan fortfarande inte ansluta!</b>\n
