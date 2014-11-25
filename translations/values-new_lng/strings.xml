@@ -1,149 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WarThunder tactical map</string>
+    <string name="app_name">WarThunder Χάρτης Τακτικής</string>
     
-    <string name="settings">Settings</string>
-    <string name="hide">Hide</string>
-    <string name="danger">Danger notification</string>
-    <string name="nodanger">OK notification</string>
-    <string name="proximity_wrn">Radius:</string>
-    
-    
-    <string name="more">More settings</string>
-    <string name="connerror">No connection</string>
-    
-    <string name="gui">GUI settings</string>
-    <string name="screenon">Keep screen on</string>
-    <string name="counters">Counters</string>
-    
-    <string name="ip_h">IP address</string>
-    <string name="find_ip">Scan</string>
-    <string name="set_ip">Set IP</string>
-    <string name="ip">IP of computer with War Thunder (without port):</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="hide">Κρύψε</string>
+    <string name="danger">Ειδοποίηση κινδύνου</string>
+    <string name="nodanger">Ειδοποίηση ΟΚ</string>
+    <string name="proximity_wrn">Ακτίνα:</string>
     
     
-    <string name="zoom_btns">Zoom buttons</string>
-    <string name="donate">Donate</string>
-    <string name="enemy_vehicles">Enemy vehicles</string>
-    <string name="friendly_vehicles">Friendly vehicles</string>
-    <string name="friendly_structures">Friendly structures</string>
-    <string name="enemy_structures">Enemy structures</string>
+    <string name="more">Περισσότερες Ρυθμίσεις</string>
+    <string name="connerror">Δεν υπάρχει σύνδεση</string>
     
-    <string name="updates_speed">Updates frequency</string>
-    <string name="how_ip">"How to get an IP address see: http://ip.junkcode.net/help"</string>
-    <string name="how_ip_der">"If you don't know how to get your IP address click here"</string>
-    <string name="ip_err">IP address not valid</string>
-    <string name="ip_err_wrong">"input address in format \r\nXXX.XXX.XXX.XXX \r\n Click on Help for guide to get right one."</string>
-    <string name="ip_err_local">"127.0.0.1 is not right address. \r\n Click on Help for guide to get right one."</string>
+    <string name="gui">Ρυθμίσεις GUI</string>
+    <string name="screenon">Διατήρηση οθόνης ανοιχτή</string>
+    <string name="counters">Μετρητές</string>
+    
+    <string name="ip_h">Διεύθυνση IP</string>
+    <string name="find_ip">Ανίχνευση</string>
+    <string name="set_ip">Όρισε IP</string>
+    <string name="ip">IP του υπολογιστή με το War Thunder (χωρις port):</string>
+    
+    
+    <string name="zoom_btns">Κουμπιά μεγένθυσης</string>
+    <string name="donate">Δωρεά</string>
+    <string name="enemy_vehicles">Αντίπαλα οχήματα</string>
+    <string name="friendly_vehicles">Φιλικά οχήματα</string>
+    <string name="friendly_structures">Φιλικά κτήρια</string>
+    <string name="enemy_structures">Αντίπαλα κτήρια</string>
+    
+    <string name="updates_speed">Συχνότητα ενημερώσεων</string>
+    <string name="how_ip">"Πως να πάρεις διεύθυνση IP: http://ip.junkcode.net/help"</string>
+    <string name="how_ip_der">"Αν δεν ξέρεις πως να πάρεις διεύθυνση IP"</string>
+    <string name="ip_err">H διεύθυνση IP δεν είναι έγκυρη</string>
+    <string name="ip_err_wrong">"Η εισαγώμενη διεύθυνση να είναι σε μορφή \r\nXXX.XXX.XXX.XXX \r\n Πάτα στο HELP για οδηγίες πως να πάρεις μια σωστή."</string>
+    <string name="ip_err_local">"127.0.0.1 δεν είναι σωστή διεύθυνση. \r\n Πάτα στο HELP για οδηγίες πως να πάρεις μια σωστή."</string>
     <string-array name="updates_speed_array">
-        <item >Very Fast</item>
-        <item >Fast</item>
-        <item >Medium</item>
-        <item >Slowish</item>
-        <item >Slow</item>
-        <item >Srsly slow</item>
-        <item >5 sec</item>
+        <item >Πολύ γρήγορα</item>
+        <item >Γρήγορα</item>
+        <item >Μέτρια</item>
+        <item >Λίγο αργά</item>
+        <item >Αργά</item>
+        <item >Πάρα πολύ αργά</item>
+        <item >5 δεύτερα</item>
     </string-array>
 
-     <string name="info_title">About</string>
+     <string name="info_title">Περί</string>
     <string name="info_msg">
-        "This is unofficial app made by War Thunder fans!\r\n"
-        "This app is still in beta but feel free to contact us with bugs or new ideas at:\r\n"
+        "Μη επίσημη εφαρμογή φτιαγμένη από οπαδούς του War Thunder!\r\n"
+        "Αυτή η εφαρμογή είναι ακόμα δοκιμαστική αλλά μπορείτε να επικοινωνήσετε μαζί μας για προβλήματα ή νέες ιδέες στο:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "We are looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Ψάχνουμε ανθρώπους για να μεταφράσουν αυτή την εφαρμογή, αν θέέτε να βοηθήσετε δείτε στο http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
     <string name="donate_line">  
-        "Do you like this app? Say it by donation on http://junkcode.net for future development. \r\n"
+        "Σας αρέσει αυτή η εφαρμογή? Δείξτε το με δωρεά στο http://junkcode.net για μελλοντική ανάπτυξη. \r\n"
         </string>
-     <string name="info_update_title">Update news</string>
+     <string name="info_update_title">Νέα ενημερώσεων</string>
      
     <string name="version">App Version:</string>
     <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="ignore">Ignore</string>
-    <string name="help">Help</string>
-    <string name="pref_header_notifications">Notifications</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="ignore">Αγνόηση</string>
+    <string name="help">Βοήθεια</string>
+    <string name="pref_header_notifications">Ειδοποιήσεις</string>
 
-    <string name="pref_title_ringtone">Ringtone</string>
-    <string name="pref_header_data_sync">PC connection</string>
-    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_ringtone">Ήχος</string>
+    <string name="pref_header_data_sync">Σύνδεση PC</string>
+    <string name="pref_ringtone_silent">Αθόρυβο</string>
     
-    <string name="nowificonnected">You should connect to your local WiFi</string>
+    <string name="nowificonnected">Θα πρέπει να συνδεθείς στο τοπικό σου WiFi</string>
 
-    <string name="planeicons">Airplane icons</string>
+    <string name="planeicons">Εικονίδια Αεροπλάνων</string>
     <string-array name="planes_icon_size">
-        <item >Big</item>
-        <item >Medium</item>
-        <item >Small</item>
-        <item >Very small</item>
+        <item >Μεγάλο</item>
+        <item >Μέτριο</item>
+        <item >Μικρό</item>
+        <item >Πολύ μικρό</item>
     </string-array>
     
-    <string name="lines">Navigation lines</string>
-    <string name="lines_oos">Only to offscreen targets</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
+    <string name="lines">Γραμμές πλοήγησης</string>
+    <string name="lines_oos">Μόνο στόχους εκτός οθόνης</string>
+    <string name="lines_enemy">Εχθροί</string>
+    <string name="lines_friendly">Σύμμαχοι</string>
+    <string name="lines_squad">Ομάδα</string>
+    <string name="lines_target">Στόχος</string>
     
-    <string name="hide_gp_login">Hide G+ Login button</string>
+    <string name="hide_gp_login">Απόκρυψη κομβίου σύνδεσης G+</string>
     
-    <string name="fullscreen">Fullscreen</string>
-    <string name="connect">Connect to friends</string>
+    <string name="fullscreen">Πλήρη οθόνη</string>
+    <string name="connect">Σύνδεση σε φιλους</string>
     
-    <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Waypoint controls</string>
-    <string name="add">Add</string>
+    <string name="waypoint">Στίγμα διαδρομής (Waypoint)</string>
+    <string name="waypoint_ctrl">Ρύθμιση στίγματος διαδρομής</string>
+    <string name="add">Πρόσθεσε</string>
     
-    <string name="horizontal_distance">Show horizontal distance</string>
+    <string name="horizontal_distance">Δείχνε οριζόντια απόσταση</string>
     
     <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
-    <string name="self">Self</string>
-    <string name="show_intro_screen">Show intro splash</string>
+    <string name="prediction">Πρόβλεψη</string>
+    <string name="self">Εαυτός</string>
+    <string name="show_intro_screen">Δείχνε εισαγωγική οθόνη</string>
     
-    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock">Ξεκλείδωμα extras</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
+        "Τα Extra ξεκλειδώνουν με δωρεά <b><i>οποιουδήποτε</i></b> ποσού ή με συνεισφορά στο περιεχόμενο\r\n(Αν κάνατε δωρεά νωρίτερα και δεν πήρατε ακόμα τον κωδικό σας στείλτε μας ένα mail)"</string>
+    <string name="ext_unlock_dial">"Ξεκλείδωμα κωδικού:"</string>
     
-    <string name="ext_link">Link to G+ account</string>
+    <string name="ext_link">Σύνδεση στον G+ λογαριασμό</string>
     
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">Εμβέλεια πυρός</string>
+    <string name="gray_map">Ασπρόμαυρος χάρτης</string>
     
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="map">Χάρτης:</string>
+    <string name="custom_maps">Custom χάρτες</string>
+    <string name="custom_maps_url">Custom χάρτες url</string>
+    <string name="see_forum">Για λεπτομέρειες δείτε στο JunkCode forum</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">Εικονίδια άρματος</string>
+    <string name="groundicons">Εικονίδια εδάφους</string>
     
-    <string name="share_position">Share position</string>
-    <string name="death_markers">Leave skulls on death</string>
+    <string name="share_position">Δίνε θέση</string>
+    <string name="death_markers">Άφηνε εικονίδεια κρανίων σε θάνατο</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">Μέγεθος</string>
+    <string name="style">Στυλ</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >Παλιό</item>
+        <item >Νέο</item>
     </string-array>
     
     <string-array name="color_schemes">
         <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>Πράσινο/Πορτοκαλί</item>
+        <item>Πράσινο/Κόκκινο</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">Χρώματα</string>
     
-    <string name="pref_header_map_view">Map setup</string>
+    <string name="pref_header_map_view">Ρύθμιση Χάρτη</string>
     <string name="pref_header_GUI">GUI</string>
     
-    <string name="help_title">Help &amp; FAQ</string>
+    <string name="help_title">Βοήθεια &amp; FAQ</string>
     
-    <string name="blink">Allow flashing</string>
+    <string name="blink">Επέτρεπε να αναβοσβήνει</string>
      
 </resources>
