@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Χειρισμός χάρτη</string>
     <string name="text_help_map_ctrl">
-        <b>1</b> Free mode\n
-        <b>2</b> Follow plane\n
-        <b>3</b> Rotation lock\n
-        <b>4</b> Click to reset\n
+        <b>1</b> Ελεύθερη λειτουργία\n
+        <b>2</b> Ακολούθηση αεροπλάνου\n
+        <b>3</b> Κλείδωμα περιστριφής\n
+        <b>4</b> Click για επαναφορά\n
     </string>
     
-    <string name="help_prediction">Prediction</string>
+    <string name="help_prediction">Πρόβλεψη</string>
     <string name="text_help_prediction">
-        Prediction of plane position (based on current speed and direction) in 10,30 and 90 seconds
+        Πρόβλεψη θέσης αεροπλάνου (βασισμένη στην τρέχουσα ταχύτητα και διεύθυνση) σε 10,30 και 90 δεύτερα
     </string>
     
-    <string name="faq">FAQ (Frequently asked questions)</string>
+    <string name="faq">FAQ (Συνήθης ερωτήσεις)</string>
     
-    <string name="faq_connection">Connection</string>
+    <string name="faq_connection">Σύνδεση</string>
     <string name="text_faq_con">
-        <b>How do I connect?</b>\n
-         \u00A0\u00A0 The app needs an IP address of your computer running War Thunder, how to get your IP see http://ip.junkcode.net \n\n
+        <b>Πως συνδέομαι?</b>\n
+         \u00A0\u00A0 Η εφαρμογή χρειάζεται την διεύθυνση IP του υπολογιστή που τρέχει το War Thunder, για το πως να βρεις την IP σου δες http://ip.junkcode.net \n\n
          
-        <b>I did enter IP and it still says \"No connection\"</b>\n
-         \u00A0\u00A0 There might be problem with your local network routing see http://ip.junkcode.net/help \n\n
+        <b>Έβαλα την IP και ακόμα λέει \"Μη σύνδεση\"</b>\n
+         \u00A0\u00A0 Ίσως υπάρχει πρόβλημα με το τοπικό σου δίκτυο κοίταξε http://ip.junkcode.net/help \n\n
          
-        <b>It still doesn\'t connect!</b>\n
-         \u00A0\u00A0 You didn\'t read http://ip.junkcode.net/help, did you?
+        <b>Εξακολουθεί να μην συνδέεται!</b>\n
+         \u00A0\u00A0 Δεν διάβασες εδώ http://ip.junkcode.net/help, διάβασες?
          \n
     </string>
     
