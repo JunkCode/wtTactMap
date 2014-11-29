@@ -31,26 +31,26 @@
     
     <string name="faq_extras">Extras</string>
     <string name="text_faq_extra">   
-        <b>I donated, where is my code?</b>\n
-         \u00A0\u00A0 You should receive code to your email within few minutes after donation, if not contact support@junkcode.net \n\n
+        <b>Έκανα δωρεά, που είναι ο κωδικός μου?</b>\n
+         \u00A0\u00A0 Θα πρέπει να λάβεις κωδικό στο mail σου σε μερικά λεπτά μετά την δωρεά, αν όχι επικοινώνησε support@junkcode.net \n\n
          
-        <b>I entered code but nothing is unlocked</b>\n
-         \u00A0\u00A0 Try restarting the app \n\n
+        <b>Έβαλα τον κωδικό αλλά τίποτα δεν ξεκλείδωσε</b>\n
+         \u00A0\u00A0 Δοκίμασε να επανεκκινήσεις την εφαρμογή \n\n
         
     </string>
-    <string name="faq_improvement">App improvement</string>
+    <string name="faq_improvement">Βελτίωση εφαρμογής</string>
     <string name="text_faq_improve">"  
-        <b>I don\'t like something</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Δεν μου αρέσει κάτι</b>\n
+         \u00A0\u00A0 Πέστο μας - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I found a bug</b>\n
-         \u00A0\u00A0 Post it here http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+        <b>Βρήκα ένα πρόβλημαI found a bug</b>\n
+         \u00A0\u00A0 Γράψτο εδώ http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
-        <b>I have idea for new feature</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Έχω μια ιδέα για καινούργιο χαρακτηριστικό</b>\n
+         \u00A0\u00A0 Πέστο μας - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I want to help with translation/icons/...</b>\n
-         \u00A0\u00A0 Some of the resources are already here http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Θέλω να βοηθήσω στην μετάφραση/εικονίδια/...</b>\n
+         \u00A0\u00A0 Μερικοί από τους πόρους υπάρχουν ήδη εδώ http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
           
     </string>
     
