@@ -145,5 +145,6 @@
     <string name="help_title">Βοήθεια &amp; FAQ</string>
     
     <string name="blink">Επέτρεπε να αναβοσβήνει</string>
-     
+    <string name="offline_mode">Offline mode</string>
+
 </resources>

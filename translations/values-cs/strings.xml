@@ -145,6 +145,7 @@
     <string name="help_title">Nápověda &amp; FAQ</string>
     
     <string name="blink">Povolit blikání</string>
-    
+    <string name="offline_mode">Offline mód</string>
+
 </resources>
 

@@ -145,5 +145,6 @@
     <string name="help_title">Hilfe &amp; FAQ</string>
     
     <string name="blink">Blinkendes Icon</string>
-    
+    <string name="offline_mode">Offline mode</string>
+
 </resources>

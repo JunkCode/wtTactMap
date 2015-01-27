@@ -145,6 +145,7 @@
     <string name="help_title">Ajuda &amp; FAQ</string>
     
     <string name="blink">Allow flashing</string>
-    
-    
+    <string name="offline_mode">Offline mode</string>
+
+
 </resources>
