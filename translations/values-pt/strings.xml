@@ -158,6 +158,9 @@
     <string name="player_name">Ingame name</string>
     <string name="ext_unlocked">Extras unlocked</string>
     <string name="please_restart">Please, restart the app for new settings to take effect.</string>
+    <string name="planes_in_tank">Detect airplanes while in tank</string>
+    <string name="bomber_path">Bomber paths</string>
+    <string name="air_raid_siren">Air raid siren</string>
 
 
 </resources>

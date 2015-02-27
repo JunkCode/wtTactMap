@@ -158,6 +158,9 @@
     <string name="player_name">Herní nick</string>
     <string name="ext_unlocked">Extra funkce odemčeny</string>
     <string name="please_restart">Prosím, restartujte aplikaci aby nové nastavení začalo platit.</string>
+    <string name="planes_in_tank">Detekce letadel z tanku</string>
+    <string name="bomber_path">Směr bombardérů</string>
+    <string name="air_raid_siren">Náletová siréna</string>
 
 </resources>
 
