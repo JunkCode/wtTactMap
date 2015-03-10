@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5442"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="capture_point_d.svg"
+   inkscape:export-filename="C:\wrk\WarThunder\images\statics\capture_point.png"
+   inkscape:export-xdpi="552.27271"
+   inkscape:export-ydpi="552.27271">
+  <defs
+     id="defs5444">
+    <filter
+       inkscape:collect="always"
+       id="filter6007">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3839062"
+         id="feGaussianBlur6009" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="324.71158"
+     inkscape:cy="581.59365"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1837"
+     inkscape:window-height="1006"
+     inkscape:window-x="1272"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="365.71429,545.71429"
+       id="guide5452" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="377.14286,400"
+       id="guide5454" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5447">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:0.84574465;fill-rule:nonzero;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter6007)"
+       d="M 377.15625 268.25 L 138.75 506.65625 L 377.15625 745.03125 L 615.53125 506.65625 L 377.15625 268.25 z M 304.03125 378.40625 L 381.5 378.40625 C 401.09072 378.40651 415.87328 380.59605 425.84375 384.96875 C 435.81394 389.34195 445.01001 396.71551 453.40625 407.09375 C 461.80215 417.47245 468.40622 430.94128 473.1875 447.5 C 477.9684 464.05909 480.34355 484.64499 480.34375 509.25 C 480.34355 531.40641 477.82663 550.67858 472.8125 567.0625 C 467.79799 583.44656 461.44622 596.40659 453.75 605.96875 C 446.05344 615.53096 436.74683 622.75436 425.84375 627.59375 C 414.94038 632.43316 400.92312 634.84375 383.78125 634.84375 L 304.03125 634.84375 L 304.03125 378.40625 z M 346.34375 421.78125 L 346.34375 591.625 L 378.1875 591.625 C 391.83101 591.62504 401.72149 590.34676 407.84375 587.78125 C 413.96576 585.21583 418.96836 581.34554 422.875 576.15625 C 426.78136 570.96707 430.02814 562.75734 432.59375 551.5625 C 435.15906 540.36783 436.43735 525.62072 436.4375 507.3125 C 436.43735 488.30487 435.12362 473.3367 432.5 462.375 C 429.87608 451.41364 425.78893 442.766 420.25 436.46875 C 414.71079 430.1719 407.992 426.04512 400.0625 424.0625 C 394.11517 422.54675 382.61902 421.78146 365.59375 421.78125 L 346.34375 421.78125 z "
+       id="rect5456"
+       inkscape:export-filename="C:\wrk\WarThunder\images\statics\capture_point_d.png"
+       inkscape:export-xdpi="552.27271"
+       inkscape:export-ydpi="552.27271" />
+  </g>
+</svg>

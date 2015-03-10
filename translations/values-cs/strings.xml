@@ -161,6 +161,9 @@
     <string name="planes_in_tank">Detekce letadel z tanku</string>
     <string name="bomber_path">Směr bombardérů</string>
     <string name="air_raid_siren">Náletová siréna</string>
+    <string name="pointicons">Ikony bodů</string>
+    <string name="base_approx_time_remaining">Ukazatel přibližného času do zabrání báze</string>
+    <string name="base_progress_beeping">Pípání na zabírání blízké báze</string>
 
 </resources>
 

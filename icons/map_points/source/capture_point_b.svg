@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5442"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="capture_point_b.svg"
+   inkscape:export-filename="C:\wrk\WarThunder\images\statics\capture_point.png"
+   inkscape:export-xdpi="552.27271"
+   inkscape:export-ydpi="552.27271">
+  <defs
+     id="defs5444">
+    <filter
+       inkscape:collect="always"
+       id="filter6007">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3839062"
+         id="feGaussianBlur6009" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="324.71158"
+     inkscape:cy="581.59365"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1837"
+     inkscape:window-height="1006"
+     inkscape:window-x="1272"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="365.71429,545.71429"
+       id="guide5452" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="377.14286,400"
+       id="guide5454" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5447">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:0.84574465;fill-rule:nonzero;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter6007)"
+       d="M 377.15625 268.25 L 138.75 506.65625 L 377.15625 745.03125 L 615.53125 506.65625 L 377.15625 268.25 z M 302.0625 375.5625 L 386.1875 375.5625 C 409.15996 375.56276 425.32713 377.64597 434.65625 381.84375 C 443.98506 386.04203 451.83616 393.45103 458.25 404.0625 C 464.66348 414.67442 467.87481 426.68356 467.875 440.09375 C 467.87481 452.45482 465.13684 463.62358 459.65625 473.59375 C 454.17531 483.56424 447.05824 490.93779 438.3125 495.71875 C 450.78983 500.15014 460.56979 507.74056 467.625 518.46875 C 474.67984 529.19717 478.1873 542.26354 478.1875 557.65625 C 478.1873 576.31425 473.69769 592.08315 464.71875 604.96875 C 455.73944 617.85441 445.15036 625.81184 432.90625 628.84375 C 424.39342 630.94277 404.61246 631.96875 373.59375 631.96875 L 302.0625 631.96875 L 302.0625 375.5625 z M 344.375 418.21875 L 344.375 477.53125 L 372.375 477.53125 C 389.16704 477.5314 399.53507 477.23947 403.5 476.65625 C 410.72982 475.49029 416.38719 472.42493 420.46875 467.46875 C 424.55003 462.5129 426.5936 455.79411 426.59375 447.28125 C 426.5936 439.70165 424.9483 433.53549 421.625 428.8125 C 418.30142 424.08992 414.25391 421.13508 409.53125 419.96875 C 404.80833 418.80284 391.26442 418.21896 368.875 418.21875 L 344.375 418.21875 z M 344.375 520.21875 L 344.375 588.78125 L 383.75 588.78125 C 401.00848 588.78129 412.07091 587.87003 416.96875 586.0625 C 421.86632 584.25506 425.98891 580.71215 429.3125 575.40625 C 432.63579 570.10046 434.31235 563.35042 434.3125 555.1875 C 434.31235 546.79151 432.52527 539.89131 428.96875 534.46875 C 425.41194 529.04639 420.67002 525.32207 414.78125 523.28125 C 408.89221 521.24065 396.87888 520.21886 378.6875 520.21875 L 344.375 520.21875 z "
+       id="rect5456"
+       inkscape:export-filename="C:\wrk\WarThunder\images\statics\capture_point_b.png"
+       inkscape:export-xdpi="552.27271"
+       inkscape:export-ydpi="552.27271" />
+  </g>
+</svg>

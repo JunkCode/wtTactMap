@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5442"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="capture_point_a.svg"
+   inkscape:export-filename="C:\wrk\WarThunder\images\statics\capture_point.png"
+   inkscape:export-xdpi="552.27271"
+   inkscape:export-ydpi="552.27271">
+  <defs
+     id="defs5444">
+    <filter
+       inkscape:collect="always"
+       id="filter6007">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.3839062"
+         id="feGaussianBlur6009" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="324.71158"
+     inkscape:cy="581.59365"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1837"
+     inkscape:window-height="1006"
+     inkscape:window-x="1272"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="365.71429,545.71429"
+       id="guide5452" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="377.14286,400"
+       id="guide5454" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5447">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:0.84574465;fill-rule:nonzero;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter6007)"
+       d="M 377.15625 268.25 L 138.75 506.65625 L 377.15625 745.03125 L 615.53125 506.65625 L 377.15625 268.25 z M 354 352.6875 L 398.96875 352.6875 L 483.09375 609.125 L 436.90625 609.125 L 418.5625 550.875 L 334.59375 550.875 L 317.28125 609.125 L 272.15625 609.125 L 354 352.6875 z M 376.0625 412.53125 L 347.53125 507.65625 L 404.90625 507.65625 L 376.0625 412.53125 z "
+       id="rect5456"
+       inkscape:export-filename="C:\wrk\WarThunder\images\statics\capture_point_a.png"
+       inkscape:export-xdpi="137.01489"
+       inkscape:export-ydpi="137.01489" />
+  </g>
+</svg>

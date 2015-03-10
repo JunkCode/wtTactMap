@@ -160,5 +160,8 @@
     <string name="planes_in_tank">Detect airplanes while in tank</string>
     <string name="bomber_path">Bomber paths</string>
     <string name="air_raid_siren">Air raid siren</string>
+    <string name="pointicons">Point icons</string>
+    <string name="base_approx_time_remaining">Show approximate time to base capture</string>
+    <string name="base_progress_beeping">Beep on near base capturing</string>
 
 </resources>
