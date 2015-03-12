@@ -148,12 +148,12 @@
     <string name="talk_back">Talk back</string>
     <string name="kills">Kills</string>
     <string name="trigger_words_kill">Mots de déclenchement Kill</string>
-    <string name="trigger_words_kill_default">détruit, abattu,уничтожен</string>
-    <string name="trigger_words_kill_summary">Valeur par défaut: \"détruit, abattu,уничтожен\"</string>
+    <string name="trigger_words_kill_default">détruit, abattu, destroyed,shot down</string>
+    <string name="trigger_words_kill_summary">Valeur par défaut: \"détruit, abattu, destroyed, shot down\"</string>
     <string name="burns">Enflamé</string>
     <string name="trigger_words_burn">Mots de déclenchement Enflamé</string>
-    <string name="trigger_words_burn_default">Enflamé, mis en feu,подожжён</string>
-    <string name="trigger_words_burn_summary">Valeur par défaut: \"Enflamé,mis en feuподожжён\"</string>
+    <string name="trigger_words_burn_default">Enflamé, mis en feu, set afire</string>
+    <string name="trigger_words_burn_summary">Valeur par défaut: \"Enflamé,mis en feu, set afire\"</string>
     <string name="player_name">Pseudo dans le jeu</string>
     <string name="ext_unlocked">Suppléments débloqués</string>
     <string name="please_restart">Redémarrer l'appli pour que les nouveaux réglages prennent effet.</string>

@@ -149,7 +149,7 @@
     <string name="talk_back">Hlášky</string>
     <string name="kills">Zabití</string>
     <string name="trigger_words_kill">Klíčová slova zabití</string>
-    <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
+    <string name="trigger_words_kill_default">destroyed,shot down, zničen</string>
     <string name="trigger_words_kill_summary">Původní hodnoty: \"destroyed,shot down,zničen\"</string>
     <string name="burns">Zapálení</string>
     <string name="trigger_words_burn">Klíčová slova zapálení</string>
