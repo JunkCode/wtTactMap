@@ -144,25 +144,25 @@
     
     <string name="help_title">Помощь &amp; ЧаВо</string>
     
-    <string name="blink">Allow flashing</string>
-    <string name="offline_mode">Offline mode</string>
-    <string name="talk_back">Talk back</string>
-    <string name="kills">Kills</string>
-    <string name="trigger_words_kill">Kill trigger words</string>
+    <string name="blink">Мигание иконок</string>
+    <string name="offline_mode">Режим просмотра карт</string>
+    <string name="talk_back">Обратная связь</string>
+    <string name="kills">Уничтожение техники</string>
+    <string name="trigger_words_kill">Слова, обозначающие уничтожение техники</string>
     <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
-    <string name="trigger_words_kill_summary">Default value: \"destroyed,shot down,уничтожен\"</string>
-    <string name="burns">Burns</string>
-    <string name="trigger_words_burn">Burn trigger words</string>
+    <string name="trigger_words_kill_summary">Значения по умолчанию: \"destroyed,shot down,уничтожен\"</string>
+    <string name="burns">Поджиг техники</string>
+    <string name="trigger_words_burn">Слова, обозначающие поджиг техники</string>
     <string name="trigger_words_burn_default">set afire,подожжён</string>
-    <string name="trigger_words_burn_summary">Default value: \"set afire,подожжён\"</string>
-    <string name="player_name">Ingame name</string>
-    <string name="ext_unlocked">Extras unlocked</string>
-    <string name="please_restart">Please, restart the app for new settings to take effect.</string>
-    <string name="planes_in_tank">Detect airplanes while in tank</string>
-    <string name="bomber_path">Bomber paths</string>
-    <string name="air_raid_siren">Air raid siren</string>
-    <string name="pointicons">Point icons</string>
-    <string name="base_approx_time_remaining">Show approximate time to base capture</string>
-    <string name="base_progress_beeping">Beep on near base capturing</string>
+    <string name="trigger_words_burn_summary">Значения по умолчанию: \"set afire,подожжён\"</string>
+    <string name="player_name">Позывной в игре</string>
+    <string name="ext_unlocked">Бонусы разблокированы</string>
+    <string name="please_restart">Пожалуйста, перезапустите приложение, чтобы изменения вступили в силу.</string>
+    <string name="planes_in_tank">Срабатывание на самолеты, во время игры за наземную технику</string>
+    <string name="bomber_path">Бомбадировщики</string>
+    <string name="air_raid_siren">Сирена при воздушном налёте</string>
+    <string name="pointicons">Иконки точек</string>
+    <string name="base_approx_time_remaining">Показывать приблизительное время захвата базы</string>
+    <string name="base_progress_beeping">Сигнал при захвате ближайшей базы</string>
 
 </resources>
