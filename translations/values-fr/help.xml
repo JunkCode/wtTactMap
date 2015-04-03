@@ -4,14 +4,14 @@
     <string name="help_map_ctrl">Contrôle de la carte</string>
     <string name="text_help_map_ctrl">
         <b>1</b> Mode libre\n
-        <b>2</b> Suivre l'avion\n
+        <b>2</b> Suivre l\'avion\n
         <b>3</b> Serrure de rotation\n
         <b>4</b> Cliquez pour réinitialiser\n
     </string>
     
     <string name="help_prediction">Prédiction</string>
     <string name="text_help_prediction">
-        Prédiction de la position de l'avion (basé sur la vitesse et la direction du moment) à 10, 30 et 90 secondes.
+        Prédiction de la position de l\'avion (basé sur la vitesse et la direction du moment) à 10, 30 et 90 secondes.
     </string>
     
     <string name="faq">FAQ (Foire aux questions)</string>
@@ -21,7 +21,7 @@
         <b>Comment puis-je me connecter ?</b>\n
          \u00A0\u00A0 L\'application a besoin de l\'adresse IP de l\'ordinateur exécutant Warthunder. Pour savoir comment obtenir votre IP voir http://ip.junkcode.net \n\n
          
-         <b>J'ai fait entrer IP et il dit toujours \"Pas de connexion\"</b>\n
+         <b>J\'ai fait entrer IP et il dit toujours \"Pas de connexion\"</b>\n
          \u00A0\u00A0 Il pourrait y avoir des problèmes avec votre routage de réseau local voir http://ip.junkcode.net/help \n\n
          
         <b>Il ne se connecte toujours pas !</b>\n
@@ -40,17 +40,17 @@
     <string name="faq_improvement">Amélioration de l\'appli</string>
     <string name="text_faq_improve">"  
         <b>Je n\'aime pas quelque chose</b>\n
-         \u00A0\u00A0 Faites-nous savoir ce que c'est - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         \u00A0\u00A0 Faites-nous savoir ce que c\'est - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
         <b>J\'ai trouvé un bug</b>\n
          \u00A0\u00A0 Publiez le ici http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
         <b>J\'ai une idée pour une nouvelle fonctionnalité</b>\n
-         \u00A0\u00A0 Faites-nous savoir ce que c'est - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         \u00A0\u00A0 Faites-nous savoir ce que c\'est - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
         <b>Je veux aider pour la traduction/icons/...</b>\n
          \u00A0\u00A0 Certaines des ressources sont déjà ici http://github.com/JunkCode/wtTactMap Vous pouvez proposer des modifications ou ajouter de nouvelles choses. Si vous avez une question ou d\'autres idées, faites-nous le savoir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
-           
+        "
     </string>
     
 </resources>

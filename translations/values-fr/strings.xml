@@ -156,7 +156,7 @@
     <string name="trigger_words_burn_summary">Valeur par défaut: \"Enflamé,mis en feu, set afire\"</string>
     <string name="player_name">Pseudo dans le jeu</string>
     <string name="ext_unlocked">Suppléments débloqués</string>
-    <string name="please_restart">Redémarrer l'appli pour que les nouveaux réglages prennent effet.</string>
+    <string name="please_restart">Redémarrer l\'appli pour que les nouveaux réglages prennent effet.</string>
     <string name="planes_in_tank">Détecter les chars en jeu de tank</string>
     <string name="bomber_path">Trajectoires des Bombardiers</string>
     <string name="air_raid_siren">Sirêne de Raid Aérien</string>
