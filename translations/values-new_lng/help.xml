@@ -11,7 +11,7 @@
     
     <string name="help_prediction">Prediction</string>
     <string name="text_help_prediction">
-        Prediction of plane position (based on current speed and direction) in 10,30 and 90 seconds
+        Prediction of plane position (based on current speed and direction) in 10, 30 and 90 seconds
     </string>
     
     <string name="faq">FAQ (Frequently asked questions)</string>

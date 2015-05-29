@@ -24,7 +24,7 @@
     
     
     <string name="zoom_btns">Zoom buttons</string>
-    <string name="donate">Donate</string>
+    <string name="donate">Support</string>
     <string name="enemy_vehicles">Enemy vehicles</string>
     <string name="friendly_vehicles">Friendly vehicles</string>
     <string name="friendly_structures">Friendly structures</string>
@@ -54,7 +54,7 @@
         "\r\n"
         "We are looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
     </string>
-    <string name="donate_line">  
+    <string name="donate_line">
         "Do you like this app? Say it by donation on http://junkcode.net for future development. \r\n"
         </string>
      <string name="info_update_title">Update news</string>
@@ -164,5 +164,30 @@
     <string name="pointicons">Point icons</string>
     <string name="base_approx_time_remaining">Show approximate time to base capture</string>
     <string name="base_progress_beeping">Beep on near base capturing</string>
+    <string name="mapscale">Map scale</string>
+    <string name="breadcrumbs">Breadcrumbs</string>
+    <string name="support_development">Support the development</string>
+    <string name="airplane_range">Airplane detection range</string>
+    <string name="ground_range">Ground detection range</string>
+    <string name="connected">Connected</string>
+    <string name="supporter">Supporter</string>
+    <string name="contributor">Contributor</string>
+    <string name="contribute_resources">Help out with app resources</string>
+    <string name="waiting_for_battle">Waiting for battle</string>
+    <string name="subscription">(Subscription)</string>
+    <string name="exit_title">Exit the app?</string>
+    <string name="exit_question">Do you want to disconnect and close the app?</string>
+    <string name="hide_add_requirement">Become Supporter or Contributor to turn the ads off.</string>
+    <string name="coop_start">Start new co-op</string>
+    <string name="coop_join">Join co-op</string>
+    <string name="coop_title">Co-op session</string>
+    <string name="close_enemy_detection">Close enemy detection</string>
+    <string name="far_enemy_detection">Far enemy detection</string>
+    <string name="coop_connecting_to_id">Connecting to co-op ID:</string>
+    <string name="coop_session_started">Co-op session started.</string>
+    <string name="id">ID:</string>
+    <string name="coop_chat_instruction_prefix">Type</string>
+    <string name="coop_chat_instruction_postfix">to game team chat.</string>
+    <string name="show_ads_while_not_playing">Show ads while not playing</string>
 
 </resources>

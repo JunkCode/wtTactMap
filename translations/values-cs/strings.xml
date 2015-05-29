@@ -10,7 +10,7 @@
     <string name="proximity_wrn">Vzdálenost:</string>
     
     
-    <string name="more">Víc nastavení</string>
+    <string name="more">Více nastavení</string>
     <string name="connerror">Žádné spojení</string>
     
     <string name="gui">Nastavení rozhraní</string>
@@ -70,7 +70,7 @@
     <string name="pref_header_data_sync">Připojení k počítači</string>
     <string name="pref_ringtone_silent">Ticho</string>
     
-     <string name="nowificonnected">Měl by ses připojit na lokální WiFi</string>
+     <string name="nowificonnected">Zařízení by mělo být připojené na lokální WiFi</string>
 
     <string name="planeicons">Ikony letadel</string>
         <string-array name="planes_icon_size">
@@ -149,13 +149,13 @@
     <string name="talk_back">Hlášky</string>
     <string name="kills">Zabití</string>
     <string name="trigger_words_kill">Klíčová slova zabití</string>
-    <string name="trigger_words_kill_default">destroyed,shot down, zničen</string>
-    <string name="trigger_words_kill_summary">Původní hodnoty: \"destroyed,shot down,zničen\"</string>
+    <string name="trigger_words_kill_default">destroyed,shot down, zničil,sestřelil</string>
+    <string name="trigger_words_kill_summary">Původní hodnoty: \"destroyed,shot down,zničil,sestřelil\"</string>
     <string name="burns">Zapálení</string>
     <string name="trigger_words_burn">Klíčová slova zapálení</string>
-    <string name="trigger_words_burn_default">set afire,zapálen</string>
-    <string name="trigger_words_burn_summary">Původní hodnoty: \"set afire,zapálen\"</string>
-    <string name="player_name">Herní nick</string>
+    <string name="trigger_words_burn_default">set afire,zapálil</string>
+    <string name="trigger_words_burn_summary">Původní hodnoty: \"set afire,zapálil\"</string>
+    <string name="player_name">Herní jméno</string>
     <string name="ext_unlocked">Extra funkce odemčeny</string>
     <string name="please_restart">Prosím, restartujte aplikaci aby nové nastavení začalo platit.</string>
     <string name="planes_in_tank">Detekce letadel z tanku</string>
@@ -164,6 +164,33 @@
     <string name="pointicons">Ikony bodů</string>
     <string name="base_approx_time_remaining">Ukazatel přibližného času do zabrání báze</string>
     <string name="base_progress_beeping">Pípání na zabírání blízké báze</string>
+    <string name="mapscale">Měřítko</string>
+    <string name="breadcrumbs">Stopy</string>
+    <string name="support_development">Podpořte vývoj</string>
+    <string name="airplane_range">Detekční vzdálenost v letadle</string>
+    <string name="ground_range">Detekční vzdálenost v tanku</string>
+    <string name="connected">Připojeno</string>
+
+    <string name="supporter">Sponzor</string>
+    <string name="contributor">Pomocník</string>
+
+    <string name="contribute_resources">Pomožte s vývojem</string>
+    <string name="waiting_for_battle">Čekání na začátek bitvy</string>
+    <string name="subscription">(Předplatné)</string>
+    <string name="exit_title">Zavřít aplikaci?</string>
+    <string name="exit_question">Chcete se odpojit a ukončit aplikaci?</string>
+    <string name="hide_add_requirement">Vypnout reklamu můžete pokud budete Sponzorem nebo Pomocníkem.</string>
+    <string name="coop_start">Začít novou kooperaci</string>
+    <string name="coop_join">Připojit se do kooperace</string>
+    <string name="coop_title">Kooperace</string>
+    <string name="far_enemy_detection">Detekce vzdálených něpřátel</string>
+    <string name="close_enemy_detection">Detekce blízkých nepřátel</string>
+    <string name="coop_connecting_to_id">Připojení ke kooperaci ID:</string>
+    <string name="coop_session_started">Kooperace spuštěna.</string>
+    <string name="id">ID:</string>
+    <string name="coop_chat_instruction_prefix">Napište</string>
+    <string name="coop_chat_instruction_postfix">do herního týmového chatu.</string>
+    <string name="show_ads_while_not_playing">Zobrazuj reklamu po hře</string>
 
 </resources>
 
