@@ -174,7 +174,7 @@
     <string name="supporter">Sponzor</string>
     <string name="contributor">Pomocník</string>
 
-    <string name="contribute_resources">Pomožte s vývojem</string>
+    <string name="contribute_resources">Pomozte s vývojem</string>
     <string name="waiting_for_battle">Čekání na začátek bitvy</string>
     <string name="subscription">(Předplatné)</string>
     <string name="exit_title">Zavřít aplikaci?</string>
@@ -191,6 +191,8 @@
     <string name="coop_chat_instruction_prefix">Napište</string>
     <string name="coop_chat_instruction_postfix">do herního týmového chatu.</string>
     <string name="show_ads_while_not_playing">Zobrazuj reklamu po hře</string>
+    <string name="allow_data_collection">Povolit anonymní sběr dat</string>
+    <string name="data_collection_explained">Řídí se pravidly Google Analytics a data jsou využita k vylepšovaní aplikace.</string>
 
 </resources>
 

@@ -190,6 +190,8 @@
     <string name="coop_chat_instruction_prefix">Type</string>
     <string name="coop_chat_instruction_postfix">to game team chat.</string>
     <string name="show_ads_while_not_playing">Show ads while not playing</string>
+    <string name="allow_data_collection">Allow anonymous data collection</string>
+    <string name="data_collection_explained">With compliance by Google Analytics rules, helping to make the app better for You.</string>
 
 
 </resources>
