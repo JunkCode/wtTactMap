@@ -169,7 +169,7 @@
     <string name="support_development">Поддержать разработчиков</string>
 
     <string name="airplane_range">Дальность обнаружения самолетов</string>
-    <string name="ground_range">Наземная дальность обнаружения</string>
+    <string name="ground_range">Дальность обнаружения наземной техники</string>
     <string name="connected">Подключено</string>
     <string name="supporter">Спонсор</string>
     <string name="contributor">Помощник</string>
