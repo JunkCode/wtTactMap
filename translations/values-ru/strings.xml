@@ -191,6 +191,6 @@
     <string name="coop_chat_instruction_postfix">для чата с командой.</string>
     <string name="show_ads_while_not_playing">Показывать рекламу вне боя</string>
     <string name="allow_data_collection">Собирать анонимную статистику</string>
-    <string name="data_collection_explained">С соблюдением правил Google Analytics, это помогает улучшить приложение для Вас.</string>
+    <string name="data_collection_explained">С соблюдением правил Google Analytics, это помогает улучшать приложение для Вас.</string>
 
 </resources>
