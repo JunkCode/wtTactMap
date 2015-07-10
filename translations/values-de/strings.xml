@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WarThunder taktische Karte</string>
+    <string name="app_name">WarThunder Taktische Karte</string>
 
     <string name="settings">Einstellungen</string>
     <string name="hide">Ausblenden</string>
@@ -164,32 +164,32 @@
     <string name="pointicons">Punkt-Icons</string>
     <string name="base_approx_time_remaining">Zeige voraussichtliche Zeit bis Basiseroberung</string>
     <string name="base_progress_beeping">Piep bei naher Basiseroberung</string>
-    <string name="mapscale">Map scale</string>
+    <string name="mapscale">Karten Größe</string>
     <string name="breadcrumbs">Breadcrumbs</string>
-    <string name="support_development">Support the development</string>
-    <string name="airplane_range">Airplane detection range</string>
-    <string name="ground_range">Ground detection range</string>
-    <string name="connected">Connected</string>
-    <string name="supporter">Supporter</string>
-    <string name="contributor">Contributor</string>
-    <string name="contribute_resources">Help out with app resources</string>
-    <string name="waiting_for_battle">Waiting for battle</string>
+    <string name="support_development">Supporte die Entwicklung!</string>
+    <string name="airplane_range">Flugzeug Erfassungsbereich</string>
+    <string name="ground_range">Panzer Erfassungsbereich</string>
+    <string name="connected">Verbunden</string>
+    <string name="supporter">Unterstützen</string>
+    <string name="contributor">Beitragen</string>
+    <string name="contribute_resources">Helfen sie mit App-Resourcesn</string>
+    <string name="waiting_for_battle">Warte auf Gefecht...</string>
     <string name="subscription">(Subscription)</string>
-    <string name="exit_title">Exit the app?</string>
-    <string name="exit_question">Do you want to disconnect and close the app?</string>
-    <string name="hide_add_requirement">Become Supporter or Contributor to turn the ads off.</string>
-    <string name="coop_start">Start new co-op</string>
-    <string name="coop_join">Join co-op</string>
-    <string name="coop_title">Co-op session</string>
-    <string name="close_enemy_detection">Close enemy detection</string>
-    <string name="far_enemy_detection">Far enemy detection</string>
-    <string name="coop_connecting_to_id">Connecting to co-op ID:</string>
-    <string name="coop_session_started">Co-op session started.</string>
+    <string name="exit_title">App verlassen?</string>
+    <string name="exit_question">Willst du die Verbindung trennen und die App verlassen?</string>
+    <string name="hide_add_requirement">Werden Sie Förderer oder Mitwirkender und deaktivieren sie die Anzeigen.</string>
+    <string name="coop_start">Starte neues CO-OP</string>
+    <string name="coop_join">Trete CO-OP bei</string>
+    <string name="coop_title">CO-OP Sitzung</string>
+    <string name="close_enemy_detection">Kurze Feind Erkennung</string>
+    <string name="far_enemy_detection">Weite Feind Erkennung</string>
+    <string name="coop_connecting_to_id">Verbinden zu CO-OP ID:</string>
+    <string name="coop_session_started">CO-OP Sitzung gestartet</string>
     <string name="id">ID:</string>
-    <string name="coop_chat_instruction_prefix">Type</string>
-    <string name="coop_chat_instruction_postfix">to game team chat.</string>
-    <string name="show_ads_while_not_playing">Show ads while not playing</string>
-    <string name="allow_data_collection">Allow anonymous data collection</string>
+    <string name="coop_chat_instruction_prefix">Typ</string>
+    <string name="coop_chat_instruction_postfix">Zu Team Chat.</string>
+    <string name="show_ads_while_not_playing">Zeige Werbung, während man nicht spielt</string>
+    <string name="allow_data_collection">Anonyme Datensammlung ermöglichen</string>
     <string name="data_collection_explained">With compliance by Google Analytics rules, helping to make the app better for You.</string>
 
 </resources>
