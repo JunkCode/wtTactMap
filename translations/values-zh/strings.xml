@@ -33,9 +33,9 @@
     <string name="updates_speed">刷新率</string>
     <string name="how_ip">"查看IP地址: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"找不到IP点这里，啦啦啦"</string>
-    <string name="ip_err">IP address not valid</string>
-    <string name="ip_err_wrong">"input address in format \r\nXXX.XXX.XXX.XXX \r\n Click on Help for guide to get right one."</string>
-    <string name="ip_err_local">"127.0.0.1 is not right address. \r\n Click on Help for guide to get right one."</string>
+    <string name="ip_err">IP 地址不正确</string>
+    <string name="ip_err_wrong">"IP 地址的格式应为： \r\nXXX.XXX.XXX.XXX \r\n 点击帮助获得指导。"</string>
+    <string name="ip_err_local">"127.0.0.1 不是一个正确的地址。 \r\n 点击帮助获得指导。"</string>
     <string-array name="updates_speed_array">
         <item >非常快</item>
         <item >快</item>
@@ -46,151 +46,153 @@
         <item >5秒</item>
     </string-array>
 
-     <string name="info_title">About</string>
+     <string name="info_title">关于</string>
     <string name="info_msg">
-        "This is unofficial app made by War Thunder fan!\r\n"
-        "This app is still in beta but feel free to contact me with bugs or new ideas at:\r\n"
+        "这是由战争雷霆的玩家制作的非官方应用程序！\r\n"
+        "这个应用程序仍然处于测试阶段。如果您有什么好的想法或建议，欢迎通过论坛(英文)联系我们！\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
-        "Translation made by raolex2006 \r\n"        
+        "该应用的简体中文版本翻译是由：\r\n"
+        "raolex2006 以及 mikifuns 完成。\r\n"
+        "mikiの博客：http://blog.mikifuns.com \r\n"
     </string>
     <string name="donate_line">  
-        "Do you like this app? Say it by donation on http://junkcode.net for future development.\r\n"
+        "喜欢这个应用吗？请通过 http://junkcode.net for future development 来向我们捐赠！我们需要您的帮助！.\r\n"
         </string>
      <string name="info_update_title">更新消息</string>
      
     <string name="version">App 版本:</string>
-    <string name="ok">OK</string>
+    <string name="ok">好的</string>
     <string name="cancel">取消</string>
     <string name="ignore">忽略</string>
     <string name="help">帮助</string>
     <string name="pref_header_notifications">提示设置</string>
     
     <string name="pref_title_ringtone">音效</string>
-    <string name="pref_header_data_sync">PC connection</string>
-    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_header_data_sync">电脑连接</string>
+    <string name="pref_ringtone_silent">静音</string>
     
     <string name="nowificonnected">你需要连接到WiFi</string>
 
-    <string name="planeicons">Airplane icons</string>
+    <string name="planeicons">飞机图标</string>
         <string-array name="planes_icon_size">
-        <item >Big</item>
-        <item >Medium</item>
-        <item >Small</item>
-        <item >Very small</item>
+        <item >大</item>
+        <item >中</item>
+        <item >小</item>
+        <item >非常小</item>
     </string-array>
     
-    <string name="lines">Navigation lines</string>
-    <string name="lines_oos">Only to offscreen</string>
-    <string name="lines_enemy">Enemies</string>
-    <string name="lines_friendly">Friendlies</string>
-    <string name="lines_squad">Squad</string>
-    <string name="lines_target">Target</string>
+    <string name="lines">导航线路</string>
+    <string name="lines_oos">仅到屏幕以外</string>
+    <string name="lines_enemy">敌人</string>
+    <string name="lines_friendly">友军</string>
+    <string name="lines_squad">小分队</string>
+    <string name="lines_target">目标</string>
     
-    <string name="hide_gp_login">Hide G+ Login button</string>
+    <string name="hide_gp_login">隐藏Google+登录按钮</string>
     
-    <string name="fullscreen">Fullscreen</string>
-    <string name="connect">Connect to friends</string>
+    <string name="fullscreen">全屏</string>
+    <string name="connect">连接到朋友</string>
     
-    <string name="waypoint">Waypoint</string>
-    <string name="waypoint_ctrl">Waypoint controls</string>
-    <string name="add">Add</string>
+    <string name="waypoint">导航点</string>
+    <string name="waypoint_ctrl">导航点控制</string>
+    <string name="add">添加</string>
     
-    <string name="horizontal_distance">Show horizontal distance</string>
+    <string name="horizontal_distance">显示水平距离</string>
     
-    <string name="pref_header_extras">Extra</string>
-    <string name="prediction">Prediction</string>
-    <string name="self">Self</string>
+    <string name="pref_header_extras">额外</string>
+    <string name="prediction">预测</string>
+    <string name="self">自主</string>
     <string name="show_intro_screen">Show intro splash</string>
     
-    <string name="ext_unlock">Unlock extras</string>
+    <string name="ext_unlock">额外解锁</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
-    <string name="ext_unlock_dial">"Unlock Code:"</string>
+        "通过捐赠<b><i>任何</i></b> 金额来解锁附加内容\r\n(如果您以前捐赠过该应用但是没有获得代码，请邮件联系我们。)"</string>
+    <string name="ext_unlock_dial">"解锁代码:"</string>
     
-    <string name="ext_link">Link to G+ account</string>
+    <string name="ext_link">链接到Google+</string>
             
-    <string name="firing_zone">Firing range</string>
-    <string name="gray_map">Grayscale map</string>
+    <string name="firing_zone">射击距离</string>
+    <string name="gray_map">灰度地图</string>
     
-    <string name="map">Map:</string>
-    <string name="custom_maps">Custom maps</string>
-    <string name="custom_maps_url">Custom maps url</string>
-    <string name="see_forum">For details see JunkCode forum</string>
+    <string name="map">地图:</string>
+    <string name="custom_maps">自定义地图</string>
+    <string name="custom_maps_url">自定义地图网址</string>
+    <string name="see_forum">有关详情请参阅JunkCode论坛</string>
     
-    <string name="tankicons">Tank icons</string>
-    <string name="groundicons">Ground icons</string>
+    <string name="tankicons">坦克图标</string>
+    <string name="groundicons">地面图标</string>
     
-    <string name="share_position">Share position</string>
+    <string name="share_position">分享位置</string>
     <string name="death_markers">Leave skulls on death</string>
 
-    <string name="size">Size</string>
-    <string name="style">Style</string>
+    <string name="size">大小</string>
+    <string name="style">风格</string>
     
     <string-array name="style_types">
-        <item >Old</item>
-        <item >New</item>
+        <item >旧版</item>
+        <item >新版</item>
     </string-array>
     
     <string-array name="color_schemes">
-        <item>Default</item>
-        <item>Green/Orange</item>
-        <item>Green/Red</item>
+        <item>默认</item>
+        <item>绿色/橙色</item>
+        <item>绿色/红色</item>
     </string-array>
-    <string name="colors">Colors</string>
+    <string name="colors">颜色</string>
     
-    <string name="pref_header_map_view">Map setup</string>
+    <string name="pref_header_map_view">地图设置</string>
     <string name="pref_header_GUI">GUI</string>
     
-    <string name="help_title">Help &amp; FAQ</string>
+    <string name="help_title">帮助 &amp; 问答</string>
     
-    <string name="blink">Allow flashing</string>
-    <string name="offline_mode">Offline mode</string>
-    <string name="talk_back">Talk back</string>
-    <string name="kills">Kills</string>
-    <string name="trigger_words_kill">Kill trigger words</string>
+    <string name="blink">允许闪烁</string>
+    <string name="offline_mode">离线模式</string>
+    <string name="talk_back">对讲</string>
+    <string name="kills">击杀</string>
+    <string name="trigger_words_kill">击杀触发词</string>
     <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
-    <string name="trigger_words_kill_summary">Default value: \"destroyed,shot down,уничтожен\"</string>
-    <string name="burns">Burns</string>
-    <string name="trigger_words_burn">Burn trigger words</string>
+    <string name="trigger_words_kill_summary">默认值: \"destroyed,shot down,уничтожен\"</string>
+    <string name="burns">烧毁</string>
+    <string name="trigger_words_burn">烧毁触发词</string>
     <string name="trigger_words_burn_default">set afire,подожжён</string>
-    <string name="trigger_words_burn_summary">Default value: \"set afire,подожжён\"</string>
-    <string name="player_name">Ingame name</string>
-    <string name="ext_unlocked">Extras unlocked</string>
-    <string name="please_restart">Please, restart the app for new settings to take effect.</string>
-    <string name="planes_in_tank">Detect airplanes while in tank</string>
-    <string name="bomber_path">Bomber paths</string>
-    <string name="air_raid_siren">Air raid siren</string>
-    <string name="pointicons">Point icons</string>
-    <string name="base_approx_time_remaining">Show approximate time to base capture</string>
-    <string name="base_progress_beeping">Beep on near base capturing</string>
-    <string name="mapscale">Map scale</string>
-    <string name="breadcrumbs">Breadcrumbs</string>
-    <string name="support_development">Support the development</string>
+    <string name="trigger_words_burn_summary">默认值: \"set afire,подожжён\"</string>
+    <string name="player_name">游戏内名称</string>
+    <string name="ext_unlocked">附加解锁</string>
+    <string name="please_restart">请重启应用以便使设置生效。</string>
+    <string name="planes_in_tank">同时侦测飞机和坦克</string>
+    <string name="bomber_path">轰炸机路径</string>
+    <string name="air_raid_siren">空袭警报</string>
+    <string name="pointicons">图标点</string>
+    <string name="base_approx_time_remaining">显示将被基地捕捉的大致时间</string>
+    <string name="base_progress_beeping">被基地捕捉后提示</string></string>
+    <string name="mapscale">地图比例尺</string>
+    <string name="breadcrumbs">路径导航</string>
+    <string name="support_development">向开发者报告</string></string>
 
-    <string name="airplane_range">Airplane detection range</string>
-    <string name="ground_range">Ground detection range</string>
-    <string name="connected">Connected</string>
-    <string name="supporter">Supporter</string>
-    <string name="contributor">Contributor</string>
-    <string name="contribute_resources">Help out with app resources</string>
-    <string name="waiting_for_battle">Waiting for battle</string>
-    <string name="subscription">(Subscription)</string>
-    <string name="exit_title">Exit the app?</string>
-    <string name="exit_question">Do you want to disconnect and close the app?</string>
-    <string name="hide_add_requirement">Become Supporter or Contributor to turn the ads off.</string>
-    <string name="coop_start">Start new co-op</string>
-    <string name="coop_join">Join co-op</string>
-    <string name="coop_title">Co-op session</string>
-    <string name="close_enemy_detection">Close enemy detection</string>
-    <string name="far_enemy_detection">Far enemy detection</string>
-    <string name="coop_connecting_to_id">Connecting to co-op ID:</string>
-    <string name="coop_session_started">Co-op session started.</string>
+    <string name="airplane_range">飞机检测范围</string>
+    <string name="ground_range">地面检测范围</string>
+    <string name="connected">连接的</string>
+    <string name="supporter">支持者</string>
+    <string name="contributor">贡献者</string>
+    <string name="contribute_resources">协助处理应用程序的资源</string>
+    <string name="waiting_for_battle">等待战斗</string>
+    <string name="subscription">(订阅)</string>
+    <string name="exit_title">退出应用?</string>
+    <string name="exit_question">你想断开连接并关闭该应用程序吗?</string>
+    <string name="hide_add_requirement">成为支持者或贡献者以打开关闭广告功能.</string>
+    <string name="coop_start">开始新的合作模式</string>
+    <string name="coop_join">加入合作模式</string>
+    <string name="coop_title">合作模式会话</string>
+    <string name="close_enemy_detection">关闭敌情侦查</string>
+    <string name="far_enemy_detection">远距离的敌人探测</string>
+    <string name="coop_connecting_to_id">连接到合作模式 ID：</string>
+    <string name="coop_session_started">合作模式会话开始。</string>
     <string name="id">ID:</string>
-    <string name="coop_chat_instruction_prefix">Type</string>
-    <string name="coop_chat_instruction_postfix">to game team chat.</string>
-    <string name="show_ads_while_not_playing">Show ads while not playing</string>
-    <string name="allow_data_collection">Allow anonymous data collection</string>
-    <string name="data_collection_explained">With compliance by Google Analytics rules, helping to make the app better for You.</string>
+    <string name="coop_chat_instruction_prefix">类型</string>
+    <string name="coop_chat_instruction_postfix">到游戏团队聊天。</string>
+    <string name="show_ads_while_not_playing">当不在游戏时显示广告</string>
+    <string name="allow_data_collection">允许匿名数据收集</string>
+    <string name="data_collection_explained">遵从谷歌Analytics（分析）的规则，有助于使应用程序更好地为您服务。</string>
 
 </resources>
