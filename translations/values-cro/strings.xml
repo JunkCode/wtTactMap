@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder tactical map</string>
+    
+    <string name="settings">Postavke</string>
+    <string name="hide">Sakrij</string>
+    <string name="danger">Obavijesti opasnosti</string>
+    <string name="nodanger">Obavijesti prestanka opasnosti</string>
+    <string name="proximity_wrn">Radijus:</string>
+    
+    
+    <string name="more">Više postavki</string>
+    <string name="connerror">Prekid veze</string>
+    
+    <string name="gui">Postavke grafičkog sučelja</string>
+    <string name="screenon">Ostavi ekran uključenim</string>
+    <string name="counters">Brojači</string>
+    
+    <string name="ip_h">IP adress</string>
+    <string name="find_ip">Skeniraj</string>
+    <string name="set_ip">Postavi IP</string>
+    <string name="ip">IP računala koje pokreće War Thunder:</string>
+    
+    
+    <string name="zoom_btns">Gumbi za zoom</string>
+    <string name="donate">Podrška</string>
+    <string name="enemy_vehicles">Neprijateljska vozila</string>
+    <string name="friendly_vehicles">Prijateljska vozila</string>
+    <string name="friendly_structures">Prijateljske građevine</string>
+    <string name="enemy_structures">Neprijateljske građevine</string>
+    
+    <string name="updates_speed">Frekvencija ažuriranja</string>
+    <string name="how_ip">"Kako pronaći IP adresu: http://ip.junkcode.net/help"</string>
+    <string name="how_ip_der">"Ako ne znate pronaći IP adresu kliknite ovdje"</string>
+    <string name="ip_err">IP adresa nije valjana</string>
+    <string name="ip_err_wrong">"Unesite adresu u formatu \r\nXXX.XXX.XXX.XXX \r\n Kliknite na Pomoć kako biste pronašli pravu."</string>
+    <string name="ip_err_local">"127.0.0.1 nije valjana adresa. \r\n Kliknite na Pomoć kako biste pronašli pravu."</string>
+    <string-array name="updates_speed_array">
+        <item >Vrlo brzo</item>
+        <item >Brzo</item>
+        <item >Umjereno brzo</item>
+        <item >Sporije</item>
+        <item >Sporo</item>
+        <item >JAKO sporo</item>
+        <item >5 sekundi</item>
+    </string-array>
+
+     <string name="info_title">O aplikaciji</string>
+    <string name="info_msg">
+        "Ovo je neslužbena aplikacija koju su napravili fanovi War Thunder-a\r\n"
+        "Ova aplikacija je još u razvoju ali slobodno prijavite bugove i ideje na:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Tražimo ljude koji će prevesti aplikaciju, ako želite pomoći posjetite: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+    </string>
+    <string name="donate_line">
+        "Sviđa vam se aplikacija? Recite to donacijom http://junkcode.net za budući razvoj. \r\n"
+        </string>
+     <string name="info_update_title">Obavjesti o ažuriranju</string>
+     
+    <string name="version">Verzija aplikacije:</string>
+    <string name="ok">U redu</string>
+    <string name="cancel">Otkaži</string>
+    <string name="ignore">Ignoriraj</string>
+    <string name="help">Pomoć</string>
+    <string name="pref_header_notifications">Obavijesti</string>
+
+    <string name="pref_title_ringtone">Ton obavijesti</string>
+    <string name="pref_header_data_sync">Veza s računalom</string>
+    <string name="pref_ringtone_silent">Tiho</string>
+    
+    <string name="nowificonnected">Trebali bi se povezati na svoju lokalnu WiFi mrežu</string>
+
+    <string name="planeicons">Ikone aviona</string>
+    <string-array name="planes_icon_size">
+        <item >Velike</item>
+        <item >Srednje</item>
+        <item >Male</item>
+        <item >Vrlo male</item>
+    </string-array>
+    
+    <string name="lines">Navigacijske linije</string>
+    <string name="lines_oos">Samo na metama izvan zaslona</string>
+    <string name="lines_enemy">Neprijatelji</string>
+    <string name="lines_friendly">Prijatelji</string>
+    <string name="lines_squad">Grupa(squad)</string>
+    <string name="lines_target">Meta</string>
+    
+    <string name="hide_gp_login">Sakrij G+ Login gumb</string>
+    
+    <string name="fullscreen">Cijeli zaslon</string>
+    <string name="connect">Spoji se s prijateljima</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Kontrole za waypoint</string>
+    <string name="add">Add</string>
+    
+    <string name="horizontal_distance">Prikaži horizontalnu udaljenost</string>
+    
+    <string name="pref_header_extras">Dodatne postavke</string>
+    <string name="prediction">Pretpostavljanje</string>
+    <string name="self">Ja</string>
+    <string name="show_intro_screen">Prikaži uvodni splash</string>
+    
+    <string name="ext_unlock">Otključaj dodatne postavke</string>
+    <string name="ext_unlock_det">
+        "Dodatne postavke se otključavaju donacijom <b><i>bilo koje</i></b> količine ili pomoći oko prevođenja\r\n(Ako ste donirali prije i  niste dobili kod za otključavanje pošaljite nam e-mail)"</string>
+    <string name="ext_unlock_dial">"Koda za otključavanje:"</string>
+    
+    <string name="ext_link">Veza sa G+ profilom</string>
+    
+    <string name="firing_zone">Streljana</string>
+    <string name="gray_map">Crno-bijela mapa</string>
+    
+    <string name="map">Mapa:</string>
+    <string name="custom_maps">Korisničke mape</string>
+    <string name="custom_maps_url">URL korisničkih mapa</string>
+    <string name="see_forum">Za detalje posjetite JunkCode forum</string>
+    
+    <string name="tankicons">Ikone tenkova</string>
+    <string name="groundicons">Ikone zemaljskih građevina</string>
+    
+    <string name="share_position">Podijeli lokaciju</string>
+    <string name="death_markers">Ostavi lubanju pri smrti</string>
+
+    <string name="size">Veličina</string>
+    <string name="style">Stil</string>
+    
+    <string-array name="style_types">
+        <item >Stari</item>
+        <item >Novi</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>Zadano</item>
+        <item>Zeleno/Narančasto</item>
+        <item>Zeleno/Crveno</item>
+    </string-array>
+    <string name="colors">Boje</string>
+    
+    <string name="pref_header_map_view">Postavke mape</string>
+    <string name="pref_header_GUI">Korisničko sučelje</string>
+    
+    <string name="help_title">Pomoć &amp; FAQ</string>
+    
+    <string name="blink">Dopusti bljeskalje</string>
+    <string name="offline_mode">Način izvan mreže</string>
+    <string name="talk_back">Talk back</string>
+    <string name="kills">Broj ubijenih neprijatelja</string>
+    <string name="trigger_words_kill">Riječi pri ubojstvu</string>
+    <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
+    <string name="trigger_words_kill_summary">Zadana vrijednost: \"destroyed,shot down,уничтожен\"</string>
+    <string name="burns">Spaljivanja</string>
+    <string name="trigger_words_burn">Riječi pri spaljivanju</string>
+    <string name="trigger_words_burn_default">set afire,подожжён</string>
+    <string name="trigger_words_burn_summary">Zadana vrijednost: \"set afire,подожжён\"</string>
+    <string name="player_name">Ime u igri</string>
+    <string name="ext_unlocked">Dodatne postavke otključane</string>
+    <string name="please_restart">Molimo vas, restartirajte aplikaciju kako bi primjenili nove postavke.</string>
+    <string name="planes_in_tank">Detektiraj avione iz tenka</string>
+    <string name="bomber_path">Put bombardera</string>
+    <string name="air_raid_siren">Sirena za zračni napad</string>
+    <string name="pointicons">Ikone kontrolnih točki</string>
+    <string name="base_approx_time_remaining">Prikaži približno vrijeme do zauzimanja baze</string>
+    <string name="base_progress_beeping">Zvučni signal pri kraju zauzimanja baze</string>
+    <string name="mapscale">Mjera mape</string>
+    <string name="breadcrumbs">Krušne mrvice</string>
+    <string name="support_development">Podržite razvoj</string>
+    <string name="airplane_range">Domet detektiranja aviona</string>
+    <string name="ground_range">Domet detektiranja tenkova</string>
+    <string name="connected">Spojeno</string>
+    <string name="supporter">Donator</string>
+    <string name="contributor">Suradnik</string>
+    <string name="contribute_resources">Pomozite s resursima aplikacije</string>
+    <string name="waiting_for_battle">Čekanje na bitku</string>
+    <string name="subscription">(Pretplata)</string>
+    <string name="exit_title">Izaći iz aplikacije?</string>
+    <string name="exit_question">Želite li se odspojiti i zatvoriti aplikaciju?</string>
+    <string name="hide_add_requirement">Postanite donator ili pomoćnik kako biste isključili reklame.</string>
+    <string name="coop_start">Pokreni co-op</string>
+    <string name="coop_join">Pridruži se co-op</string>
+    <string name="coop_title">Co-op sesija</string>
+    <string name="close_enemy_detection">Blizinsko detektiranje neprijatelja</string>
+    <string name="far_enemy_detection">Daljinsko detektiranje neprijatelja</string>
+    <string name="coop_connecting_to_id">Spajanje na co-op ID:</string>
+    <string name="coop_session_started">Co-op sesija započeta.</string>
+    <string name="id">ID:</string>
+    <string name="coop_chat_instruction_prefix">Tip</string>
+    <string name="coop_chat_instruction_postfix">U igrin team chat.</string>
+    <string name="show_ads_while_not_playing">Prikaži reklame dok ne igram</string>
+    <string name="allow_data_collection">Dopusti anonimno prikupljanje podataka</string>
+    <string name="data_collection_explained">Uz suglasnost Google Analytics pravila, pomaže nam napraviti aplikaciju boljom za Vas.</string>
+
+</resources>
