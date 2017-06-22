@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">追加機能の解除</string>
     <string name="ext_unlock_det">
-        "追加機能は<b><i>金額に関わらず</b></i>寄付を行っていただいた方，もしくは開発に協力して頂いた方が使用できます．\r\n(もし以前寄付をしたのにコードを受け取っていない方は，メールでお知らせください)"</string>
+        "追加機能は<b><i>金額に関わらず</i></b>寄付を行っていただいた方，もしくは開発に協力して頂いた方が使用できます．\r\n(もし以前寄付をしたのにコードを受け取っていない方は，メールでお知らせください)"</string>
     <string name="ext_unlock_dial">"解除コード:"</string>
     
     <string name="ext_link">G+アカウントにリンク account</string>

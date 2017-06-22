@@ -30,7 +30,7 @@
     <string name="friendly_structures">Strutture alleate</string>
     <string name="enemy_structures">Strutture nemiche</string>
     
-    <string name="updates_speed">Frequenza d'aggiornamento</string>
+    <string name="updates_speed">Frequenza d\'aggiornamento</string>
     <string name="how_ip">"Per sapere come ottenere un indirizzo IP vedi: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Se non sai come ottenere il tuo indirizzo IP clicca qui"</string>
     <string name="ip_err">Indirizzo IP non valido</string>
@@ -48,7 +48,7 @@
 
      <string name="info_title">About</string>
     <string name="info_msg">
-        "Questa è un' App amatoriale creata dai fan di War Thunder!\r\n"
+        "Questa è un\' App amatoriale creata dai fan di War Thunder!\r\n"
         "Questa App è ancora in beta, ma sentitevi liberi di contattarci per nuove idee o bug tramite:\r\n"
         "http://junkcode.net/forum \r\n"
         "\r\n"
