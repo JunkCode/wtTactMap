@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="help_map_ctrl">地圖控制</string>
+    <string name="text_help_map_ctrl">
+        <b>1</b> 自由模式\n
+        <b>2</b> 跟隨飛機\n
+        <b>3</b> 視角旋轉鎖\n
+        <b>4</b> 點擊重置\n
+    </string>
+    
+    <string name="help_prediction">預測</string>
+    <string name="text_help_prediction">
+        預測飛機10.30.90s後的位置 （基於當前速度和方向） 
+    </string>
+    
+    <string name="faq">常見問題</string>
+    
+    <string name="faq_connection">連接</string>
+    <string name="text_faq_con">
+        <b>我怎樣連接?</b>\n
+         \u00A0\u00A0 該應用程序需要獲得運行War Thunder的計算機的IP地址，如何獲取IP，請訪問http://ip.junkcode.net (英文) \n\n
+         
+        <b>我輸入了IP但它仍然提示 \"無連接\"</b>\n
+         \u00A0\u00A0 您的本地網絡路由可能有問題，請參閱http://ip.junkcode.net/help (英文) \n\n
+         
+        <b>它仍然沒有連接！</b>\n
+         \u00A0\u00A0 你絕對沒有訪問 http://ip.junkcode.net/help (英文), 沒錯吧?
+         \n
+    </string>
+    
+    <string name="faq_extras">額外內容</string>
+    <string name="text_faq_extra">   
+        <b>我已捐款,我的激活碼在哪裡?</b>\n
+         \u00A0\u00A0 捐贈後幾分鐘內，您應該收到電子郵件的代碼，如果沒有的話請聯繫 support@junkcode.net (請使用英文) \n\n
+         
+        <b>我輸入了代碼，但沒有解鎖</b>\n
+         \u00A0\u00A0 請嘗試重啟應用 \n\n
+        
+    </string>
+    <string name="faq_improvement">應用程序改進</string>
+    <string name="text_faq_improve">"  
+        <b>我不喜歡其中的部分內容</b>\n
+         \u00A0\u00A0 請讓我們知道! - http://junkcode.net/forum/viewforum.php?f=14 (English Only) \n\n
+         
+        <b>我發現了個BUG</b>\n
+         \u00A0\u00A0 請在此發表 http://github.com/JunkCode/wtTactMap/issues?state=open (大陸部分地區可能無法訪問[我知道你在港澳台],需註冊賬號) \n\n
+         
+        <b>我有個新功能想法!</b>\n
+         \u00A0\u00A0 請讓我們知道! - http://junkcode.net/forum/viewforum.php?f=14 (English Only) \n\n
+         
+        <b>我想幫助 翻譯程序/設計圖標/...</b>\n
+         \u00A0\u00A0 一些資源已經在這裡 http://github.com/JunkCode/wtTactMap 您可以提出修改或添加新事物。 如果您有任何問題或其他想法請讓我們知道 - http://junkcode.net/forum/viewforum.php?f=14 (English only) \n\n
+         
+    </string>
+    
+</resources>
