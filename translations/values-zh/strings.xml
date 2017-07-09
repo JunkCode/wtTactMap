@@ -24,18 +24,18 @@
     
     
     <string name="zoom_btns">缩放按钮</string>
-    <string name="donate">Donate</string>
+    <string name="donate">赞助作者</string>
     <string name="enemy_vehicles">敌方载具</string>
     <string name="friendly_vehicles">友方载具</string>
     <string name="friendly_structures">友方建筑物</string>
     <string name="enemy_structures">敌方建筑物</string>
     
     <string name="updates_speed">刷新率</string>
-    <string name="how_ip">"查看IP地址: http://ip.junkcode.net/"</string>
-    <string name="how_ip_der">"找不到IP点这里，啦啦啦"</string>
+    <string name="how_ip">"查看IP地址: http://ip.junkcode.net/ (英文)"</string>
+    <string name="how_ip_der">"找不到IP点这里，啦啦啦(英语)"</string>
     <string name="ip_err">IP 地址不正确</string>
     <string name="ip_err_wrong">"IP 地址的格式应为： \r\nXXX.XXX.XXX.XXX \r\n 点击帮助获得指导。"</string>
-    <string name="ip_err_local">"127.0.0.1 不是一个正确的地址。 \r\n 点击帮助获得指导。"</string>
+    <string name="ip_err_local">"127.0.0.1 是你本机IP,无效。 \r\n 点击帮助获得指导。"</string>
     <string-array name="updates_speed_array">
         <item >非常快</item>
         <item >快</item>
@@ -54,10 +54,10 @@
         "\r\n"
         "该应用的简体中文版本翻译是由：\r\n"
         "raolex2006 以及 mikifuns 完成。\r\n"
-        "mikiの博客：http://blog.mikifuns.com \r\n"
+        "mikiの博客：http://www.mikifuns.com \r\n"
     </string>
     <string name="donate_line">  
-        "喜欢这个应用吗？请通过 http://junkcode.net for future development 来向我们捐赠！我们需要您的帮助！.\r\n"
+        "喜欢这个应用吗？请通过 http://junkcode.net 来向我们捐赠！我们需要您的帮助！.\r\n"
         </string>
      <string name="info_update_title">更新消息</string>
      
@@ -72,7 +72,7 @@
     <string name="pref_header_data_sync">电脑连接</string>
     <string name="pref_ringtone_silent">静音</string>
     
-    <string name="nowificonnected">你需要连接到WiFi</string>
+    <string name="nowificonnected">你需要连接到WiFi网络</string>
 
     <string name="planeicons">飞机图标</string>
         <string-array name="planes_icon_size">
@@ -118,7 +118,7 @@
     <string name="map">地图:</string>
     <string name="custom_maps">自定义地图</string>
     <string name="custom_maps_url">自定义地图网址</string>
-    <string name="see_forum">有关详情请参阅JunkCode论坛</string>
+    <string name="see_forum">有关详情请参阅JunkCode论坛(英文)</string>
     
     <string name="tankicons">坦克图标</string>
     <string name="groundicons">地面图标</string>
@@ -172,9 +172,9 @@
 
     <string name="airplane_range">飞机检测范围</string>
     <string name="ground_range">地面检测范围</string>
-    <string name="connected">连接的</string>
-    <string name="supporter">支持者</string>
-    <string name="contributor">贡献者</string>
+    <string name="connected">已连接</string>
+    <string name="supporter">有钱出钱</string>
+    <string name="contributor">没钱出力</string>
     <string name="contribute_resources">协助处理应用程序的资源</string>
     <string name="waiting_for_battle">等待战斗</string>
     <string name="subscription">(订阅)</string>
