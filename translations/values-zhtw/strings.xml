@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">戰爭雷霆戰術地圖</string>
+    
+    <string name="settings">設置</string>
+    <string name="hide">隱藏</string>
+    <string name="danger">危險警告</string>
+    <string name="nodanger">解除危險提示</string>
+    <string name="proximity_wrn">範圍</string>
+    
+    
+    <string name="more">更多設置</string>
+    <string name="connerror">無連接</string>
+    
+    <string name="gui">面板設置</string>
+    <string name="screenon">屏幕長亮</string>
+    <string name="counters">計數</string>
+    
+    <string name="ip_h">IP地址</string>
+    <string name="find_ip">尋找IP</string>
+    <string name="set_ip">設置IP</string>
+    <string name="ip">電腦IP地址:</string>
+    
+    
+    <string name="zoom_btns">縮放按鈕</string>
+    <string name="donate">贊助作者</string>
+    <string name="enemy_vehicles">敵方載具</string>
+    <string name="friendly_vehicles">友方載具</string>
+    <string name="friendly_structures">友方建築物</string>
+    <string name="enemy_structures">敵方建築物</string>
+    
+    <string name="updates_speed">刷新率</string>
+    <string name="how_ip">"查看IP地址: http://ip.junkcode.net/ (英文)"</string>
+    <string name="how_ip_der">"找不到IP點這裡，啦啦啦(英語)"</string>
+    <string name="ip_err">IP 地址不正確</string>
+    <string name="ip_err_wrong">"IP 地址的格式應為： \r\nXXX.XXX.XXX.XXX \r\n 點擊幫助獲得指導。"</string>
+    <string name="ip_err_local">"127.0.0.1 是你本機IP,無效。 \r\n 點擊幫助獲得指導。"</string>
+    <string-array name="updates_speed_array">
+        <item >非常快</item>
+        <item >快</item>
+        <item >一般</item>
+        <item >有點慢</item>
+        <item >慢</item>
+        <item >非常慢</item>
+        <item >5秒</item>
+    </string-array>
+
+     <string name="info_title">關於</string>
+    <string name="info_msg">
+        "這是由戰爭雷霆的玩家製作的非官方應用程序！\r\n"
+        "這個應用程序仍然處於測試階段。如果您有什麼好的想法或建議，歡迎通過論壇(英文)聯繫我們！\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "該應用的簡體中文版本翻譯是由：\r\n"
+        "raolex2006 以及 mikifuns 完成。\r\n"
+        "mikiの博客：http://www.mikifuns.com \r\n"
+    </string>
+    <string name="donate_line">  
+        "喜歡這個應用嗎？請通過 http://junkcode.net 來向我們捐贈！我們需要您的幫助！.\r\n"
+        </string>
+     <string name="info_update_title">更新消息</string>
+     
+    <string name="version">App 版本:</string>
+    <string name="ok">好的</string>
+    <string name="cancel">取消</string>
+    <string name="ignore">忽略</string>
+    <string name="help">幫助</string>
+    <string name="pref_header_notifications">提示設置</string>
+    
+    <string name="pref_title_ringtone">音效</string>
+    <string name="pref_header_data_sync">電腦連接</string>
+    <string name="pref_ringtone_silent">靜音</string>
+    
+    <string name="nowificonnected">你需要連接到WiFi網絡</string>
+
+    <string name="planeicons">飛機圖標</string>
+        <string-array name="planes_icon_size">
+        <item >大</item>
+        <item >中</item>
+        <item >小</item>
+        <item >非常小</item>
+    </string-array>
+    
+    <string name="lines">導航線路</string>
+    <string name="lines_oos">僅到屏幕以外</string>
+    <string name="lines_enemy">敵人</string>
+    <string name="lines_friendly">友軍</string>
+    <string name="lines_squad">小分隊</string>
+    <string name="lines_target">目標</string>
+    
+    <string name="hide_gp_login">隱藏Google+登錄按鈕</string>
+    
+    <string name="fullscreen">全屏</string>
+    <string name="connect">連接到朋友</string>
+    
+    <string name="waypoint">導航點</string>
+    <string name="waypoint_ctrl">導航點控制</string>
+    <string name="add">添加</string>
+    
+    <string name="horizontal_distance">顯示水平距離</string>
+    
+    <string name="pref_header_extras">額外</string>
+    <string name="prediction">預測</string>
+    <string name="self">自主</string>
+    <string name="show_intro_screen">Show intro splash</string>
+    
+    <string name="ext_unlock">額外解鎖</string>
+    <string name="ext_unlock_det">
+        "通過捐贈<b><i>任何</i></b> 金額來解鎖附加內容\r\n(如果您以前捐贈過該應用但是沒有獲得代碼，請郵件聯繫我們。)"</string>
+    <string name="ext_unlock_dial">"解鎖代碼:"</string>
+    
+    <string name="ext_link">鏈接到Google+</string>
+            
+    <string name="firing_zone">射擊距離</string>
+    <string name="gray_map">灰度地圖</string>
+    
+    <string name="map">地圖:</string>
+    <string name="custom_maps">自定義地圖</string>
+    <string name="custom_maps_url">自定義地圖網址</string>
+    <string name="see_forum">有關詳情請參閱JunkCode論壇(英文)</string>
+    
+    <string name="tankicons">坦克圖標</string>
+    <string name="groundicons">地面圖標</string>
+    
+    <string name="share_position">分享位置</string>
+    <string name="death_markers">Leave skulls on death</string>
+
+    <string name="size">大小</string>
+    <string name="style">風格</string>
+    
+    <string-array name="style_types">
+        <item >舊版</item>
+        <item >新版</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>默認</item>
+        <item>綠色/橙色</item>
+        <item>綠色/紅色</item>
+    </string-array>
+    <string name="colors">顏色</string>
+    
+    <string name="pref_header_map_view">地圖設置</string>
+    <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">幫助 &amp; 問答</string>
+    
+    <string name="blink">允許閃爍</string>
+    <string name="offline_mode">離線模式</string>
+    <string name="talk_back">對講</string>
+    <string name="kills">擊殺</string>
+    <string name="trigger_words_kill">擊殺觸發詞</string>
+    <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
+    <string name="trigger_words_kill_summary">默認值: \"destroyed,shot down,уничтожен\"</string>
+    <string name="burns">燒毀</string>
+    <string name="trigger_words_burn">燒毀觸發詞</string>
+    <string name="trigger_words_burn_default">set afire,подожжён</string>
+    <string name="trigger_words_burn_summary">默認值: \"set afire,подожжён\"</string>
+    <string name="player_name">遊戲內名稱</string>
+    <string name="ext_unlocked">附加解鎖</string>
+    <string name="please_restart">請重啟應用以便使設置生效。</string>
+    <string name="planes_in_tank">同時偵測飛機和坦克</string>
+    <string name="bomber_path">轟炸機路徑</string>
+    <string name="air_raid_siren">空襲警報</string>
+    <string name="pointicons">圖標點</string>
+    <string name="base_approx_time_remaining">顯示將被基地捕捉的大致時間</string>
+    <string name="base_progress_beeping">被基地捕捉後提示</string></string>
+    <string name="mapscale">地圖比例尺</string>
+    <string name="breadcrumbs">路徑導航</string>
+    <string name="support_development">向開發者報告</string></string>
+
+    <string name="airplane_range">飛機檢測範圍</string>
+    <string name="ground_range">地面檢測範圍</string>
+    <string name="connected">已連接</string>
+    <string name="supporter">有錢出錢</string>
+    <string name="contributor">沒錢出力</string>
+    <string name="contribute_resources">協助處理應用程序的資源</string>
+    <string name="waiting_for_battle">等待戰鬥</string>
+    <string name="subscription">(訂閱)</string>
+    <string name="exit_title">退出應用?</string>
+    <string name="exit_question">你想斷開連接並關閉該應用程序嗎?</string>
+    <string name="hide_add_requirement">成為支持者或貢獻者以打開關閉廣告功能.</string>
+    <string name="coop_start">開始新的合作模式</string>
+    <string name="coop_join">加入合作模式</string>
+    <string name="coop_title">合作模式會話</string>
+    <string name="close_enemy_detection">關閉敵情偵查</string>
+    <string name="far_enemy_detection">遠距離的敵人探測</string>
+    <string name="coop_connecting_to_id">連接到合作模式 ID：</string>
+    <string name="coop_session_started">合作模式會話開始。</string>
+    <string name="id">ID:</string>
+    <string name="coop_chat_instruction_prefix">類型</string>
+    <string name="coop_chat_instruction_postfix">到遊戲團隊聊天。</string>
+    <string name="show_ads_while_not_playing">當不在遊戲時顯示廣告</string>
+    <string name="allow_data_collection">允許匿名數據收集</string>
+    <string name="data_collection_explained">遵從谷歌Analytics（分析）的規則，有助於使應用程序更好地為您服務。</string>
+
+</resources>
