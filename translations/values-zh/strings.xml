@@ -165,10 +165,10 @@
     <string name="air_raid_siren">空袭警报</string>
     <string name="pointicons">图标点</string>
     <string name="base_approx_time_remaining">显示将被基地捕捉的大致时间</string>
-    <string name="base_progress_beeping">被基地捕捉后提示</string></string>
+    <string name="base_progress_beeping">被基地捕捉后提示</string>
     <string name="mapscale">地图比例尺</string>
     <string name="breadcrumbs">路径导航</string>
-    <string name="support_development">向开发者报告</string></string>
+    <string name="support_development">向开发者报告</string>
 
     <string name="airplane_range">飞机检测范围</string>
     <string name="ground_range">地面检测范围</string>
