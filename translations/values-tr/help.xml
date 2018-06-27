@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Harita Kontrolü</string>
     <string name="text_help_map_ctrl">
         <b>1</b> Serbest Mod\n
         <b>2</b> Uçağı Takip Et\n
@@ -19,10 +19,10 @@
     <string name="faq_connection">Bağlantı</string>
     <string name="text_faq_con">
         <b>Nasıl bağlanırım?</b>\n
-         \u00A0\u00A0 The app needs an IP address of your computer running War Thunder, how to get your IP see http://ip.junkcode.net \n\n
+         \u00A0\u00A0 Uygulamanın, War Thunder çalıştıran bilgisayarınızın IP adresini, IP'nizi nasıl alacağınızı görmesi gerekir. http://ip.junkcode.net \n\n
          
-        <b>I did enter IP and it still says \"No connection\"</b>\n
-         \u00A0\u00A0 There might be problem with your local network routing see http://ip.junkcode.net/help \n\n
+        <b>IP girdim ve hala diyor \"Bağlantı Yok\"</b>\n
+         \u00A0\u00A0 Yerel ağ yönlendirmenizde sorun olabilir. http://ip.junkcode.net/help \n\n
          
         <b>It still doesn\'t connect!</b>\n
          \u00A0\u00A0 You didn\'t read http://ip.junkcode.net/help, did you?
@@ -31,26 +31,26 @@
     
     <string name="faq_extras">Extras</string>
     <string name="text_faq_extra">   
-        <b>I donated, where is my code?</b>\n
-         \u00A0\u00A0 You should receive code to your email within few minutes after donation, if not contact support@junkcode.net \n\n
+        <b>Ben bağış yaptım, kodum nerede?</b>\n
+         \u00A0\u00A0 support@junkcode.net ile iletişime geçmezseniz, bağışınızdan sonra birkaç dakika içinde e-postanıza kod almalısınız. \n\n
          
-        <b>I entered code but nothing is unlocked</b>\n
-         \u00A0\u00A0 Try restarting the app \n\n
+        <b>Kodu girdim ama hiçbir şey açılmadı</b>\n
+         \u00A0\u00A0 Uygulamayı yeniden başlatmayı deneyin \n\n
         
     </string>
-    <string name="faq_improvement">App improvement</string>
+    <string name="faq_improvement">Uygulama iyileştirme</string>
     <string name="text_faq_improve">"  
         <b>I don\'t like something</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         \u00A0\u00A0 Bize bildir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
         <b>Bir Hata Buldum!</b>\n
-         \u00A0\u00A0 Post it here http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+         \u00A0\u00A0 Buraya gönderin http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
         <b>Yeni özellik için bir fikrim var</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         \u00A0\u00A0 Bize bildir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I want to help with translation/icons/...</b>\n
-         \u00A0\u00A0 Some of the resources are already here http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Yardım etmek istiyorum translation/icons/...</b>\n
+         \u00A0\u00A0 Bazı kaynaklar zaten burada http://github.com/JunkCode/wtTactMap Değişiklik önerebilir veya yeni şeyler ekleyebilirsiniz. Herhangi bir sorunuz veya başka bir fikriniz varsa bize bildirin - http://junkcode.net/forum/viewforum.php?f=14 \n\n
           
     </string>
     
