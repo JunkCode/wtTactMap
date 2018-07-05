@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder Taktiksel Harita</string>
+    
+    <string name="settings">Ayarlar</string>
+    <string name="hide">Gizle</string>
+    <string name="danger">Tehlike Bildirimi</string>
+    <string name="nodanger">OK Bildirim</string>
+    <string name="proximity_wrn">Etki Alanı:</string>
+    
+    
+    <string name="more">Daha Fazla Ayar</string>
+    <string name="connerror">Bağlantı Yok</string>
+    
+    <string name="gui">GUI Ayarları</string>
+    <string name="screenon">Ekranda Tut</string>
+    <string name="counters">Sayaçlar</string>
+    
+    <string name="ip_h">IP Adresi</string>
+    <string name="find_ip">Tara</string>
+    <string name="set_ip">IP Belirle</string>
+    <string name="ip">IP of computer with War Thunder (without port):</string>
+    
+    
+    <string name="zoom_btns">Yakınlaştırma Butonları</string>
+    <string name="donate">Destek</string>
+    <string name="enemy_vehicles">Düşman Tankları</string>
+    <string name="friendly_vehicles">Dost Araçları</string>
+    <string name="friendly_structures">Dost Yapıları</string>
+    <string name="enemy_structures">Düşman Yapıları</string>
+    
+    <string name="updates_speed">Güncelleme Sıklığı</string>
+    <string name="how_ip">"IP adresi nasıl alınır?: http://ip.junkcode.net/help"</string>
+    <string name="how_ip_der">"IP adresinizi nasıl alacağınızı bilmiyorsanız buraya tıklayın"</string>
+    <string name="ip_err">IP adresi geçerli değil</string>
+    <string name="ip_err_wrong">"Biçimindeki adres girişi \r\nXXX.XXX.XXX.XXX \r\n Doğru olanı almak için Yardıma tıklayın.."</string>
+    <string name="ip_err_local">"127.0.0.1 doğru adres değil. \r\n Doğru olanı görmek için Yardıma tıklayın."</string>
+    <string-array name="updates_speed_array">
+        <item >Çok Hızlı</item>
+        <item >Hızlı</item>
+        <item >Orta</item>
+        <item >Yavaş</item>
+        <item >Biraz Yavaş</item>
+        <item >Çok Yavaş</item>
+        <item >5 Saniye</item>
+    </string-array>
+
+     <string name="info_title">Hakkında</string>
+    <string name="info_msg">
+        "Bu War Thunder hayranları tarafından yapılan resmi olmayan bir uygulama!\r\n"
+        "Bu uygulama hala beta sürümünde. Ancak, hata veya yeni fikirlerle bizimle iletişime geçmekten çekinmeyin:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "Uygulamayı farklı dillere çevirmek için insanlar arıyoruz, yardımcı olmak istiyorsanız http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+    </string>
+    <string name="donate_line">
+        "Bu uygulamayı Beğendin mi? Bağışla söyle. http://junkcode.net for future development. \r\n"
+        </string>
+     <string name="info_update_title">Güncel Haberler</string>
+     
+    <string name="version">App Version:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Kapat</string>
+    <string name="ignore">Yoksay</string>
+    <string name="help">Yardım</string>
+    <string name="pref_header_notifications">Bildirimler</string>
+
+    <string name="pref_title_ringtone">Zil Sesi</string>
+    <string name="pref_header_data_sync">PC Bağlantısı</string>
+    <string name="pref_ringtone_silent">Sessiz</string>
+    
+    <string name="nowificonnected">Yerel Kablosuz ağınıza bağlanmalısınız.</string>
+
+    <string name="planeicons">Uçak İkonları</string>
+    <string-array name="planes_icon_size">
+        <item >Büyük</item>
+        <item >Orta</item>
+        <item >Küçük</item>
+        <item >Çok Küçük</item>
+    </string-array>
+    
+    <string name="lines">Nagivasyon Hatları</string>
+    <string name="lines_oos">Sadece ekran dışındaki hedefler</string>
+    <string name="lines_enemy">Düşmanlar</string>
+    <string name="lines_friendly">Friendlies</string>
+    <string name="lines_squad">Takım</string>
+    <string name="lines_target">Hedef</string>
+    
+    <string name="hide_gp_login">G + Giriş düğmesini gizle</string>
+    
+    <string name="fullscreen">Tam Ekran</string>
+    <string name="connect">Connect to friends</string>
+    
+    <string name="waypoint">Waypoint</string>
+    <string name="waypoint_ctrl">Waypoint controls</string>
+    <string name="add">Ekle</string>
+    
+    <string name="horizontal_distance">Yatay mesafeyi göster</string>
+    
+    <string name="pref_header_extras">Ekstra</string>
+    <string name="prediction">Tahmin</string>
+    <string name="self">Self</string>
+    <string name="show_intro_screen">Show intro splash</string>
+    
+    <string name="ext_unlock">Özel Ayarları Aç</string>
+    <string name="ext_unlock_det">
+        "Özel Ayarlar bağışla açıldı <b><i>herhangi</i></b> miktar veya içerik katkısı\r\n(Daha önce bağışladıysanız ve kodu almadıysanız bize bir e-posta yazın)"</string>
+    <string name="ext_unlock_dial">"Unlock Code:"</string>
+    
+    <string name="ext_link">G + hesabına bağla</string>
+    
+    <string name="firing_zone">Atış Menzili</string>
+    <string name="gray_map">Gri Tonlu Harita</string>
+    
+    <string name="map">Harita:</string>
+    <string name="custom_maps">Özel Haritalar</string>
+    <string name="custom_maps_url">Özel Harita URL</string>
+    <string name="see_forum">Ayrıntılar için bkz. JunkCode forum</string>
+    
+    <string name="tankicons">Tank İkonları</string>
+    <string name="groundicons">Zemin İkonları</string>
+    
+    <string name="share_position">Konum Paylaşımı</string>
+    <string name="death_markers">Ölünce kafatası bırak</string>
+
+    <string name="size">Boyut</string>
+    <string name="style">Sitil</string>
+    
+    <string-array name="style_types">
+        <item >Eski</item>
+        <item >Yeni</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>Varsayılan</item>
+        <item>Yeşil/Turuncu</item>
+        <item>Yeşil/Turuncu</item>
+    </string-array>
+    <string name="colors">Colors</string>
+    
+    <string name="pref_header_map_view">Harita Ayarları</string>
+    <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">Yardım &amp; SSS</string>
+    
+    <string name="blink">Allow flashing</string>
+    <string name="offline_mode">Çevrimdışı Mod</string>
+    <string name="talk_back">Talk back</string>
+    <string name="kills">Öldürmeler</string>
+    <string name="trigger_words_kill">Öldürünce kullanılan kelimeler</string>
+    <string name="trigger_words_kill_default">yok edildi,vuruldu,уничтожен</string>
+    <string name="trigger_words_kill_summary">Default value: \"destroyed,shot down,уничтожен\"</string>
+    <string name="burns">Burns</string>
+    <string name="trigger_words_burn">Yanınca kullanılan kelimeler</string>
+    <string name="trigger_words_burn_default">set afire,подожжён</string>
+    <string name="trigger_words_burn_summary">Default value: \"set afire,подожжён\"</string>
+    <string name="player_name">Ingame name</string>
+    <string name="ext_unlocked">Özel Ayarlar Açıldı</string>
+    <string name="please_restart">Lütfen, yeni ayarlar için uygulamayı yeniden başlatın.</string>
+    <string name="planes_in_tank">Tanktayken uçakları tespit et</string>
+    <string name="bomber_path">Bombalama Yolları</string>
+    <string name="air_raid_siren">Hava Saldırısı Sireni</string>
+    <string name="pointicons">Point icons</string>
+    <string name="base_approx_time_remaining">Üsttü ele geçirmede tahmini süreyi gösterir</string>
+    <string name="base_progress_beeping">Üst ele geçirmede, bip sesi</string>
+    <string name="mapscale">Map scale</string>
+    <string name="breadcrumbs">Breadcrumbs</string>
+    <string name="support_development">Support the development</string>
+    <string name="airplane_range">Uçak Algılama Menzili</string>
+    <string name="ground_range">Yer Belirleme Menzili</string>
+    <string name="connected">Bağlandı</string>
+    <string name="supporter">Destekleyen</string>
+    <string name="contributor">Katılımcı</string>
+    <string name="contribute_resources">Uygulama kaynakları ile yardım edin</string>
+    <string name="waiting_for_battle">Waiting for battle</string>
+    <string name="subscription">(Abonelik)</string>
+    <string name="exit_title">Uygulamadan çıkılsın mı?</string>
+    <string name="exit_question">Uygulamanın bağlantısını kesmek ve kapatmak istiyor musunuz?</string>
+    <string name="hide_add_requirement">Reklamları kapatmak için Destekleyen veya Katılımcı Olun.</string>
+    <string name="coop_start">Yeni Co-op Başlat</string>
+    <string name="coop_join">Co-op katılın</string>
+    <string name="coop_title">Co-op oturumu</string>
+    <string name="close_enemy_detection">Düşman Tespitini Kapat</string>
+    <string name="far_enemy_detection">Uzaktaki Düşman Tespiti</string>
+    <string name="coop_connecting_to_id">Co-op ID'ye bağlanma:</string>
+    <string name="coop_session_started">Co-op oturumu başladı.</string>
+    <string name="id">ID:</string>
+    <string name="coop_chat_instruction_prefix">Tür</string>
+    <string name="coop_chat_instruction_postfix">to game team chat.</string>
+    <string name="show_ads_while_not_playing">Oyun oynamıyorken reklamları göster</string>
+    <string name="allow_data_collection">Anonim veri toplamaya izin ver</string>
+    <string name="data_collection_explained">Google Analytics kurallarına uygun olarak, uygulamayı sizin için daha iyi hale getirmeye yardımcı olur.</string>
+
+</resources>

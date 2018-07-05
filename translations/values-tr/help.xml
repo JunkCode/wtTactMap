@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="help_map_ctrl">Harita Kontrolü</string>
+    <string name="text_help_map_ctrl">
+        <b>1</b> Serbest Mod\n
+        <b>2</b> Uçağı Takip Et\n
+        <b>3</b> Rotasyonu Kilitle\n
+        <b>4</b> Sıfırlamak için Tıkla\n
+    </string>
+    
+    <string name="help_prediction">Tahmin</string>
+    <string name="text_help_prediction">
+        10, 30 ve 90 saniyede düzlem konumunun tahmini (geçerli hız ve yöne göre)
+    </string>
+    
+    <string name="faq">SSS (Sık Sorulan Sorular)</string>
+    
+    <string name="faq_connection">Bağlantı</string>
+    <string name="text_faq_con">
+        <b>Nasıl bağlanırım?</b>\n
+         \u00A0\u00A0 Uygulamanın, War Thunder çalıştıran bilgisayarınızın IP adresini, IP'nizi nasıl alacağınızı görmesi gerekir. http://ip.junkcode.net \n\n
+         
+        <b>IP girdim ve hala diyor \"Bağlantı Yok\"</b>\n
+         \u00A0\u00A0 Yerel ağ yönlendirmenizde sorun olabilir. http://ip.junkcode.net/help \n\n
+         
+        <b>It still doesn\'t connect!</b>\n
+         \u00A0\u00A0 You didn\'t read http://ip.junkcode.net/help, did you?
+         \n
+    </string>
+    
+    <string name="faq_extras">Extras</string>
+    <string name="text_faq_extra">   
+        <b>Ben bağış yaptım, kodum nerede?</b>\n
+         \u00A0\u00A0 support@junkcode.net ile iletişime geçmezseniz, bağışınızdan sonra birkaç dakika içinde e-postanıza kod almalısınız. \n\n
+         
+        <b>Kodu girdim ama hiçbir şey açılmadı</b>\n
+         \u00A0\u00A0 Uygulamayı yeniden başlatmayı deneyin \n\n
+        
+    </string>
+    <string name="faq_improvement">Uygulama iyileştirme</string>
+    <string name="text_faq_improve">"  
+        <b>I don\'t like something</b>\n
+         \u00A0\u00A0 Bize bildir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>Bir Hata Buldum!</b>\n
+         \u00A0\u00A0 Buraya gönderin http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+         
+        <b>Yeni özellik için bir fikrim var</b>\n
+         \u00A0\u00A0 Bize bildir - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>Yardım etmek istiyorum translation/icons/...</b>\n
+         \u00A0\u00A0 Bazı kaynaklar zaten burada http://github.com/JunkCode/wtTactMap Değişiklik önerebilir veya yeni şeyler ekleyebilirsiniz. Herhangi bir sorunuz veya başka bir fikriniz varsa bize bildirin - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+          
+    </string>
+    
+</resources>
