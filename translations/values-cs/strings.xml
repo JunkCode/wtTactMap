@@ -34,8 +34,8 @@
     <string name="how_ip">"Návod jak získat IP adresu je na: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Pokud nevíš jak získat IP adresu klikni zde"</string>
     <string name="ip_err">Špatná IP</string>
-    <string name="ip_err_wrong">"Vlož ip adresu ve formátu \r\nXXX.XXX.XXX.XXX \r\n Klikni na \"Pomoc\" pro nápovědu."</string>
-    <string name="ip_err_local">"127.0.0.1 není správná adresa. \r\n likni na \"Pomoc\" pro nápovědu."</string>
+    <string name="ip_err_wrong">"Vlož ip adresu ve formátu \nXXX.XXX.XXX.XXX \n Klikni na \"Pomoc\" pro nápovědu."</string>
+    <string name="ip_err_local">"127.0.0.1 není správná adresa. \n likni na \"Pomoc\" pro nápovědu."</string>
     <string-array name="updates_speed_array">
         <item >Velmi rychle</item>
         <item >Rychle</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">O aplikaci</string>
     <string name="info_msg">
-        "Toto je neoficiální aplikace vytvořená fanoušky War Thunderu!\r\n"
-        "Tato aplikace je stále ve vývoji, jakekoli chyby nebo nápady na další funkce pište na:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
+        "Toto je neoficiální aplikace vytvořená fanoušky War Thunderu!\n"
+        "Tato aplikace je stále ve vývoji, jakekoli chyby nebo nápady na další funkce pište na:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
         
     </string>
     <string name="donate_line">    
-        "Líbí se vám tato aplikace? Přispějte na její další vývoj na http://junkcode.net \r\n"
+        "Líbí se vám tato aplikace? Přispějte na její další vývoj na http://junkcode.net \n"
         </string>
      <string name="info_update_title">Novinky</string>
  
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Odemknout extra funkce</string>
     <string name="ext_unlock_det">
-        "Extra funkce jsou odemčeny přispěvkem <b><i>libovolné</i></b> výše\n\r(Pokud jste už přispěli dříve a ještě nedostali kód napište nám email)"</string>
+        "Extra funkce jsou odemčeny přispěvkem <b><i>libovolné</i></b> výše\n(Pokud jste už přispěli dříve a ještě nedostali kód napište nám email)"</string>
     <string name="ext_unlock_dial">"Odemykací Kód:"</string>
     
     <string name="ext_link">Propojit s G+ účtem</string>
