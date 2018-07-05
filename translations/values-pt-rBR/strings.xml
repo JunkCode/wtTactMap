@@ -34,8 +34,8 @@
     <string name="how_ip">"Sobre como obter o endereço IP, veja: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Se você não sabe como obter o endereço IP, clique aqui:"</string>
     <string name="ip_err">Endereço IP inválido</string>
-    <string name="ip_err_wrong">"Escreva o endereço IP na forma: \r\nXXX.XXX.XXX.XXX \r\n Clique em Ajuda para um guia de como obter um."</string>
-    <string name="ip_err_local">"127.0.0.1 Não é o endereço certo. \r\n Clique em Ajuda para obter o certo."</string>
+    <string name="ip_err_wrong">"Escreva o endereço IP na forma: \nXXX.XXX.XXX.XXX \n Clique em Ajuda para um guia de como obter um."</string>
+    <string name="ip_err_local">"127.0.0.1 Não é o endereço certo. \n Clique em Ajuda para obter o certo."</string>
     <string-array name="updates_speed_array">
         <item >Muito Rápido</item>
         <item >Rápido</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">sobre</string>
     <string name="info_msg">
-        "Esse é o app não-oficial feito por fans do War Thunder!\r\n"
-        "Esse app ainda está em beta, mas sinta-se livre para contatar-nos sobre bugs ou novas ideias no endereço:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Nós estamos procurando pessoas para traduzirem este app, se você deseja ajudar veja: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Esse é o app não-oficial feito por fans do War Thunder!\n"
+        "Esse app ainda está em beta, mas sinta-se livre para contatar-nos sobre bugs ou novas ideias no endereço:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Nós estamos procurando pessoas para traduzirem este app, se você deseja ajudar veja: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">  
-        "Você gosta deste App? Mostre isso doando em: http://junkcode.net para desenvolvimento futuro. \r\n"
+        "Você gosta deste App? Mostre isso doando em: http://junkcode.net para desenvolvimento futuro. \n"
         </string>
      <string name="info_update_title">Notícias de Atualizações</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Desbloquear extras</string>
     <string name="ext_unlock_det">
-        "Extras são desbloqueados por doação de <b><i>qualquer</i></b> quantia ou por contribuição de conteúdo.\r\n(Se você doou anteriormente e não recebeu o código ainda nos mande um email)"</string>
+        "Extras são desbloqueados por doação de <b><i>qualquer</i></b> quantia ou por contribuição de conteúdo.\n(Se você doou anteriormente e não recebeu o código ainda nos mande um email)"</string>
     <string name="ext_unlock_dial">"Desbloquear código:"</string>
     
     <string name="ext_link">Emparelhar com a conta do G+</string>

@@ -34,8 +34,8 @@
     <string name="how_ip">"IP adresi nasıl alınır?: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"IP adresinizi nasıl alacağınızı bilmiyorsanız buraya tıklayın"</string>
     <string name="ip_err">IP adresi geçerli değil</string>
-    <string name="ip_err_wrong">"Biçimindeki adres girişi \r\nXXX.XXX.XXX.XXX \r\n Doğru olanı almak için Yardıma tıklayın.."</string>
-    <string name="ip_err_local">"127.0.0.1 doğru adres değil. \r\n Doğru olanı görmek için Yardıma tıklayın."</string>
+    <string name="ip_err_wrong">"Biçimindeki adres girişi \nXXX.XXX.XXX.XXX \n Doğru olanı almak için Yardıma tıklayın.."</string>
+    <string name="ip_err_local">"127.0.0.1 doğru adres değil. \n Doğru olanı görmek için Yardıma tıklayın."</string>
     <string-array name="updates_speed_array">
         <item >Çok Hızlı</item>
         <item >Hızlı</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Hakkında</string>
     <string name="info_msg">
-        "Bu War Thunder hayranları tarafından yapılan resmi olmayan bir uygulama!\r\n"
-        "Bu uygulama hala beta sürümünde. Ancak, hata veya yeni fikirlerle bizimle iletişime geçmekten çekinmeyin:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Uygulamayı farklı dillere çevirmek için insanlar arıyoruz, yardımcı olmak istiyorsanız http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Bu War Thunder hayranları tarafından yapılan resmi olmayan bir uygulama!\n"
+        "Bu uygulama hala beta sürümünde. Ancak, hata veya yeni fikirlerle bizimle iletişime geçmekten çekinmeyin:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Uygulamayı farklı dillere çevirmek için insanlar arıyoruz, yardımcı olmak istiyorsanız http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"        
     </string>
     <string name="donate_line">
-        "Bu uygulamayı Beğendin mi? Bağışla söyle. http://junkcode.net for future development. \r\n"
+        "Bu uygulamayı Beğendin mi? Bağışla söyle. http://junkcode.net for future development. \n"
         </string>
      <string name="info_update_title">Güncel Haberler</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Özel Ayarları Aç</string>
     <string name="ext_unlock_det">
-        "Özel Ayarlar bağışla açıldı <b><i>herhangi</i></b> miktar veya içerik katkısı\r\n(Daha önce bağışladıysanız ve kodu almadıysanız bize bir e-posta yazın)"</string>
+        "Özel Ayarlar bağışla açıldı <b><i>herhangi</i></b> miktar veya içerik katkısı\n(Daha önce bağışladıysanız ve kodu almadıysanız bize bir e-posta yazın)"</string>
     <string name="ext_unlock_dial">"Unlock Code:"</string>
     
     <string name="ext_link">G + hesabına bağla</string>

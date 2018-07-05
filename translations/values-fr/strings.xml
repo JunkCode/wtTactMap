@@ -35,7 +35,7 @@
     <string name="how_ip_der">"Si vous ne savez pas comment obtenir votre adresse IP cliquez ici"</string>
     <string name="ip_err">Adresse IP pas valide</string>
     <string name="ip_err_wrong">"Entrée l\'adresse au format XXX.XXX.XXX.XXX, cliquez sur aide pour le guide pour obtenir la bonne."</string>
-    <string name="ip_err_local">"127.0.0.1 n\'est pas la bonne adresse. \r\n Cliquez sur l\'Aide pour le guide trouver la bonne."</string>
+    <string name="ip_err_local">"127.0.0.1 n\'est pas la bonne adresse. \n Cliquez sur l\'Aide pour le guide trouver la bonne."</string>
     <string-array name="updates_speed_array">
         <item >Très Rapide</item>
         <item >Rapide</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Informations</string>
     <string name="info_msg">
-        "Ceci est une application non officielle, faite par des fans de Warthunder !\r\n"
-        "Cette application est encore en version bêta, mais n\'hésitez pas à nous contacter avec des bugs ou de nouvelles idées à :\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Nous cherchons des personnes pour traduire cette application, si vous voulez aider allez à http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Ceci est une application non officielle, faite par des fans de Warthunder !\n"
+        "Cette application est encore en version bêta, mais n\'hésitez pas à nous contacter avec des bugs ou de nouvelles idées à :\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Nous cherchons des personnes pour traduire cette application, si vous voulez aider allez à http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">  
-        "Vous aimez cette application ? Dites-le avec un don sur http://junkcode.net for future development. \r\n"
+        "Vous aimez cette application ? Dites-le avec un don sur http://junkcode.net for future development. \n"
         </string>
      <string name="info_update_title">Nouvelles de mise à jour</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Débloquer suppléments</string>
     <string name="ext_unlock_det">
-        "Les suppléments sont débloqués par le don de <b><i>n\'importe quelle</i></b> somme ou par la contribution au contenu\r\n((Si vous avez déjà donné et n\'avez pas encore obtenu le code, envoyez-nous un email))"</string>
+        "Les suppléments sont débloqués par le don de <b><i>n\'importe quelle</i></b> somme ou par la contribution au contenu\n((Si vous avez déjà donné et n\'avez pas encore obtenu le code, envoyez-nous un email))"</string>
     <string name="ext_unlock_dial">"Unlock Code:"</string>
     
     <string name="ext_link">Lien vers compte G+</string>

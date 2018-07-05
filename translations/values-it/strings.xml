@@ -34,8 +34,8 @@
     <string name="how_ip">"Per sapere come ottenere un indirizzo IP vedi: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Se non sai come ottenere il tuo indirizzo IP clicca qui"</string>
     <string name="ip_err">Indirizzo IP non valido</string>
-    <string name="ip_err_wrong">"Inserisci indirizzo nel formato \r\nXXX.XXX.XXX.XXX \r\n Clicca su Aiuto per ottenere aiuto."</string>
-    <string name="ip_err_local">"127.0.0.1 non è l'indirizzo giusto. \r\n Clicca su Aiuto per ottenere aiuto."</string>
+    <string name="ip_err_wrong">"Inserisci indirizzo nel formato \nXXX.XXX.XXX.XXX \n Clicca su Aiuto per ottenere aiuto."</string>
+    <string name="ip_err_local">"127.0.0.1 non è l'indirizzo giusto. \n Clicca su Aiuto per ottenere aiuto."</string>
     <string-array name="updates_speed_array">
         <item >Molto veloce</item>
         <item >Veloce</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">About</string>
     <string name="info_msg">
-        "Questa è un\' App amatoriale creata dai fan di War Thunder!\r\n"
-        "Questa App è ancora in beta, ma sentitevi liberi di contattarci per nuove idee o bug tramite:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-	"Tradotto da Enrico -LunHilion- Sanguin \r\n"
+        "Questa è un\' App amatoriale creata dai fan di War Thunder!\n"
+        "Questa App è ancora in beta, ma sentitevi liberi di contattarci per nuove idee o bug tramite:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+	"Tradotto da Enrico -LunHilion- Sanguin \n"
     </string>
     <string name="donate_line">  
-        "Ti piace questa App? Visita http://junkcode.net per aiutarci nello sviluppo.\r\n"
+        "Ti piace questa App? Visita http://junkcode.net per aiutarci nello sviluppo.\n"
         </string>
      <string name="info_update_title">Aggiornamenti</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Sblocca extra</string>
     <string name="ext_unlock_det">
-        "Gli extra sono sbloccati tramite donazione di una <b><i>qualsiasi somma</i></b> o tramite contributo in contenuti\r\n(se hai donato in precedenza ma non hai ancora ricevuto il codice, scrivici un\'email)"</string>
+        "Gli extra sono sbloccati tramite donazione di una <b><i>qualsiasi somma</i></b> o tramite contributo in contenuti\n(se hai donato in precedenza ma non hai ancora ricevuto il codice, scrivici un\'email)"</string>
     <string name="ext_unlock_dial">"Codice di sblocco:"</string>
     
     <string name="ext_link">Collega ad un account G+</string>

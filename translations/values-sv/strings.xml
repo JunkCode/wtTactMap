@@ -34,8 +34,8 @@
     <string name="how_ip">"För att hitta din IP adress, se: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Om du inte vet hir du hittar din IP address, klicka här"</string>
     <string name="ip_err">Ogiltig IP adress</string>
-    <string name="ip_err_wrong">"Mata in adressen i formatet \r\nXXX.XXX.XXX.XXX \r\n Klicka på hjälp för att hitta rätt adress."</string>
-    <string name="ip_err_local">"127.0.0.1 är fel adress. \r\n Tryck på hjälp för att hitta rätt adress."</string>
+    <string name="ip_err_wrong">"Mata in adressen i formatet \nXXX.XXX.XXX.XXX \n Klicka på hjälp för att hitta rätt adress."</string>
+    <string name="ip_err_local">"127.0.0.1 är fel adress. \n Tryck på hjälp för att hitta rätt adress."</string>
     <string-array name="updates_speed_array">
         <item >Väldigt ofta</item>
         <item >Ofta</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Om War Thunder tactical map</string>
     <string name="info_msg">
-        "Detta är en inofficiell app gjord av War Thunder fans!\r\n"
-        "Den här appen är fortfarande i beta så rapportera gärna buggar, problem och nya idéer till:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Vi letar efter folk som vill hjälpa till at översätta den här appen till fler språk. Om du vill hjälpa till kan du göra det på http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Detta är en inofficiell app gjord av War Thunder fans!\n"
+        "Den här appen är fortfarande i beta så rapportera gärna buggar, problem och nya idéer till:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Vi letar efter folk som vill hjälpa till at översätta den här appen till fler språk. Om du vill hjälpa till kan du göra det på http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">  
-        "Tycker du om den här appen? Visa det genom att donera på http://junkcode.net för att fortsätta utvecklingen av den. \r\n"
+        "Tycker du om den här appen? Visa det genom att donera på http://junkcode.net för att fortsätta utvecklingen av den. \n"
         </string>
      <string name="info_update_title">Nyheter om uppdateringar</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Lås upp fler funktioner</string>
     <string name="ext_unlock_det">
-        "Du låser upp fler funktioner genom att donera valfri summa eller genom att bidra till\r\nappens utveckling(Om du har donerat tidigare men inte har fått någon kod så\r\nskicka ett email till oss)</string>
+        "Du låser upp fler funktioner genom att donera valfri summa eller genom att bidra till\nappens utveckling(Om du har donerat tidigare men inte har fått någon kod så\nskicka ett email till oss)</string>
     <string name="ext_unlock_dial">"Kod för fler funktioner:"</string>
     
     <string name="ext_link">Länka till G+</string>

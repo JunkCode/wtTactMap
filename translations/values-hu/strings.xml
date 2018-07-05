@@ -34,8 +34,8 @@
     <string name="how_ip">"Helyes IP cím megkereséséhez leírás: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Ha nem tudod, hogyan szerezd meg IP címedet, kattints ide"</string>
     <string name="ip_err">Helytelen IP cím</string>
-    <string name="ip_err_wrong">"beviteli formátum \r\nXXX.XXX.XXX.XXX \r\n Kattints a segítségre a leíráshoz."</string>
-    <string name="ip_err_local">"127.0.0.1 nem megfelelő IP cím. \r\n Kattints a segítségre a leíráshoz."</string>
+    <string name="ip_err_wrong">"beviteli formátum \nXXX.XXX.XXX.XXX \n Kattints a segítségre a leíráshoz."</string>
+    <string name="ip_err_local">"127.0.0.1 nem megfelelő IP cím. \n Kattints a segítségre a leíráshoz."</string>
     <string-array name="updates_speed_array">
         <item >Nagyon gyors</item>
         <item >Gyors</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Névjegy</string>
     <string name="info_msg">
-        "Ez egy War Thunder játékos által készített nem hivatalos app!\r\n"
-        "Az app még mindig béta fázisban van, de nyugodtan látogass el esetleges hibákkal vagy javaslatokkal kapcsolatban ide:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Fordította: Tomsa \r\n"        
+        "Ez egy War Thunder játékos által készített nem hivatalos app!\n"
+        "Az app még mindig béta fázisban van, de nyugodtan látogass el esetleges hibákkal vagy javaslatokkal kapcsolatban ide:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Fordította: Tomsa \n"
     </string>
     <string name="donate_line">  
-        "Tetszik a program? Fejezd ki adománnyal a http://junkcode.net oldalon, támogatva a további fejlesztéseket.\r\n"
+        "Tetszik a program? Fejezd ki adománnyal a http://junkcode.net oldalon, támogatva a további fejlesztéseket.\n"
         </string>
      <string name="info_update_title">Frissítési hírek</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Extrák feloldása</string>
     <string name="ext_unlock_det">
-        "Az extrákat <b><i>tetszőleges</i></b> mennyiségű adománnyal fel lehet oldani, de a programfejlesztéshez való hozzájárulással is.\r\n(Ha adományoztál korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
+        "Az extrákat <b><i>tetszőleges</i></b> mennyiségű adománnyal fel lehet oldani, de a programfejlesztéshez való hozzájárulással is.\n(Ha adományoztál korábban és nem kaptál feloldókulcsot, írj nekünk emailt.)"</string>
     <string name="ext_unlock_dial">"Feloldókulcs:"</string>
     
     <string name="ext_link">G+ profil csatolása</string>

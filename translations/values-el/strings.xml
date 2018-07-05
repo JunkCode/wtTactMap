@@ -34,8 +34,8 @@
     <string name="how_ip">"Πως να πάρεις διεύθυνση IP: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Αν δεν ξέρεις πως να πάρεις διεύθυνση IP"</string>
     <string name="ip_err">H διεύθυνση IP δεν είναι έγκυρη</string>
-    <string name="ip_err_wrong">"Η εισαγώμενη διεύθυνση να είναι σε μορφή \r\nXXX.XXX.XXX.XXX \r\n Πάτα στο HELP για οδηγίες πως να πάρεις μια σωστή."</string>
-    <string name="ip_err_local">"127.0.0.1 δεν είναι σωστή διεύθυνση. \r\n Πάτα στο HELP για οδηγίες πως να πάρεις μια σωστή."</string>
+    <string name="ip_err_wrong">"Η εισαγώμενη διεύθυνση να είναι σε μορφή \nXXX.XXX.XXX.XXX \n Πάτα στο HELP για οδηγίες πως να πάρεις μια σωστή."</string>
+    <string name="ip_err_local">"127.0.0.1 δεν είναι σωστή διεύθυνση. \n Πάτα στο HELP για οδηγίες πως να πάρεις μια σωστή."</string>
     <string-array name="updates_speed_array">
         <item >Πολύ γρήγορα</item>
         <item >Γρήγορα</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Περί</string>
     <string name="info_msg">
-        "Μη επίσημη εφαρμογή φτιαγμένη από οπαδούς του War Thunder!\r\n"
-        "Αυτή η εφαρμογή είναι ακόμα δοκιμαστική αλλά μπορείτε να επικοινωνήσετε μαζί μας για προβλήματα ή νέες ιδέες στο:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Ψάχνουμε ανθρώπους για να μεταφράσουν αυτή την εφαρμογή, αν θέέτε να βοηθήσετε δείτε στο http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Μη επίσημη εφαρμογή φτιαγμένη από οπαδούς του War Thunder!\n"
+        "Αυτή η εφαρμογή είναι ακόμα δοκιμαστική αλλά μπορείτε να επικοινωνήσετε μαζί μας για προβλήματα ή νέες ιδέες στο:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Ψάχνουμε ανθρώπους για να μεταφράσουν αυτή την εφαρμογή, αν θέέτε να βοηθήσετε δείτε στο http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">  
-        "Σας αρέσει αυτή η εφαρμογή? Δείξτε το με δωρεά στο http://junkcode.net για μελλοντική ανάπτυξη. \r\n"
+        "Σας αρέσει αυτή η εφαρμογή? Δείξτε το με δωρεά στο http://junkcode.net για μελλοντική ανάπτυξη. \n"
         </string>
      <string name="info_update_title">Νέα ενημερώσεων</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Ξεκλείδωμα extras</string>
     <string name="ext_unlock_det">
-        "Τα Extra ξεκλειδώνουν με δωρεά <b><i>οποιουδήποτε</i></b> ποσού ή με συνεισφορά στο περιεχόμενο\r\n(Αν κάνατε δωρεά νωρίτερα και δεν πήρατε ακόμα τον κωδικό σας στείλτε μας ένα mail)"</string>
+        "Τα Extra ξεκλειδώνουν με δωρεά <b><i>οποιουδήποτε</i></b> ποσού ή με συνεισφορά στο περιεχόμενο\n(Αν κάνατε δωρεά νωρίτερα και δεν πήρατε ακόμα τον κωδικό σας στείλτε μας ένα mail)"</string>
     <string name="ext_unlock_dial">"Ξεκλείδωμα κωδικού:"</string>
     
     <string name="ext_link">Σύνδεση στον G+ λογαριασμό</string>

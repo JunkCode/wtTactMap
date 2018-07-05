@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WarThunder tactical map</string>
+    
+    <string name="settings">設定</string>
+    <string name="hide">隠す</string>
+    <string name="danger">警報通知</string>
+    <string name="nodanger">安全通知</string>
+    <string name="proximity_wrn">半径:</string>
+    
+    
+    <string name="more">追加設定</string>
+    <string name="connerror">接続なし</string>
+    
+    <string name="gui">GUI設定</string>
+    <string name="screenon">画面の常時起動</string>
+    <string name="counters">残機カウンター</string>
+    
+    <string name="ip_h">IPアドレス</string>
+    <string name="find_ip">スキャン</string>
+    <string name="set_ip">IPの設定</string>
+    <string name="ip">War ThunderをプレイするPCのIP(ポート除く):</string>
+    
+    
+    <string name="zoom_btns">ズームボタン</string>
+    <string name="donate">寄付</string>
+    <string name="enemy_vehicles">敵車輌</string>
+    <string name="friendly_vehicles">味方車輌</string>
+    <string name="friendly_structures">味方施設</string>
+    <string name="enemy_structures">敵施設</string>
+    
+    <string name="updates_speed">更新頻度</string>
+    <string name="how_ip">"http://ip.junkcode.net/helpでIPの調べ方が分かります(英語)"</string>
+    <string name="how_ip_der">"IPの調べ方がわからない場合は，こちらをクリック"</string>
+    <string name="ip_err">IPアドレスが正しく有りません</string>
+    <string name="ip_err_wrong">"アドレスは\nXXX.XXX.XXX.XXX \n の形式で入力してください．ヘルプをクリックして正しいIPの取得方法を見ましょう．"</string>
+    <string name="ip_err_local">"127.0.0.1は正しいアドレスではありません．\n ヘルプをクリックして正しいIPの取得方法を見ましょう．"</string>
+    <string-array name="updates_speed_array">
+        <item >非常に早い</item>
+        <item >早い</item>
+        <item >普通</item>
+        <item >少し遅い</item>
+        <item >遅い</item>
+        <item >非常に遅い</item>
+        <item >5秒</item>
+    </string-array>
+
+     <string name="info_title">About</string>
+    <string name="info_msg">
+        "このアプリはWar Thunderのファンにより製作された物です!\n"
+        "アプリはまだベータ段階ですので，バグ報告やアイディアの投稿を以下のサイトで受け付けています:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "私たちはこのアプリの翻訳を手伝って頂ける方も募集しています．協力頂ける方はhttp://junkcode.net/forum/viewtopic.php?f=14&amp;t=18をご覧下さい． \n"
+    </string>
+    <string name="donate_line">
+        "アプリを気に入りましたか？http://junkcode.netにて寄付・メッセージを送信して，今後の開発の手助けをお願いします．\n"
+        </string>
+     <string name="info_update_title">更新情報</string>
+     
+    <string name="version">バージョン:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ignore">無視</string>
+    <string name="help">ヘルプ</string>
+    <string name="pref_header_notifications">通知</string>
+
+    <string name="pref_title_ringtone">着信音</string>
+    <string name="pref_header_data_sync">PC接続</string>
+    <string name="pref_ringtone_silent">無音</string>
+    
+    <string name="nowificonnected">ローカルWiFiに接続してください</string>
+
+    <string name="planeicons">航空機アイコン</string>
+    <string-array name="planes_icon_size">
+        <item >大</item>
+        <item >中</item>
+        <item >小</item>
+        <item >極小</item>
+    </string-array>
+    
+    <string name="lines">補助線</string>
+    <string name="lines_oos">画面外の目標のみ</string>
+    <string name="lines_enemy">敵</string>
+    <string name="lines_friendly">味方</string>
+    <string name="lines_squad">編隊</string>
+    <string name="lines_target">目標</string>
+    
+    <string name="hide_gp_login">G+ログインボタンを隠す</string>
+    
+    <string name="fullscreen">全画面</string>
+    <string name="connect">友達に接続</string>
+    
+    <string name="waypoint">ウェイポイント</string>
+    <string name="waypoint_ctrl">ウェイポイント操作</string>
+    <string name="add">追加</string>
+    
+    <string name="horizontal_distance">水平距離の表示</string>
+    
+    <string name="pref_header_extras">追加機能</string>
+    <string name="prediction">予測</string>
+    <string name="self">自分</string>
+    <string name="show_intro_screen">起動画面を表示</string>
+    
+    <string name="ext_unlock">追加機能の解除</string>
+    <string name="ext_unlock_det">
+        "追加機能は<b><i>金額に関わらず</i></b>寄付を行っていただいた方，もしくは開発に協力して頂いた方が使用できます．\n(もし以前寄付をしたのにコードを受け取っていない方は，メールでお知らせください)"</string>
+    <string name="ext_unlock_dial">"解除コード:"</string>
+    
+    <string name="ext_link">G+アカウントにリンク account</string>
+    
+    <string name="firing_zone">射撃距離</string>
+    <string name="gray_map">白黒のマップ</string>
+    
+    <string name="map">マップ:</string>
+    <string name="custom_maps">カスタムマップ</string>
+    <string name="custom_maps_url">カスタムマップURL</string>
+    <string name="see_forum">詳しくはJunkCodeフォーラムをご覧下さい</string>
+    
+    <string name="tankicons">戦車アイコン</string>
+    <string name="groundicons">地上部隊アイコン</string>
+    
+    <string name="share_position">位置の共有</string>
+    <string name="death_markers">死亡時にドクロを残す</string>
+
+    <string name="size">大きさ</string>
+    <string name="style">種類</string>
+    
+    <string-array name="style_types">
+        <item >旧型</item>
+        <item >新型</item>
+    </string-array>
+    
+    <string-array name="color_schemes">
+        <item>標準</item>
+        <item>緑/オレンジ</item>
+        <item>緑/赤</item>
+    </string-array>
+    <string name="colors">色</string>
+    
+    <string name="pref_header_map_view">マップ設定</string>
+    <string name="pref_header_GUI">GUI</string>
+    
+    <string name="help_title">ヘルプ &amp; FAQ</string>
+    
+    <string name="blink">点滅を許可</string>
+    <string name="offline_mode">オフラインモード</string>
+    <string name="talk_back">トークバック</string>
+    <string name="kills">キル</string>
+    <string name="trigger_words_kill">キルのトリガー文</string>
+    <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
+    <string name="trigger_words_kill_summary">既定値: \"destroyed,shot down,уничтожен\"</string>
+    <string name="burns">引火</string>
+    <string name="trigger_words_burn">引火のトリガー文</string>
+    <string name="trigger_words_burn_default">set afire,подожжён</string>
+    <string name="trigger_words_burn_summary">既定値: \"set afire,подожжён\"</string>
+    <string name="player_name">ゲーム内の名前</string>
+    <string name="ext_unlocked">追加機能を解除しました</string>
+    <string name="please_restart">アプリを再起動して，新しい設定を有効化してください．</string>
+    <string name="planes_in_tank">戦車モードの時に航空機を検知する</string>
+    <string name="bomber_path">爆撃機の航路</string>
+    <string name="air_raid_siren">空襲警報</string>
+    <string name="pointicons">地点アイコン</string>
+    <string name="base_approx_time_remaining">占領までの予想時間を表示</string>
+    <string name="base_progress_beeping">付近の基地が占領されたら通知</string>
+    <string name="mapscale">マップ尺度</string>
+    <string name="breadcrumbs">Breadcrumbs</string>
+    <string name="support_development">開発のサポート</string>
+    <string name="airplane_range">航空機の検知距離</string>
+    <string name="ground_range">地上部隊の検知距離</string>
+    <string name="connected">接続完了</string>
+    <string name="supporter">寄付者</string>
+    <string name="contributor">支援者</string>
+    <string name="contribute_resources">アプリ開発の支援</string>
+    <string name="waiting_for_battle">戦闘開始まで待機中</string>
+    <string name="subscription">(寄付)</string>
+    <string name="exit_title">アプリを終了しますか?</string>
+    <string name="exit_question">切断してアプリを終了しますか?</string>
+    <string name="hide_add_requirement">寄付者か支援者になることで広告を消せます．</string>
+    <string name="coop_start">新しくCO-OPを始める</string>
+    <string name="coop_join">CO-OPに参加する</string>
+    <string name="coop_title">CO-OPセッション</string>
+    <string name="close_enemy_detection">敵接近の検知</string>
+    <string name="far_enemy_detection">遠くの敵の検知</string>
+    <string name="coop_connecting_to_id">次のCO-OP IDに接続中:</string>
+    <string name="coop_session_started">CO-OPセッションを開始しました．</string>
+    <string name="id">ID:</string>
+    <string name="coop_chat_instruction_prefix"></string>
+    <string name="coop_chat_instruction_postfix">と入力してゲームチームチャットできます．</string>
+    <string name="show_ads_while_not_playing">未プレイ中に広告を表示</string>
+    <string name="allow_data_collection">匿名データの送信を許可</string>
+    <string name="data_collection_explained">Google Analyticsの規則に則ったデータ収集で，より多くの方に便利なアプリ開発を行えます．</string>
+
+</resources>

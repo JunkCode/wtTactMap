@@ -34,8 +34,8 @@
     <string name="how_ip">"Cómo conseguir una IP, ver en: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Si no sabes cómo conseguir tu dirección IP clickea aquí"</string>
     <string name="ip_err">Dirección IP no válida</string>
-    <string name="ip_err_wrong">"Formato de dirección IP: \r\nXXX.XXX.XXX.XXX \r\n Pulsa Ayuda para informarte de cómo conseguir una."</string>
-    <string name="ip_err_local">"127.0.0.1 no es una dirección correcta. \r\n Pulsa Ayuda para informarte de cómo conseguir una."</string>
+    <string name="ip_err_wrong">"Formato de dirección IP: \nXXX.XXX.XXX.XXX \n Pulsa Ayuda para informarte de cómo conseguir una."</string>
+    <string name="ip_err_local">"127.0.0.1 no es una dirección correcta. \n Pulsa Ayuda para informarte de cómo conseguir una."</string>
     <string-array name="updates_speed_array">
         <item >Muy Rápido</item>
         <item >Rápido</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">"Sobre&#8230;"</string>
     <string name="info_msg">
-        "¡Esta es una app no oficial hecha por un fan de War Thunder!\r\n"
-        "La app está todavía en beta pero no dudes en contactarte conmigo por problemas o nuevas ideas:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Traducción hecha por Shinichi (CrazyShini) y Rincewindy\r\n"
+        "¡Esta es una app no oficial hecha por un fan de War Thunder!\n"
+        "La app está todavía en beta pero no dudes en contactarte conmigo por problemas o nuevas ideas:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Traducción hecha por Shinichi (CrazyShini) y Rincewindy\n"
     </string>
     <string name="donate_line">  
-        "¿Te gustó la APP? Dilo con una donación en http://junkcode.net para seguir desarrollando la aplicación.\r\n"
+        "¿Te gustó la APP? Dilo con una donación en http://junkcode.net para seguir desarrollando la aplicación.\n"
         </string>
      <string name="info_update_title">Noticias de actualización</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Desbloquea extras</string>
     <string name="ext_unlock_det">
-        "Los extras han sido desbloqueados por donación de <b><i>cualquier</i></b> cantidad o por contribución de contenido\r\n(Si donaste y no has recibido el código aún, escríbenos un correo)"</string>
+        "Los extras han sido desbloqueados por donación de <b><i>cualquier</i></b> cantidad o por contribución de contenido\n(Si donaste y no has recibido el código aún, escríbenos un correo)"</string>
     <string name="ext_unlock_dial">"Código de desbloqueo:"</string>
     
     <string name="ext_link">Enlaza con cuenta G+</string>

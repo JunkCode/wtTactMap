@@ -34,8 +34,8 @@
     <string name="how_ip">"Como obter o endereço IP ver: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Se não sabes como ver o endereço IP, clica aqui"</string>
     <string name="ip_err">Endereço IP não válido</string>
-    <string name="ip_err_wrong">"Insere o endereço com o formato \r\nXXX.XXX.XXX.XXX \r\n Clica em Ajuda para um guia sobre como obter o correcto."</string>
-    <string name="ip_err_local">"127.0.0.1 não é o endereço correcto. \r\n Clica em Ajuda para um guia sobre como obter o correcto."</string>
+    <string name="ip_err_wrong">"Insere o endereço com o formato \nXXX.XXX.XXX.XXX \n Clica em Ajuda para um guia sobre como obter o correcto."</string>
+    <string name="ip_err_local">"127.0.0.1 não é o endereço correcto. \n Clica em Ajuda para um guia sobre como obter o correcto."</string>
     <string-array name="updates_speed_array">
         <item >Muito rápido</item>
         <item >Rápido</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Sobre</string>
     <string name="info_msg">
-        "Esta é uma app não oficial feita por fãs de War Thunder! \r\n"
-        "Esta app ainda está em beta, mas está à vontade para contactar sobre bugs ou ideias:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Estamos à procura de pessoas para traduzirem esta app, vai a http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Esta é uma app não oficial feita por fãs de War Thunder! \n"
+        "Esta app ainda está em beta, mas está à vontade para contactar sobre bugs ou ideias:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Estamos à procura de pessoas para traduzirem esta app, vai a http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">
-        "Gostas da app? Então demonstra-o com um donativo http://junkcode.net for future development. \r\n"
+        "Gostas da app? Então demonstra-o com um donativo http://junkcode.net for future development. \n"
         </string>
      <string name="info_update_title">Notícias sobre updates</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Desbloquear extras</string>
     <string name="ext_unlock_det">
-        "Extras são desbloqueados pelo donativo de <b><i>any</i></b> or por ajuda com o conteúdo\r\n(Se doaste antes e não recebeste nada, envia-nos um email)"</string>
+        "Extras são desbloqueados pelo donativo de <b><i>any</i></b> or por ajuda com o conteúdo\n(Se doaste antes e não recebeste nada, envia-nos um email)"</string>
     <string name="ext_unlock_dial">"Código de desbloqueio"</string>
     
     <string name="ext_link">Link para a conta G+</string>

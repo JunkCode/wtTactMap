@@ -34,8 +34,8 @@
     <string name="how_ip">"Hoe vind ik mijn IP¨adress? Kijk op: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Als je niet weet hoe je je IP adres vindt, klik dan hier"</string>
     <string name="ip_err">IP addres is niet geldig</string>
-    <string name="ip_err_wrong">"input adres in het formaat \r\nXXX.XXX.XXX.XXX \r\n Klik op Help om een gids te krijgen voor het vinden van het juiste adres."</string>
-    <string name="ip_err_local">"127.0.0.1 is niet het juist IP adres. \r\n Klik op help om een gids te krijgen voor het vinden van het juiste IP."</string>
+    <string name="ip_err_wrong">"input adres in het formaat \nXXX.XXX.XXX.XXX \n Klik op Help om een gids te krijgen voor het vinden van het juiste adres."</string>
+    <string name="ip_err_local">"127.0.0.1 is niet het juist IP adres. \n Klik op help om een gids te krijgen voor het vinden van het juiste IP."</string>
     <string-array name="updates_speed_array">
         <item >Zeer snel</item>
         <item >Snel</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">Over</string>
     <string name="info_msg">
-        "Dit is een onofficieele app gemaakt door War Thunder fans!\r\n"
-        "Deze app is in beta, maar neem gerust contact met ons op over bugs of over nieuwe ideën:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "We zijn nog op zoek naar mensen om deze app te vertalen, als je wilt helpen kijk dan op http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Dit is een onofficieele app gemaakt door War Thunder fans!\n"
+        "Deze app is in beta, maar neem gerust contact met ons op over bugs of over nieuwe ideën:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "We zijn nog op zoek naar mensen om deze app te vertalen, als je wilt helpen kijk dan op http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">  
-        "Vind je dit een goede app? Vertel het ons door een donatie op http://junkcode.net voor verdere ontwikkeling. \r\n"
+        "Vind je dit een goede app? Vertel het ons door een donatie op http://junkcode.net voor verdere ontwikkeling. \n"
         </string>
      <string name="info_update_title">Update nieuws</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Ontgrendel extras</string>
     <string name="ext_unlock_det">
-        "Extras worden ontgrendeld door een donatie van <b><i>elke</i></b> hoeveelheid of door verdeling van inhoud\r\n(Als je al gedoneerd hebt maar je krijgt je code niet schrijf ons dan een email)"</string>
+        "Extras worden ontgrendeld door een donatie van <b><i>elke</i></b> hoeveelheid of door verdeling van inhoud\n(Als je al gedoneerd hebt maar je krijgt je code niet schrijf ons dan een email)"</string>
     <string name="ext_unlock_dial">"Ontgrendel Code:"</string>
     
     <string name="ext_link">Link aan G+ account</string>

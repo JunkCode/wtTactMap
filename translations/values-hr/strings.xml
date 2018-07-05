@@ -34,8 +34,8 @@
     <string name="how_ip">"Kako pronaći IP adresu: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"Ako ne znate pronaći IP adresu kliknite ovdje"</string>
     <string name="ip_err">IP adresa nije valjana</string>
-    <string name="ip_err_wrong">"Unesite adresu u formatu \r\nXXX.XXX.XXX.XXX \r\n Kliknite na Pomoć kako biste pronašli pravu."</string>
-    <string name="ip_err_local">"127.0.0.1 nije valjana adresa. \r\n Kliknite na Pomoć kako biste pronašli pravu."</string>
+    <string name="ip_err_wrong">"Unesite adresu u formatu \nXXX.XXX.XXX.XXX \n Kliknite na Pomoć kako biste pronašli pravu."</string>
+    <string name="ip_err_local">"127.0.0.1 nije valjana adresa. \n Kliknite na Pomoć kako biste pronašli pravu."</string>
     <string-array name="updates_speed_array">
         <item >Vrlo brzo</item>
         <item >Brzo</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">O aplikaciji</string>
     <string name="info_msg">
-        "Ovo je neslužbena aplikacija koju su napravili fanovi War Thunder-a\r\n"
-        "Ova aplikacija je još u razvoju ali slobodno prijavite bugove i ideje na:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "Tražimo ljude koji će prevesti aplikaciju, ako želite pomoći posjetite: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "Ovo je neslužbena aplikacija koju su napravili fanovi War Thunder-a\n"
+        "Ova aplikacija je još u razvoju ali slobodno prijavite bugove i ideje na:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "Tražimo ljude koji će prevesti aplikaciju, ako želite pomoći posjetite: http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">
-        "Sviđa vam se aplikacija? Recite to donacijom http://junkcode.net za budući razvoj. \r\n"
+        "Sviđa vam se aplikacija? Recite to donacijom http://junkcode.net za budući razvoj. \n"
         </string>
      <string name="info_update_title">Obavjesti o ažuriranju</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Otključaj dodatne postavke</string>
     <string name="ext_unlock_det">
-        "Dodatne postavke se otključavaju donacijom <b><i>bilo koje</i></b> količine ili pomoći oko prevođenja\r\n(Ako ste donirali prije i  niste dobili kod za otključavanje pošaljite nam e-mail)"</string>
+        "Dodatne postavke se otključavaju donacijom <b><i>bilo koje</i></b> količine ili pomoći oko prevođenja\n(Ako ste donirali prije i  niste dobili kod za otključavanje pošaljite nam e-mail)"</string>
     <string name="ext_unlock_dial">"Koda za otključavanje:"</string>
     
     <string name="ext_link">Veza sa G+ profilom</string>

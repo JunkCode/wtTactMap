@@ -34,8 +34,8 @@
     <string name="how_ip">"查看IP地址: http://ip.junkcode.net/ (英文)"</string>
     <string name="how_ip_der">"找不到IP点这里，啦啦啦(英语)"</string>
     <string name="ip_err">IP 地址不正确</string>
-    <string name="ip_err_wrong">"IP 地址的格式应为： \r\nXXX.XXX.XXX.XXX \r\n 点击帮助获得指导。"</string>
-    <string name="ip_err_local">"127.0.0.1 是你本机IP,无效。 \r\n 点击帮助获得指导。"</string>
+    <string name="ip_err_wrong">"IP 地址的格式应为： \nXXX.XXX.XXX.XXX \n 点击帮助获得指导。"</string>
+    <string name="ip_err_local">"127.0.0.1 是你本机IP,无效。 \n 点击帮助获得指导。"</string>
     <string-array name="updates_speed_array">
         <item >非常快</item>
         <item >快</item>
@@ -48,16 +48,16 @@
 
      <string name="info_title">关于</string>
     <string name="info_msg">
-        "这是由战争雷霆的玩家制作的非官方应用程序！\r\n"
-        "这个应用程序仍然处于测试阶段。如果您有什么好的想法或建议，欢迎通过论坛(英文)联系我们！\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "该应用的简体中文版本翻译是由：\r\n"
-        "raolex2006 以及 mikifuns 完成。\r\n"
-        "mikiの博客：http://www.mikifuns.com \r\n"
+        "这是由战争雷霆的玩家制作的非官方应用程序！\n"
+        "这个应用程序仍然处于测试阶段。如果您有什么好的想法或建议，欢迎通过论坛(英文)联系我们！\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "该应用的简体中文版本翻译是由：\n"
+        "raolex2006 以及 mikifuns 完成。\n"
+        "mikiの博客：http://www.mikifuns.com \n"
     </string>
     <string name="donate_line">  
-        "喜欢这个应用吗？请通过 http://junkcode.net 来向我们捐赠！我们需要您的帮助！.\r\n"
+        "喜欢这个应用吗？请通过 http://junkcode.net 来向我们捐赠！我们需要您的帮助！.\n"
         </string>
      <string name="info_update_title">更新消息</string>
      
@@ -107,7 +107,7 @@
     
     <string name="ext_unlock">额外解锁</string>
     <string name="ext_unlock_det">
-        "通过捐赠<b><i>任何</i></b> 金额来解锁附加内容\r\n(如果您以前捐赠过该应用但是没有获得代码，请邮件联系我们。)"</string>
+        "通过捐赠<b><i>任何</i></b> 金额来解锁附加内容\n(如果您以前捐赠过该应用但是没有获得代码，请邮件联系我们。)"</string>
     <string name="ext_unlock_dial">"解锁代码:"</string>
     
     <string name="ext_link">链接到Google+</string>

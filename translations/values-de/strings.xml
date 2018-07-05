@@ -34,7 +34,7 @@
     <string name="how_ip">"Wie Du Deine IP-Adresse findest: http://ip.junkcode.net/"</string>
     <string name="how_ip_der">"Klicke hier, wenn Du nicht weißt, wie Du Deine IP herausfindest."</string>
     <string name="ip_err">Ungültige IP-Adresse</string>
-    <string name="ip_err_wrong">"IP im Format \r\nXXX.XXX.XXX.XXX \r\n eingeben."</string>
+    <string name="ip_err_wrong">"IP im Format \nXXX.XXX.XXX.XXX \n eingeben."</string>
     <string name="ip_err_local">"127.0.0.1 ist nicht die korrekte IP-Adresse."</string>
     <string-array name="updates_speed_array">
       <item >Sehr schnell</item>
@@ -48,14 +48,14 @@
 
     <string name="info_title">"Über&#8230;"</string>
     <string name="info_msg">
-      "Dies ist eine inoffizielle App von einem War Thunder-Fan!\r\n"
-      "Die App ist noch in der Beta, aber ich freue mich über Bugmeldungen und neue Ideen unter:\r\n"
-      "http://junkcode.net/forum \r\n"
-      "\r\n"
-      "Deutsche Übersetzung von LoLmauZz und SplashScreen\r\n"
+      "Dies ist eine inoffizielle App von einem War Thunder-Fan!\n"
+      "Die App ist noch in der Beta, aber ich freue mich über Bugmeldungen und neue Ideen unter:\n"
+      "http://junkcode.net/forum \n"
+      "\n"
+      "Deutsche Übersetzung von LoLmauZz und SplashScreen\n"
     </string>
     <string name="donate_line">
-      "Gefällt Dir diese App? Spende unter http://junkcode.net um die Weiterentwicklung zu unterstützen.\r\n"
+      "Gefällt Dir diese App? Spende unter http://junkcode.net um die Weiterentwicklung zu unterstützen.\n"
     </string>
     <string name="info_update_title">Neuigkeiten</string>
 
@@ -105,7 +105,7 @@
 
     <string name="ext_unlock">Extras freischalten</string>
     <string name="ext_unlock_det">
-      "Du kannst die Extras durch einen <b><i>beliebigen</i></b> Spendenbetrag oder durch das Beitragen von Inhalten freischalten\r\n(schreibe uns eine E-Mail, wenn Du bereits zuvor gespendet, aber noch keinen Code erhalten hast)"</string>
+      "Du kannst die Extras durch einen <b><i>beliebigen</i></b> Spendenbetrag oder durch das Beitragen von Inhalten freischalten\n(schreibe uns eine E-Mail, wenn Du bereits zuvor gespendet, aber noch keinen Code erhalten hast)"</string>
     <string name="ext_unlock_dial">"Freischaltcode:"</string>
 
     <string name="ext_link">Link zum G+ Konto</string>
