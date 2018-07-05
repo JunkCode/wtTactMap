@@ -34,8 +34,8 @@
     <string name="how_ip">"http://ip.junkcode.net/helpでIPの調べ方が分かります(英語)"</string>
     <string name="how_ip_der">"IPの調べ方がわからない場合は，こちらをクリック"</string>
     <string name="ip_err">IPアドレスが正しく有りません</string>
-    <string name="ip_err_wrong">"アドレスは\nXXX.XXX.XXX.XXX \n の形式で入力してください．ヘルプをクリックして正しいIPの取得方法を見ましょう．"</string>
-    <string name="ip_err_local">"127.0.0.1は正しいアドレスではありません．\n ヘルプをクリックして正しいIPの取得方法を見ましょう．"</string>
+    <string name="ip_err_wrong">"アドレスは\r\nXXX.XXX.XXX.XXX \r\n の形式で入力してください．ヘルプをクリックして正しいIPの取得方法を見ましょう．"</string>
+    <string name="ip_err_local">"127.0.0.1は正しいアドレスではありません．\r\n ヘルプをクリックして正しいIPの取得方法を見ましょう．"</string>
     <string-array name="updates_speed_array">
         <item >非常に早い</item>
         <item >早い</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">About</string>
     <string name="info_msg">
-        "このアプリはWar Thunderのファンにより製作された物です!\n"
-        "アプリはまだベータ段階ですので，バグ報告やアイディアの投稿を以下のサイトで受け付けています:\n"
-        "http://junkcode.net/forum \n"
-        "\n"
-        "私たちはこのアプリの翻訳を手伝って頂ける方も募集しています．協力頂ける方はhttp://junkcode.net/forum/viewtopic.php?f=14&amp;t=18をご覧下さい． \n"
+        "このアプリはWar Thunderのファンにより製作された物です!\r\n"
+        "アプリはまだベータ段階ですので，バグ報告やアイディアの投稿を以下のサイトで受け付けています:\r\n"
+        "http://junkcode.net/forum \r\n"
+        "\r\n"
+        "私たちはこのアプリの翻訳を手伝って頂ける方も募集しています．協力頂ける方はhttp://junkcode.net/forum/viewtopic.php?f=14&amp;t=18をご覧下さい． \r\n"        
     </string>
     <string name="donate_line">
-        "アプリを気に入りましたか？http://junkcode.netにて寄付・メッセージを送信して，今後の開発の手助けをお願いします．\n"
+        "アプリを気に入りましたか？http://junkcode.netにて寄付・メッセージを送信して，今後の開発の手助けをお願いします．\r\n"
         </string>
      <string name="info_update_title">更新情報</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">追加機能の解除</string>
     <string name="ext_unlock_det">
-        "追加機能は<b><i>金額に関わらず</i></b>寄付を行っていただいた方，もしくは開発に協力して頂いた方が使用できます．\n(もし以前寄付をしたのにコードを受け取っていない方は，メールでお知らせください)"</string>
+        "追加機能は<b><i>金額に関わらず</i></b>寄付を行っていただいた方，もしくは開発に協力して頂いた方が使用できます．\r\n(もし以前寄付をしたのにコードを受け取っていない方は，メールでお知らせください)"</string>
     <string name="ext_unlock_dial">"解除コード:"</string>
     
     <string name="ext_link">G+アカウントにリンク account</string>
