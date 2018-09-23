@@ -191,5 +191,6 @@
     <string name="show_ads_while_not_playing">Montrer les pubs hors des phases de jeu</string>
     <string name="allow_data_collection">Autoriser la collecte de données anonymes</string>
     <string name="data_collection_explained">En accord avec les règles de Google Analytics, pour rendre l\'appli meilleure pour Vous.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

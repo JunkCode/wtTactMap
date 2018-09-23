@@ -192,5 +192,6 @@
     <string name="show_ads_while_not_playing">Mostar anuncios mientras no se Juega</string>
     <string name="allow_data_collection">Permitir la recolección de datos anónimos</string>
     <string name="data_collection_explained">Con el cumplimiento de las reglas de Google Analytics, ayudando a que la aplicación sea mejor para ti.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

@@ -191,5 +191,6 @@
     <string name="show_ads_while_not_playing">플레이하지 않는동안 광고 표시</string>
     <string name="allow_data_collection">익명 데이터수집 허용</string>
     <string name="data_collection_explained">구글 웹로그분석의 규칙을 준수합니다, helping to make the app better for You.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

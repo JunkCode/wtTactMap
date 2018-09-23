@@ -34,8 +34,8 @@
     <string name="how_ip">"How to get an IP address see: http://ip.junkcode.net/help"</string>
     <string name="how_ip_der">"If you don't know how to get your IP address click here"</string>
     <string name="ip_err">IP address not valid</string>
-    <string name="ip_err_wrong">"input address in format \r\nXXX.XXX.XXX.XXX \r\n Click on Help for guide to get right one."</string>
-    <string name="ip_err_local">"127.0.0.1 is not right address. \r\n Click on Help for guide to get right one."</string>
+    <string name="ip_err_wrong">"input address in format \nXXX.XXX.XXX.XXX \n Click on Help for guide to get right one."</string>
+    <string name="ip_err_local">"127.0.0.1 is not right address. \n Click on Help for guide to get right one."</string>
     <string-array name="updates_speed_array">
         <item >Very Fast</item>
         <item >Fast</item>
@@ -48,14 +48,14 @@
 
      <string name="info_title">About</string>
     <string name="info_msg">
-        "This is unofficial app made by War Thunder fans!\r\n"
-        "This app is still in beta but feel free to contact us with bugs or new ideas at:\r\n"
-        "http://junkcode.net/forum \r\n"
-        "\r\n"
-        "We are looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \r\n"        
+        "This is unofficial app made by War Thunder fans!\n"
+        "This app is still in beta but feel free to contact us with bugs or new ideas at:\n"
+        "http://junkcode.net/forum \n"
+        "\n"
+        "We are looking for people to translate this app, if you want to help see http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
     </string>
     <string name="donate_line">
-        "Do you like this app? Say it by donation on http://junkcode.net for future development. \r\n"
+        "Do you like this app? Say it by donation on http://junkcode.net for future development. \n"
         </string>
      <string name="info_update_title">Update news</string>
      
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Unlock extras</string>
     <string name="ext_unlock_det">
-        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\r\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
+        "Extras are unlocked by donation of <b><i>any</i></b> amount or by content contribution\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
     <string name="ext_unlock_dial">"Unlock Code:"</string>
     
     <string name="ext_link">Link to G+ account</string>
@@ -191,5 +191,6 @@
     <string name="show_ads_while_not_playing">Show ads while not playing</string>
     <string name="allow_data_collection">Allow anonymous data collection</string>
     <string name="data_collection_explained">With compliance by Google Analytics rules, helping to make the app better for You.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

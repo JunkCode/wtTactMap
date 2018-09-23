@@ -192,5 +192,6 @@
     <string name="show_ads_while_not_playing">Show ads while not playing</string>
     <string name="allow_data_collection">Permetti la raccolta dati d\'utilizzo</string>
     <string name="data_collection_explained">In accordo con le regole di Google Analytics , per aiutare lo svuluppo ed il miglioramento dell\'app.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

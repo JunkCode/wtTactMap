@@ -183,7 +183,7 @@
     <string name="coop_title">Co-op oturumu</string>
     <string name="close_enemy_detection">Düşman Tespitini Kapat</string>
     <string name="far_enemy_detection">Uzaktaki Düşman Tespiti</string>
-    <string name="coop_connecting_to_id">Co-op ID'ye bağlanma:</string>
+    <string name="coop_connecting_to_id">Co-op ID\'ye bağlanma:</string>
     <string name="coop_session_started">Co-op oturumu başladı.</string>
     <string name="id">ID:</string>
     <string name="coop_chat_instruction_prefix">Tür</string>
@@ -191,5 +191,6 @@
     <string name="show_ads_while_not_playing">Oyun oynamıyorken reklamları göster</string>
     <string name="allow_data_collection">Anonim veri toplamaya izin ver</string>
     <string name="data_collection_explained">Google Analytics kurallarına uygun olarak, uygulamayı sizin için daha iyi hale getirmeye yardımcı olur.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

@@ -194,5 +194,6 @@
     <string name="show_ads_while_not_playing">當不在遊戲時顯示廣告</string>
     <string name="allow_data_collection">允許匿名數據收集</string>
     <string name="data_collection_explained">遵從谷歌Analytics（分析）的規則，有助於使應用程序更好地為您服務。</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

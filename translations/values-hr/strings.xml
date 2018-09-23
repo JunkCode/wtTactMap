@@ -191,5 +191,6 @@
     <string name="show_ads_while_not_playing">Prikaži reklame dok ne igram</string>
     <string name="allow_data_collection">Dopusti anonimno prikupljanje podataka</string>
     <string name="data_collection_explained">Uz suglasnost Google Analytics pravila, pomaže nam napraviti aplikaciju boljom za Vas.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>

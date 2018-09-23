@@ -193,6 +193,7 @@
     <string name="show_ads_while_not_playing">Zobrazuj reklamu po hře</string>
     <string name="allow_data_collection">Povolit anonymní sběr dat</string>
     <string name="data_collection_explained">Řídí se pravidly Google Analytics a data jsou využita k vylepšovaní aplikace.</string>
+    <string name="dynamic_zoom">Dynamický zoom mapy</string>
 
 </resources>
 

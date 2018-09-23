@@ -192,5 +192,6 @@
     <string name="show_ads_while_not_playing">Laat advertenties zijn als je niet aan het spelen bent</string>
     <string name="allow_data_collection">Anonieme data verzameling toestaan</string>
     <string name="data_collection_explained">Door te voldoen aan de regels van Google Analitics, help je de app beter te maken.</string>
+    <string name="dynamic_zoom">Dynamic map zooming</string>
 
 </resources>
