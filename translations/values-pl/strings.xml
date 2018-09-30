@@ -46,7 +46,7 @@
 	<item >Co 5 sek</item>
 	</string-array>
 	
-	<string name="info_title">O</string>
+	<string name="info_title">O aplikacji</string>
 	<string name="info_msg">
 		"To NIE jest oficjalna aplikacja do War Thunder!!\n"
 		"Ta aplikacja wciąż jest w wersji beta, błędy i sugestie można zgłaszać na :\n"
@@ -70,7 +70,7 @@
 	<string name="pref_header_data_sync">Połączenie z PC</string>
 	<string name="pref_ringtone_silent">Cichy</string>
 	
-	<string name="nowificonnected">Połącz się z siecią WiFi</string>
+	<string name="nowificonnected">Aby połączyć się z komputerem, wymagane jest połączenie z siecią WiFi.</string>
 	
 	<string name="planeicons">Ikona samolotu</string>
 	<string-array name="planes_icon_size">
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">Odblokuj dodatki</string>
     <string name="ext_unlock_det">
-       "Dodatki są odblokowane przez dotację w <b><i>jakiejkolwiek</i></b> ilości lub poprzez udział w tworzeniu aplikacji.\n(If you donated earlier and didn\'t get the code yet write us an email)"</string>
+       "Dodatki są odblokowane przez dotację w <b><i>jakiejkolwiek</i></b> ilości lub poprzez udział w tworzeniu aplikacji.\n(Jeśli wspomogłeś nas wcześniej i nie dostałeś jeszcze kodu, napisz do nas)"</string>
     <string name="ext_unlock_dial">"Kod odblokowujący:"</string>
     
     <string name="ext_link">Link do konta Google+</string>
@@ -114,8 +114,8 @@
     <string name="gray_map">Mapa w odcieniach szarości</string>
     
     <string name="map">Mapa:</string>
-    <string name="custom_maps">Niestandartowe mapy</string>
-    <string name="custom_maps_url">Linki do niestandartowych map</string>
+    <string name="custom_maps">Niestandardowe mapy</string>
+    <string name="custom_maps_url">Linki do niestandardowych map</string>
     <string name="see_forum">Więcej szczegółów na JunkCode forum</string>
     
     <string name="tankicons">Ikona czołgu</string>
@@ -165,7 +165,7 @@
     <string name="base_approx_time_remaining">Pokaż przybliżony czas do przejęcia bazy</string>
     <string name="base_progress_beeping">Powiadom kiedy baza w pobliżu będzie przejmowana</string>
     <string name="mapscale">Skala mapy</string>
-    <string name="breadcrumbs">Breadcrumbs</string>
+    <string name="breadcrumbs">Przebyta ścieżka (Breadcrumbs)</string>
     <string name="support_development">Wspomóż dewelopera</string>
     <string name="airplane_range">Zasięg obszaru wykrywania samolotów</string>
     <string name="ground_range">Zasięg obszaru wykrywania pojazdów naziemnych</string>
@@ -174,24 +174,24 @@
     <string name="contributor">Contributor</string>
     <string name="contribute_resources">Help out with app resources</string>
     <string name="waiting_for_battle">Oczekwianie na bitwę</string>
-    <string name="subscription">(Subscription)</string>
+    <string name="subscription">(Subskrypcja)</string>
     <string name="exit_title">Wyjść z aplikacji?</string>
-    <string name="exit_question">Czy chcesz rozłączyć się z komputerem, a następnie opuścić aplikacje?</string>
+    <string name="exit_question">Czy chcesz opuścić aplikację (Spowoduje to rozłączenie się z komputerem)?</string>
     <string name="hide_add_requirement">Wspomóż autora lub pomóż w tworzeniu aplikacji aby móc wyłączyć reklamy.</string>
     <string name="coop_start">Rozpocznij nową kooperację</string>
     <string name="coop_join">Dołącz do kooperacji</string>
     <string name="coop_title">Sesja Kooperacji</string>
     <string name="close_enemy_detection">Bliższe wykrywanie wroga</string>
     <string name="far_enemy_detection">Dalsze wykrywanie wroga</string>
-    <string name="coop_connecting_to_id">Dołączanie do co-op ID:</string>
+    <string name="coop_connecting_to_id">Dołączanie do sesji kooperacji o ID:</string>
     <string name="coop_session_started">Sesja kooperacji rozpoczęta.</string>
     <string name="id">ID:</string>
-    <string name="coop_chat_instruction_prefix">Typ</string>
-    <string name="coop_chat_instruction_postfix">to game team chat.</string>
+    <string name="coop_chat_instruction_prefix">Napisz</string>
+    <string name="coop_chat_instruction_postfix">do drużyny w grze.</string>
     <string name="show_ads_while_not_playing">Wyświetlaj reklamy kiedy nie grasz</string>
-	<string name="allow_data_collection">Allow anonymous data collection</string>
-	<string name="data_collection_explained">With compliance by Google Analytics rules, helping to make the app better for You.</string>
-    <string name="dynamic_zoom">Dynamic map zooming</string>
+	<string name="allow_data_collection">Zezwól na anonimowe zbieranie danych</string>
+	<string name="data_collection_explained">Zgodnie z zasadami Google Analytics, pomagasz aplikacji być coraz lepszą dla Ciebie.</string>
+    <string name="dynamic_zoom">Dynamiczne skalowanie may</string>
 
 
 </resources>
