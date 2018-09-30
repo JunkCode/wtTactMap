@@ -21,20 +21,20 @@
         <b>Jak połączyć się z grą?</b>\n
          \u00A0\u00A0 Aplikacja potrzebuje adresu IP twojego komputera z uruchomionym War Thunder, jak sprawdzić adres IP zobacz tutaj http://ip.junkcode.net \n\n
          
-        <b>Wpisałem poprawny adres IP i wciąż pokazuje \"Brak Połączenia\"</b>\n
+        <b>Wpisałem/am poprawny adres IP i wciąż pokazuje \"Brak Połączenia\"</b>\n
          \u00A0\u00A0 To może być problem z routingiem w twojej lokalnej sieci. Sprawdź http://ip.junkcode.net/help \n\n
          
         <b>Wciąż nie mogę się połączyć!</b>\n
-         \u00A0\u00A0 Czy na pewno przeczytałeś http://ip.junkcode.net/help ?
+         \u00A0\u00A0 Czy na pewno przeczytałeś/aś http://ip.junkcode.net/help ?
          \n
     </string>
     
     <string name="faq_extras">Dodatki</string>
     <string name="text_faq_extra">   
-        <b>Wysłałem dotacje, gdzie znajdę mój kod?</b>\n
-         \u00A0\u00A0 Powinieneś otrzymać swój kod na twój adres e-mail w ciągu kilku minut od dotacji, jeśli tak się nie stało skontaktuj się z nami support@junkcode.net \n\n
+        <b>Wysłałem/am dotacje, gdzie znajdę mój kod?</b>\n
+         \u00A0\u00A0 Kod powinien być wysłany na twój adres e-mail w ciągu kilku minut od dotacji, jeśli tak się nie stało skontaktuj się z nami support@junkcode.net \n\n
          
-        <b>Wpisałem kod i nic się nie odblokowało</b>\n
+        <b>Wpisałem/am kod i nic się nie odblokowało</b>\n
          \u00A0\u00A0 Spróbuj zrestartować aplikację \n\n
         
     </string>
@@ -43,13 +43,13 @@
         <b>Coś ci się nie podoba?</b>\n
          \u00A0\u00A0 Daj nam znać - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>Znalazłem błąd</b>\n
+        <b>Znalazłem/am błąd</b>\n
          \u00A0\u00A0 Koniecznie napisz tutaj http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
         <b>Mam pomysł na nową funkcję</b>\n
          \u00A0\u00A0 Daj nam znać - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>Chciałbym pomóc w tłumaczeniu/ikonach/...</b>\n
+        <b>Chcę pomóc w tłumaczeniu/ikonach/...</b>\n
          \u00A0\u00A0 Część zasobów jest już tutaj http://github.com/JunkCode/wtTactMap Możesz sugerować zmiany lub dodawać nowe rzeczy. Jeśli masz jakieś pytania lub inne pomysły daj nam znać - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
     </string>
