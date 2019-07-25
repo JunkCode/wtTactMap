@@ -52,7 +52,7 @@
         "La app está todavía en beta pero no dudes en contactarte conmigo por problemas o nuevas ideas:\n"
         "http://junkcode.net/forum \n"
         "\n"
-        "Traducción hecha por Shinichi (CrazyShini) y Rincewindy\n"
+        "Traducción hecha por Shinichi (CrazyShini) y Rincewindy (Rafa-and)\n"
     </string>
     <string name="donate_line">  
         "¿Te gustó la APP? Dilo con una donación en http://junkcode.net para seguir desarrollando la aplicación.\n"
@@ -148,50 +148,50 @@
     <string name="offline_mode">Modo Offline</string>
     <string name="talk_back">Responder</string>
     <string name="kills">Muertes</string>
-    <string name="trigger_words_kill">Kill trigger words</string>
-    <string name="trigger_words_kill_default">destroyed,shot down,уничтожен</string>
-    <string name="trigger_words_kill_summary">Default value: \"destroyed,shot down,уничтожен\"</string>
+    <string name="trigger_words_kill">Mensaje automático muerte</string>
+    <string name="trigger_words_kill_default">destruido, derribado</string>
+    <string name="trigger_words_kill_summary">Valor por defecto: \"destruido, derribado\"</string>
     <string name="burns">Quemaduras</string>
-    <string name="trigger_words_burn">Burn trigger words</string>
-    <string name="trigger_words_burn_default">set afire,подожжён</string>
-    <string name="trigger_words_burn_summary">Default value: \"set afire,подожжён\"</string>
+    <string name="trigger_words_burn">Mensaje automático arder</string>
+    <string name="trigger_words_burn_default">set afire</string>
+    <string name="trigger_words_burn_summary">Default value: \"set afire\"</string>
     <string name="player_name">Nombre en Juego</string>
     <string name="ext_unlocked">Extras Desbloqueados</string>
-    <string name="please_restart">Favor de reiniciar aplicacion para que los cambios tomen efector.</string>
+    <string name="please_restart">Debe reiniciar la aplicación para que los cambios tengan efecto.</string>
     <string name="planes_in_tank">Detectar aviones estando en Tanque</string>
-    <string name="bomber_path">Rutas de Bomarderos</string>
-    <string name="air_raid_siren">Sirena de ataque aereo</string>
+    <string name="bomber_path">Rutas de Bombarderos</string>
+    <string name="air_raid_siren">Sirena de ataque aéreo</string>
     <string name="pointicons">Icono de Puntos</string>
-    <string name="base_approx_time_remaining">Mostar tiempo aproxicmado de captura de la base</string>
+    <string name="base_approx_time_remaining">Mostar tiempo aproximado de captura de la base</string>
     <string name="base_progress_beeping">Alarma de captura de la base cercana</string>
     <string name="mapscale">Escala del Mapa</string>
     <string name="breadcrumbs">Migajas</string>
-    <string name="support_development">Apoyar al los Desarroyadores</string>
+    <string name="support_development">Apoyar al los Desarrolladores</string>
 
-    <string name="airplane_range">Detectar el rango de Avion</string>
+    <string name="airplane_range">Detectar el rango de Avión</string>
     <string name="ground_range">Detectar Rango de Tanque</string>
-    <string name="connected">Connectado</string>
-    <string name="supporter">Patrocinar a los Desarroyadores</string>
+    <string name="connected">Conectado</string>
+    <string name="supporter">Patrocinar a los Desarrolladores</string>
     <string name="contributor">Contribuir</string>
-    <string name="contribute_resources">Patrocinar recursos de la Aplicacion</string>
+    <string name="contribute_resources">Patrocinar recursos de la Aplicación</string>
     <string name="waiting_for_battle">Esperando Batalla</string>
-    <string name="subscription">(Subscripcion)</string>
-    <string name="exit_title">Salir de Aplicacion?</string>
-    <string name="exit_question">Deseas desconectarte y salir de la aplicacion?</string>
+    <string name="subscription">(Subscripción)</string>
+    <string name="exit_title">¿Salir de la aplicación?</string>
+    <string name="exit_question">¿Deseas desconectarte y salir de la aplicación?</string>
     <string name="hide_add_requirement">Convertirse en patrocinador o colaborador para desactivar los anuncios.</string>
-    <string name="coop_start">Empezar modo Cooperacion</string>
-    <string name="coop_join">Uniser a modo Cooperacion</string>
+    <string name="coop_start">Empezar modo Cooperación</string>
+    <string name="coop_join">Unirse a modo Cooperación</string>
     <string name="coop_title">Secion en Cooperacion</string>
-    <string name="close_enemy_detection">Deteccion de enemigos cercanos</string>
-    <string name="far_enemy_detection">Deteccion de enemigos Lejanos</string>
-    <string name="coop_connecting_to_id">Conectando a modo Cooperacion ID:</string>
-    <string name="coop_session_started">Sesion Cooperacion a Empezado.</string>
+    <string name="close_enemy_detection">Detección de enemigos cercanos</string>
+    <string name="far_enemy_detection">Detección de enemigos Lejanos</string>
+    <string name="coop_connecting_to_id">Conectando a modo Cooperación ID:</string>
+    <string name="coop_session_started">Sesión Cooperación ha empezado.</string>
     <string name="id">ID:</string>
     <string name="coop_chat_instruction_prefix">Escribe</string>
     <string name="coop_chat_instruction_postfix">Al chat del equipo de juego.</string>
-    <string name="show_ads_while_not_playing">Mostar anuncios mientras no se Juega</string>
+    <string name="show_ads_while_not_playing">Mostrar anuncios mientras no se Juega</string>
     <string name="allow_data_collection">Permitir la recolección de datos anónimos</string>
     <string name="data_collection_explained">Con el cumplimiento de las reglas de Google Analytics, ayudando a que la aplicación sea mejor para ti.</string>
-    <string name="dynamic_zoom">Dynamic map zooming</string>
+    <string name="dynamic_zoom">Zoom mapa dinámico</string>
 
 </resources>
