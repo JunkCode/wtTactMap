@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">WarThunder Taktiksel Harita</string>
+    <string name="app_name">Taktiksel Harita</string>
     
     <string name="settings">Ayarlar</string>
     <string name="hide">Gizle</string>
@@ -192,5 +192,8 @@
     <string name="allow_data_collection">Anonim veri toplamaya izin ver</string>
     <string name="data_collection_explained">Google Analytics kurallarına uygun olarak, uygulamayı sizin için daha iyi hale getirmeye yardımcı olur.</string>
     <string name="dynamic_zoom">Dynamic map zooming</string>
+    <string name="watch_ad_for_extra">Wach Ad for Extra Features</string>
+    <string name="extras_unlock_until">Extras unlocked until <xliff:g id="time" example="18:30">%1$s</xliff:g></string>
+    <string name="watch_ad_for_extra_support">Watch ad to show Extra support</string>
 
 </resources>

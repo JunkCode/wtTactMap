@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Mapa Tático do War Thunder</string>
+    <string name="app_name">Mapa Tático</string>
     
     <string name="settings">Configurações</string>
     <string name="hide">Esconder</string>
@@ -193,5 +193,8 @@
     <string name="allow_data_collection">Permir coleta anônima de dados</string>
     <string name="data_collection_explained">De acordo com as regras do Google Analytics, ajudando a fazer o app melhor para você.</string>
     <string name="dynamic_zoom">Dynamic map zooming</string>
+    <string name="watch_ad_for_extra">Wach Ad for Extra Features</string>
+    <string name="extras_unlock_until">Extras unlocked until <xliff:g id="time" example="18:30">%1$s</xliff:g></string>
+    <string name="watch_ad_for_extra_support">Watch ad to show Extra support</string>
 
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Carte Tactique WarThunder</string>
+    <string name="app_name">Carte Tactique</string>
     
     <string name="settings">Paramètres</string>
     <string name="hide">Cacher</string>
@@ -192,5 +192,8 @@
     <string name="allow_data_collection">Autoriser la collecte de données anonymes</string>
     <string name="data_collection_explained">En accord avec les règles de Google Analytics, pour rendre l\'appli meilleure pour Vous.</string>
     <string name="dynamic_zoom">Dynamic map zooming</string>
+    <string name="watch_ad_for_extra">Wach Ad for Extra Features</string>
+    <string name="extras_unlock_until">Extras unlocked until <xliff:g id="time" example="18:30">%1$s</xliff:g></string>
+    <string name="watch_ad_for_extra_support">Watch ad to show Extra support</string>
 
 </resources>

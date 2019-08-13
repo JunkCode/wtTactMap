@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">WarThunder 전술 지도</string>
+    <string name="app_name">전술 지도</string>
     
     <string name="settings">설정</string>
     <string name="hide">숨기기</string>
@@ -192,5 +192,8 @@
     <string name="allow_data_collection">익명 데이터수집 허용</string>
     <string name="data_collection_explained">구글 웹로그분석의 규칙을 준수합니다, helping to make the app better for You.</string>
     <string name="dynamic_zoom">Dynamic map zooming</string>
+    <string name="watch_ad_for_extra">Wach Ad for Extra Features</string>
+    <string name="extras_unlock_until">Extras unlocked until <xliff:g id="time" example="18:30">%1$s</xliff:g></string>
+    <string name="watch_ad_for_extra_support">Watch ad to show Extra support</string>
 
 </resources>
