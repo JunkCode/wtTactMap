@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">Map control</string>
+    <string name="help_map_ctrl">Sterowanie Mapą</string>
     <string name="text_help_map_ctrl">
-        <b>1</b> Free mode\n
-        <b>2</b> Follow plane\n
-        <b>3</b> Rotation lock\n
-        <b>4</b> Click to reset\n
+        <b>1</b> Tryb Dowolny\n
+        <b>2</b> Podążanie za samolotem\n
+        <b>3</b> Zablokowanie obracania\n
+        <b>4</b> Kliknij aby zresetować\n
     </string>
     
-    <string name="help_prediction">Prediction</string>
+    <string name="help_prediction">Przewidywanie pozycji</string>
     <string name="text_help_prediction">
-        Prediction of plane position (based on current speed and direction) in 10,30 and 90 seconds
+        Przewidywanie pozycji samolotu za 10,30 i 90 sekund (opartej na aktualnej prędkości i kierunku)
     </string>
     
-    <string name="faq">FAQ (Frequently asked questions)</string>
+    <string name="faq">FAQ (Często Zadawane Pytania)</string>
     
-    <string name="faq_connection">Connection</string>
+    <string name="faq_connection">Połączenie</string>
     <string name="text_faq_con">
-        <b>How do I connect?</b>\n
-         \u00A0\u00A0 The app needs an IP address of your computer running War Thunder, how to get your IP see http://ip.junkcode.net \n\n
+        <b>Jak połączyć się z grą?</b>\n
+         \u00A0\u00A0 Aplikacja potrzebuje adresu IP twojego komputera z uruchomionym War Thunder, jak sprawdzić adres IP zobacz tutaj http://ip.junkcode.net \n\n
          
-        <b>I did enter IP and it still says \"No connection\"</b>\n
-         \u00A0\u00A0 There might be problem with your local network routing see http://ip.junkcode.net/help \n\n
+        <b>Wpisałem/am poprawny adres IP i wciąż pokazuje \"Brak Połączenia\"</b>\n
+         \u00A0\u00A0 To może być problem z routingiem w twojej lokalnej sieci. Sprawdź http://ip.junkcode.net/help \n\n
          
-        <b>It still doesn\'t connect!</b>\n
-         \u00A0\u00A0 You didn\'t read http://ip.junkcode.net/help, did you?
+        <b>Wciąż nie mogę się połączyć!</b>\n
+         \u00A0\u00A0 Czy na pewno przeczytałeś/aś http://ip.junkcode.net/help ?
          \n
     </string>
     
-    <string name="faq_extras">Extras</string>
+    <string name="faq_extras">Dodatki</string>
     <string name="text_faq_extra">   
-        <b>I donated, where is my code?</b>\n
-         \u00A0\u00A0 You should receive code to your email within few minutes after donation, if not contact support@junkcode.net \n\n
+        <b>Wysłałem/am dotacje, gdzie znajdę mój kod?</b>\n
+         \u00A0\u00A0 Kod powinien być wysłany na twój adres e-mail w ciągu kilku minut od dotacji, jeśli tak się nie stało skontaktuj się z nami support@junkcode.net \n\n
          
-        <b>I entered code but nothing is unlocked</b>\n
-         \u00A0\u00A0 Try restarting the app \n\n
+        <b>Wpisałem/am kod i nic się nie odblokowało</b>\n
+         \u00A0\u00A0 Spróbuj zrestartować aplikację \n\n
         
     </string>
-    <string name="faq_improvement">App improvement</string>
+    <string name="faq_improvement">Ulepszanie aplikacji</string>
     <string name="text_faq_improve">"  
-        <b>I don\'t like something</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Coś ci się nie podoba?</b>\n
+         \u00A0\u00A0 Daj nam znać - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I found a bug</b>\n
-         \u00A0\u00A0 Post it here http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+        <b>Znalazłem/am błąd</b>\n
+         \u00A0\u00A0 Koniecznie napisz tutaj http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
-        <b>I have idea for new feature</b>\n
-         \u00A0\u00A0 Let us know what - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Mam pomysł na nową funkcję</b>\n
+         \u00A0\u00A0 Daj nam znać - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
-        <b>I want to help with translation/icons/...</b>\n
-         \u00A0\u00A0 Some of the resources are already here http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+        <b>Chcę pomóc w tłumaczeniu/ikonach/...</b>\n
+         \u00A0\u00A0 Część zasobów jest już tutaj http://github.com/JunkCode/wtTactMap Możesz sugerować zmiany lub dodawać nowe rzeczy. Jeśli masz jakieś pytania lub inne pomysły daj nam znać - http://junkcode.net/forum/viewforum.php?f=14 \n\n
          
     </string>
     
