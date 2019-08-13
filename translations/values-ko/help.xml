@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="help_map_ctrl">지도 조정</string>
+    <string name="help_map_ctrl">지도 설정</string>
     <string name="text_help_map_ctrl">
-        <b>1</b> 자유모드\n
+        <b>1</b> 자유시점\n
         <b>2</b> 비행기 시점\n
         <b>3</b> 회전잠금\n
         <b>4</b> 재설정\n
@@ -11,15 +11,15 @@
     
     <string name="help_prediction">경로예측</string>
     <string name="text_help_prediction">
-        비행기의 경로를 10 초, 30초, 90 초 마다 계산합니다 (비행기의 속도와 방향에따라서 계산됩니다)
+        10 초, 30초, 90초, 120초 뒤의 거리를 계산합니다 (속도와 방향에 따라서 계산됩니다)
     </string>
     
-    <string name="faq">문의</string>
+    <string name="faq">도움말</string>
     
-    <string name="faq_connection">연결중</string>
+    <string name="faq_connection">연결 도움</string>
     <string name="text_faq_con">
         <b>어떻게 연결하나요?</b>\n
-         \u00A0\u00A0 이 앱은 당신이 WarThunder 을 실행하고있는 컴퓨터의 IP 주소가 필요합니다, 당신의 IP 주소를 확인하는 방법을 보세요 : http://ip.junkcode.net \n\n
+         \u00A0\u00A0 이 앱은 당신이 WarThunder 을 실행하고있는 컴퓨터의 IP 주소가 필요합니다, 당신의 IP 주소를 확인하는 방법을 보세요 : http://ip.junkcode.net , 한국어 사이트는 [ sfn.dothome.co.kr/jc/ip ] 로 들어가주세요 \n\n
          
         <b>이미 IP 주소를 입력했습니다. 하지만 계속 \"연결되지 않음\ 만 뜹니다"</b>\n
          \u00A0\u00A0 그것은 아마 당신의 로컬 네트워크 문제일겁니다. 옆에있는 주소의 사이트에 들어가셔서 확인해보세요 http://ip.junkcode.net/help \n\n
