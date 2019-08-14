@@ -50,9 +50,9 @@
     <string name="info_msg">
         "Detta är en inofficiell app gjord av War Thunder fans!\n"
         "Den här appen är fortfarande i beta så rapportera gärna buggar, problem och nya idéer till:\n"
-        "http://junkcode.net/forum \n"
+        "https://github.com/JunkCode/wtTactMap \n"
         "\n"
-        "Vi letar efter folk som vill hjälpa till at översätta den här appen till fler språk. Om du vill hjälpa till kan du göra det på http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"
+        "Vi letar efter folk som vill hjälpa till at översätta den här appen till fler språk. Om du vill hjälpa till kan du göra det på http://wiki.junkcode.net/doku.php/support:wt_tactical_map:translations \n"
     </string>
     <string name="donate_line">  
         "Tycker du om den här appen? Visa det genom att donera på http://junkcode.net för att fortsätta utvecklingen av den. \n"

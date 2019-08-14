@@ -50,9 +50,9 @@
     <string name="info_msg">
         "Bu War Thunder hayranları tarafından yapılan resmi olmayan bir uygulama!\n"
         "Bu uygulama hala beta sürümünde. Ancak, hata veya yeni fikirlerle bizimle iletişime geçmekten çekinmeyin:\n"
-        "http://junkcode.net/forum \n"
+        "https://github.com/JunkCode/wtTactMap \n"
         "\n"
-        "Uygulamayı farklı dillere çevirmek için insanlar arıyoruz, yardımcı olmak istiyorsanız http://junkcode.net/forum/viewtopic.php?f=14&amp;t=18 \n"        
+        "Uygulamayı farklı dillere çevirmek için insanlar arıyoruz, yardımcı olmak istiyorsanız http://wiki.junkcode.net/doku.php/support:wt_tactical_map:translations \n"
     </string>
     <string name="donate_line">
         "Bu uygulamayı Beğendin mi? Bağışla söyle. http://junkcode.net for future development. \n"
