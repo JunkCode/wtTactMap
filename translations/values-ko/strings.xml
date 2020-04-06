@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">전술 지도</string>
+    <string name="app_name">워썬더 전술 지도</string>
     
     <string name="settings">설정</string>
-    <string name="hide">숨기기</string>
+    <string name="hide">숨김</string>
     <string name="danger">위험 알림</string>
-    <string name="nodanger">OK 알림</string>
+    <string name="nodanger">안전 알림</string>
     <string name="proximity_wrn">반경:</string>
     
     
-    <string name="more">더 많은 설정</string>
-    <string name="connerror">연결되지 않음</string>
+    <string name="more">설정</string>
+    <string name="connerror">연결 없음</string>
     
     <string name="gui">GUI 설정</string>
     <string name="screenon">화면 유지</string>
@@ -20,26 +20,26 @@
     <string name="ip_h">IP 주소</string>
     <string name="find_ip">스캔</string>
     <string name="set_ip">IP 지정</string>
-    <string name="ip">WarThunder 을 실행하고 있는 컴퓨터의 IP (포트 제외):</string>
+    <string name="ip">워썬더를 실행하고 있는 컴퓨터의 IP 주소 (포트 제외):</string>
     
     
     <string name="zoom_btns">확대 버튼</string>
-    <string name="donate">지원</string>
-    <string name="enemy_vehicles">적 이동수단</string>
-    <string name="friendly_vehicles">아군 이동수단</string>
+    <string name="donate">후원</string>
+    <string name="enemy_vehicles">적 장비</string>
+    <string name="friendly_vehicles">아군 장비</string>
     <string name="friendly_structures">아군 구조물</string>
     <string name="enemy_structures">적 구조물</string>
     
     <string name="updates_speed">업데이트 빈도</string>
     <string name="how_ip">"IP 주소를 찾는방법: http://ip.junkcode.net/help"</string>
-    <string name="how_ip_der">"만약 당신이 IP 주소를 찾는방법을 모르신다면 이곳을 클릭하세요.</string>
+    <string name="how_ip_der">"IP 주소를 찾는 방법을 모르시면, 이곳을 클릭하세요.</string>
     <string name="ip_err">IP 주소가 유효하지 않습니다.</string>
     <string name="ip_err_wrong">"입력되는 주소의 형식 \nXXX.XXX.XXX.XXX \n 정확한 내용은 도움말에서 참고하세요."</string>
     <string name="ip_err_local">"127.0.0.1 은 올바른 IP 주소가 아닙니다. \n 정확한 내용은 도움말에서 참고하세요 ."</string>
     <string-array name="updates_speed_array">
         <item >매우 빠르게</item>
         <item >빠르게</item>
-        <item >중간</item>
+        <item >보통</item>
         <item >약간 느리게</item>
         <item >느리게</item>
         <item >매우 느리게</item>
@@ -49,13 +49,13 @@
      <string name="info_title">이 앱에 관하여..</string>
     <string name="info_msg">
         "이 앱은 WarThunder 팬들에 의해 만들어졌습니다!\n"
-        "이 앱은 아직 개발중입니다. 하지만 저희에게 버그나 새로운 아이디어를 이곳으로 보내주세요:\n"
+        "아직 개발중입니다. 버그나 새로운 아이디어를 이곳으로 보내주세요:\n"
         "https://github.com/JunkCode/wtTactMap \n"
         "\n"
-        "우리는 번역할 사람들을 찾고있습니다, 만약 관심이 있으시다면 옆에있는 주소로 가셔서 한번 확인해보세요: http://wiki.junkcode.net/doku.php/support:wt_tactical_map:translations \n"
+        "번역할 사람들을 찾고있습니다, 관심이 있으시다면 옆에있는 주소로 가셔서 한 번 확인해보세요: http://wiki.junkcode.net/doku.php/support:wt_tactical_map:translations \n"
     </string>
     <string name="donate_line">
-        "이 앱을 좋아하십니까? 미래의 개발자들을 위해 주원을 해주신다면 감사하겠습니다! :http://junkcode.net , 한글번역자 플러스친구: 세이퍼네트워크. \n"
+        "이 앱을 좋아하신다면, 미래의 개발자들을 위해 후원을 해주신다면 감사하겠습니다! :http://junkcode.net \n"
         </string>
      <string name="info_update_title">업데이트 소식</string>
      
@@ -63,34 +63,34 @@
     <string name="ok">확인</string>
     <string name="cancel">취소</string>
     <string name="ignore">무시</string>
-    <string name="help">도움</string>
+    <string name="help">도움말</string>
     <string name="pref_header_notifications">알림</string>
 
     <string name="pref_title_ringtone">신호음</string>
-    <string name="pref_header_data_sync">PC 연결됨</string>
-    <string name="pref_ringtone_silent">조용하게</string>
+    <string name="pref_header_data_sync">컴퓨터 연결/string>
+    <string name="pref_ringtone_silent">무음</string>
     
-    <string name="nowificonnected">당신은 반드시 당신의 로컬 와이파이에 연결되야합니다</string>
+    <string name="nowificonnected">로컬 WIFI 에 연결되어야 합니다!</string>
 
-    <string name="planeicons">항공장비 아이콘</string>
+    <string name="planeicons">항공 장비 아이콘</string>
     <string-array name="planes_icon_size">
-        <item >큰</item>
-        <item >중간</item>
-        <item >작은</item>
-        <item >매우작은</item>
+        <item >대형</item>
+        <item >중형</item>
+        <item >소형</item>
+        <item >극소</item>
     </string-array>
     
-    <string name="lines">항해 라인</string>
-    <string name="lines_oos">offscreen 목표만 가능합니다</string>
+    <string name="lines">내비게이션 라인</string>
+    <string name="lines_oos">오프스크린 목표만 가능합니다</string>
     <string name="lines_enemy">적</string>
     <string name="lines_friendly">아군</string>
     <string name="lines_squad">분대</string>
     <string name="lines_target">목표</string>
     
-    <string name="hide_gp_login">G+ 로그인 버튼 숨기기</string>
+    <string name="hide_gp_login">G+로그인 버튼 숨기기</string>
     
-    <string name="fullscreen">화면 채우기(Fullscreen)</string>
-    <string name="connect">친구에게 연결</string>
+    <string name="fullscreen">전체화면</string>
+    <string name="connect">친구에게 연결하기</string>
     
     <string name="waypoint">경로</string>
     <string name="waypoint_ctrl">경로 조정</string>
@@ -98,31 +98,31 @@
     
     <string name="horizontal_distance">수평각도 보기</string>
     
-    <string name="pref_header_extras">기타</string>
+    <string name="pref_header_extras">특수 옵션</string>
     <string name="prediction">예측</string>
-    <string name="self">혼자서</string>
-    <string name="show_intro_screen">인트로 splash 보기</string>
+    <string name="self">자신</string>
+    <string name="show_intro_screen">소개 스플래시 표시</string>
     
-    <string name="ext_unlock">기타 잠금해제</string>
+    <string name="ext_unlock">특수 옵션 잠금 해제</string>
     <string name="ext_unlock_det">
-        "기타는 <b><i>여러가지</i></b> 후원에 의해 잠금이 풀립니다\n(만약 당신이 후원을하고 코드를 받지 못하였다면 우리에게 이메일을 주십시오)"</string>
-    <string name="ext_unlock_dial">"잠금해제 코드:"</string>
+        "특수 옵션은 <b><i>후원에 의해</i></b> 잠금이 풀립니다\n(후원을 하고 코드를 못 받으셨다면, 이메일을 보내주세요.)"</string>
+    <string name="ext_unlock_dial">"잠금 해제 코드:"</string>
     
-    <string name="ext_link">G+ 로 연결</string>
+    <string name="ext_link">G+로 연결</string>
     
-    <string name="firing_zone">사격 훈련장</string>
+    <string name="firing_zone">사격 범위</string>
     <string name="gray_map">흑백 지도</string>
     
     <string name="map">지도:</string>
-    <string name="custom_maps">개인 지도</string>
-    <string name="custom_maps_url">개인 지도 URL</string>
-    <string name="see_forum">자세한것은 Junkcode Forum 에서 확인하세요</string>
+    <string name="custom_maps">사용자 지정 맵</string>
+    <string name="custom_maps_url">사용자 지정 맵 URL</string>
+    <string name="see_forum">자세한 사항은 Junkcode Forum 에서 확인하세요</string>
     
     <string name="tankicons">탱크 아이콘</string>
     <string name="groundicons">지면 아이콘</string>
     
     <string name="share_position">위치 공유</string>
-    <string name="death_markers">죽은위치에 해골이 표시되었습니다</string>
+    <string name="death_markers">죽은위치에 해골 표시</string>
 
     <string name="size">크기</string>
     <string name="style">스타일</string>
@@ -137,7 +137,7 @@
         <item>초록색/주황색</item>
         <item>초록색/빨간색</item>
     </string-array>
-    <string name="colors">색들</string>
+    <string name="colors">색상</string>
     
     <string name="pref_header_map_view">지도 설정</string>
     <string name="pref_header_GUI">GUI</string>
@@ -146,7 +146,7 @@
     
     <string name="blink">섬광 허용</string>
     <string name="offline_mode">오프라인 모드</string>
-    <string name="talk_back">Talk back</string>
+    <string name="talk_back">토크백</string>
     <string name="kills">사살</string>
     <string name="trigger_words_kill">전차 파괴</string>
     <string name="trigger_words_kill_default">파괴,전차 파괴!,уничтожен</string>
@@ -155,45 +155,45 @@
     <string name="trigger_words_burn">타버렸습니다!</string>
     <string name="trigger_words_burn_default">불이 붙었습니다!,подожжён</string>
     <string name="trigger_words_burn_summary">Default value: \"불이 붙었습니다!,подожжён\"</string>
-    <string name="player_name">게임상의 닉네임</string>
-    <string name="ext_unlocked">기타 잠금해제</string>
-    <string name="please_restart">새로운 탱크 효과를위하여 앱을 재시작해주세요.</string>
-    <string name="planes_in_tank">탱크안에 있는중 비행기를 발견했습니다</string>
+    <string name="player_name">플레이어 닉네임</string>
+    <string name="ext_unlocked">특수 옵션 잠금해제</string>
+    <string name="please_restart">앱을 재시작해 주세요.</string>
+    <string name="planes_in_tank">지상장비 탑승도중 항공기 발견</string>
     <string name="bomber_path">폭격 경로</string>
     <string name="air_raid_siren">공습 경보</string>
     <string name="pointicons">점수 아이콘</string>
-    <string name="base_approx_time_remaining">기지가 점령되기까지의 대략적인 시간 표시</string>
-    <string name="base_progress_beeping">근처 기지 점령음</string>
+    <string name="base_approx_time_remaining">기지 점령시간 표시</string>
+    <string name="base_progress_beeping">기지 점령음</string>
     <string name="mapscale">지도 크기</string>
-    <string name="breadcrumbs">Breadcrumbs</string>
+    <string name="breadcrumbs">브레드스크럼</string>
     <string name="support_development">개발자 지원</string>
     <string name="airplane_range">항공기 발각 범위</string>
     <string name="ground_range">지상 발각 </string>
     <string name="connected">연결됨</string>
-    <string name="supporter">지원자</string>
-    <string name="contributor">후원자</string>
-    <string name="contribute_resources">우리의 앱 리소스를 개선시켜주세요</string>
-    <string name="waiting_for_battle">전투를 위해 잠시만 기다려주세요</string>
-    <string name="subscription">(Subscription)</string>
-    <string name="exit_title">이 앱을 종료하시겠습니까?</string>
-    <string name="exit_question">연결을 종료하고 이 앱을 종료하시겠습니까?</string>
-    <string name="hide_add_requirement">지원자나 후원자가 되시면 광고를 끌수 있습니다.</string>
+    <string name="supporter">후원자</string>
+    <string name="contributor">기여자</string>
+    <string name="contribute_resources">앱 리소스를 개선시켜주세요</string>
+    <string name="waiting_for_battle">전투 대기 중...</string>
+    <string name="subscription">(구독)</string>
+    <string name="exit_title">앱을 종료하시겠습니까?</string>
+    <string name="exit_question">연결을 끊고 앱을 종료하시겠습니까?</string>
+    <string name="hide_add_requirement">후원자나 기여자가 되시면 광고를 끌 수 있습니다.</string>
     <string name="coop_start">새로운 협동모드 시작</string>
     <string name="coop_join">협동모드 참여</string>
     <string name="coop_title">협동모드 세션</string>
-    <string name="close_enemy_detection">적 감지 닫기</string>
-    <string name="far_enemy_detection">멀리있는 적 감지</string>
+    <string name="close_enemy_detection">근처 적 탐지</string>
+    <string name="far_enemy_detection">원거리 적 탐지</string>
     <string name="coop_connecting_to_id">협동모드 연결 ID:</string>
     <string name="coop_session_started">협동모드 세션 시작됨.</string>
     <string name="id">ID:</string>
     <string name="coop_chat_instruction_prefix">종류</string>
-    <string name="coop_chat_instruction_postfix">게임 팀 채팅.</string>
-    <string name="show_ads_while_not_playing">플레이하지 않는동안 광고 표시</string>
+    <string name="coop_chat_instruction_postfix">팀 채팅.</string>
+    <string name="show_ads_while_not_playing">플레이하지 않는 동안 광고 표시</string>
     <string name="allow_data_collection">익명 데이터수집 허용</string>
-    <string name="data_collection_explained">구글 웹로그분석의 규칙을 준수합니다, helping to make the app better for You.</string>
-    <string name="dynamic_zoom">Dynamic map zooming</string>
-    <string name="watch_ad_for_extra">Wach Ad for Extra Features</string>
-    <string name="extras_unlock_until">Extras unlocked until <xliff:g id="time" example="18:30">%1$s</xliff:g></string>
-    <string name="watch_ad_for_extra_support">Watch ad to show Extra support</string>
+    <string name="data_collection_explained">구글 웹로그 분석의 규칙을 준수합니다, 데이터수집 허용으로 앱 개선에 도움을 주실 수 있습니다.</string>
+    <string name="dynamic_zoom">지도 크기 동적 확대/축소</string>
+    <string name="watch_ad_for_extra">특수 옵션들을 체험하기 위해 광고를 시청해보세요!</string>
+    <string name="extras_unlock_until">다음 기간까지 특수옵션이 잠금해제되었습니다!: <xliff:g id="time" example="18:30">%1$s</xliff:g></string>
+    <string name="watch_ad_for_extra_support">추가 지원을 위한 광고 시청</string>
 
 </resources>
