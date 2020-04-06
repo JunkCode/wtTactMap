@@ -3,54 +3,54 @@
     
     <string name="help_map_ctrl">지도 조정</string>
     <string name="text_help_map_ctrl">
-        <b>1</b> 자유모드\n
+        <b>1</b> 자유 시점\n
         <b>2</b> 비행기 시점\n
-        <b>3</b> 회전잠금\n
+        <b>3</b> 회전 잠금\n
         <b>4</b> 재설정\n
     </string>
     
-    <string name="help_prediction">경로예측</string>
+    <string name="help_prediction">경로 예측</string>
     <string name="text_help_prediction">
-        비행기의 경로를 10 초, 30초, 90 초 마다 계산합니다 (비행기의 속도와 방향에따라서 계산됩니다)
+        항공기의 10초, 30초, 90초 뒤의 경로를 예측합니다 (항공기의 속도/방향에 따라서 결정됩니다)
     </string>
     
     <string name="faq">문의</string>
     
-    <string name="faq_connection">연결중</string>
+    <string name="faq_connection">연결 중...</string>
     <string name="text_faq_con">
         <b>어떻게 연결하나요?</b>\n
-         \u00A0\u00A0 이 앱은 당신이 WarThunder 을 실행하고있는 컴퓨터의 IP 주소가 필요합니다, 당신의 IP 주소를 확인하는 방법을 보세요 : http://ip.junkcode.net \n\n
+         \u00A0\u00A0 WarThunder를 실행하고 있는 컴퓨터의 IP 주소가 필요합니다, IP 주소 확인은 이 웹사이트에서 참고하세요. : http://ip.junkcode.net \n\n
          
-        <b>이미 IP 주소를 입력했습니다. 하지만 계속 \"연결되지 않음\ 만 뜹니다"</b>\n
-         \u00A0\u00A0 그것은 아마 당신의 로컬 네트워크 문제일겁니다. 옆에있는 주소의 사이트에 들어가셔서 확인해보세요 http://ip.junkcode.net/help \n\n
+        <b>IP 주소를 입력하였습니다. 하지만 계속 \"연결 없음\" 만 표시됩니다."</b>\n
+         \u00A0\u00A0 로컬 네트워크 라우팅에 문제가 있을 것입니다. IP 주소 확인은 이 웹사이트에서 참고하세요. : http://ip.junkcode.net/help \n\n
          
-        <b>계속 \"연결되지 않음"\ 만 뜹니다</b>\n
-         \u00A0\u00A0 당신은 http://ip.junkcode.net/help 를 안읽어 보셨군요. 안그러신가요?
+        <b>계속 \"연결 없음"\ 만 표시됩니다</b>\n
+         \u00A0\u00A0 http://ip.junkcode.net/help 를 다시 읽어보세요.
          \n
     </string>
     
-    <string name="faq_extras">기타</string>
+    <string name="faq_extras">특수 옵션</string>
     <string name="text_faq_extra">   
-        <b>후원을 하였습니다. 하지만 아무 코드도 못받았군요</b>\n
-         \u00A0\u00A0 코드가 당신이 후원을한뒤 몆분후 당신이입력한 이메일로 발송되었을 것입니다, 만약 도착하지 않는다면 이곳으로 이메일을 보내주새요: support@junkcode.net \n\n
+        <b>후원을 하였지만, 아직 아무것도 못 받았습니다</b>\n
+         \u00A0\u00A0 입력하신 이메일로 코드가 발송되었을 것입니다. (보통 몇 분 이내에 처리됩니다) 만약 코드가 도착하지 않는다면 이메일을 보내주세요. : support@junkcode.net \n\n
          
-        <b>코드를 입력했습니다. 하지만 아무일도 안일어나네요</b>\n
-         \u00A0\u00A0 앱을 재시작 해보십시오 \n\n
+        <b>코드를 입력하였지만, 아무 일도 안 일어납니다.</b>\n
+         \u00A0\u00A0 앱을 재시작 해보세요. \n\n
         
     </string>
-    <string name="faq_improvement">앱의 개선점</string>
+    <string name="faq_improvement">앱 개선점</string>
     <string name="text_faq_improve">"  
-        <b>무언가가 마음에들지 않습니다</b>\n
-         \u00A0\u00A0 무었이 마음에 안들으셨는지 저희에게 알려주십시오! - https://github.com/JunkCode/wtTactMap \n\n
+        <b>마음에 들지 않는 부분이 있습니다.</b>\n
+         \u00A0\u00A0 무엇이 마음에 안 들으셨는지 이 웹사이트로 들어가셔서 알려주세요! - https://github.com/JunkCode/wtTactMap \n\n
          
         <b>오류를 발견하였습니다</b>\n
-         \u00A0\u00A0 이곳에 알려주십시오 : http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+         \u00A0\u00A0 이 웹사이트로 들어가셔서 알려주세요! : http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
          
-        <b>이 앱의 새로운 기능에대한 아이디어가 있습니다</b>\n
-         \u00A0\u00A0 새로운 아이디어를 이곳에 알려주십시오 - https://github.com/JunkCode/wtTactMap \n\n
+        <b>앱의 새로운 기능에 대한 아이디어가 있어요!</b>\n
+         \u00A0\u00A0 앱에 관해서 새로운 아이디어가 있으신가요? 이 웹사이트로 들어가셔서 알려주세요! - https://github.com/JunkCode/wtTactMap \n\n
          
         <b>번역을 돕고싶습니다/icons/...</b>\n
-         \u00A0\u00A0 이미 약간의 리소스들이 이곳에 있습니다 : http://github.com/JunkCode/wtTactMap 당신은 번역을 개선하거나 추가하실수 있습니다. 혹시 저희에게 물어보실것이 있거나 다른 아이디어가 있으시다면 저희에게 알려주십시오 - https://github.com/JunkCode/wtTactMap \n\n
+         \u00A0\u00A0 이미 번역되어있는 것들이 있습니다. : http://github.com/JunkCode/wtTactMap 혹시 번역에 의견이 있으시면 참가해주세요! 만약 다른 아이디어나 질문이 있으시다면, 이 웹사이트로 들어가셔서 알려주세요! - https://github.com/JunkCode/wtTactMap \n\n
           
     </string>
     
